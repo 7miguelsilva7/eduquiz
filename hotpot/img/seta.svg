@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="55.46875"
+   height="37.71875"
+   sodipodi:docname="seta.svg"
+   inkscape:export-filename="/opt/lampp/htdocs/hotpot/img/back.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="9.4015324"
+     inkscape:cx="22.301052"
+     inkscape:cy="16.879059"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.08803403;stroke-opacity:1"
+     d="M 23.367786,36.366741 C 22.489086,36.328401 21.70065,36.254183 21.615704,36.201813 21.232006,35.965272 1.9912256,19.856845 1.9439196,19.732549 c -0.02929,-0.07695 -0.08646,-0.45262 -0.127059,-0.834813 L 1.7430506,18.202842 11.6924,9.6587384 c 5.472146,-4.6992556 10.03603,-8.5669567 10.141969,-8.5948885 0.105938,-0.027938 1.06879,0.029503 2.139673,0.1276385 l 1.94706,0.1784255 1.11496,0.7641316 c 0.613228,0.4202732 1.288608,0.8865275 1.500841,1.0361213 0.299278,0.2109476 0.494374,0.5122698 0.869306,1.3426313 0.265886,0.588853 0.512398,1.146901 0.547805,1.2401082 0.04805,0.1264776 -1.35174,1.3184205 -5.518094,4.6987587 -3.07036,2.491109 -5.989145,2.420927 -5.966175,2.444085 10.650813,0.466252 16.229845,-1.087565 30.313385,0.01 l 2.768142,3.817762 2.449046,1.903177 -0.288424,0.352859 c -0.158632,0.194071 -0.981292,1.119966 -1.828131,2.057543 -0.985609,1.326094 -1.590888,2.773559 -3.132867,2.723739 -10.498776,1.503257 -19.576858,0.491633 -29.567529,0.799028 1.278787,1.205772 1.882541,-0.636634 4.698047,1.495894 2.815506,2.13253 5.196682,3.939237 5.2915,4.014907 0.156031,0.124524 0.160323,0.308432 0.0452,1.937269 l -0.127191,1.799685 -1.317853,1.331942 -1.317856,1.331942 -0.7449,-0.01751 c -0.409696,-0.0097 -1.463837,-0.04886 -2.342535,-0.08721 z"
+     id="path3763"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/opt/lampp/htdocs/hotpot/img/go.png"
+     inkscape:export-xdpi="24"
+     inkscape:export-ydpi="24"
+     sodipodi:nodetypes="cccscscscssscsccccscccssscccccc" />
+</svg>
