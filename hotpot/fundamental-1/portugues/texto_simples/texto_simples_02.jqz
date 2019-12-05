@@ -5,12 +5,12 @@
   <rdf:Description rdf:about="">
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
-    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</dc:title>
+    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</title>
+<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -21,206 +21,38 @@
 
 </reading>
 
-<questions><question-record><question>Leia o texto abaixo.
+<questions><question-record><question>(PAEBES). Leia o texto abaixo.
 
-&amp;#x003C;b&amp;#x003E;O disfarce dos bichos&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;b&amp;#x003E;O colecionador de borboletas&amp;#x003C;/b&amp;#x003E;
 
-Voc&amp;#x00EA; j&amp;#x00E1; tentou pegar um galhinho seco e ele virou bicho, abriu asas e voou? Se isso aconteceu &amp;#x00E9; porque o graveto era um inseto conhecido como &amp;#x201C;bicho-pau&amp;#x201D;. Ele &amp;#x00E9; t&amp;#x00E3;o parecido com o galhinho, que pode ser confundido com o graveto.
 
-Existem lagartas que se parecem com raminhos de plantas. E h&amp;#x00E1; grilos que imitam folhas. Muitos animais ficam com a cor e a forma dos lugares em que est&amp;#x00E3;o. Eles fazem isso para se defender dos inimigos ou capturar outros bichos que servem de alimento. Esses truques s&amp;#x00E3;o chamados de mimetismo, isto &amp;#x00E9;, imita&amp;#x00E7;&amp;#x00E3;o.
+Era uma vez um homem que morava numa torre muito alta, no meio de uma floresta, longe de qualquer outra casa.
 
-O cientista ingl&amp;#x00EA;s Henry Walter Bates foi quem descobriu o mimetismo. Ele passou 11 anos na selva amaz&amp;#x00F4;nica estudando os animais.
+Da sua torre, em dias muito claros, ele podia avistar a cidade vizinha, cheia de casas e pessoas.
 
-MAVIAEL MONTEIRO, Jos&amp;#x00E9;. Bichos que usam disfarces para defesa. FOLHINHA, 6 NOV. 1993.
+Se olhasse para baixo, podia ver as copas das &amp;#x00E1;rvores... Mas ele nunca pensava em &amp;#x00E1;rvores, nem em pessoas. Seu pensamento estava sempre voltado para uma s&amp;#x00F3; coisa... borboletas.
 
-&amp;#x003C;b&amp;#x003E;O bicho-pau se parece com:&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>florzinha seca.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>folha verde.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>galhinho seco.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>raminho de planta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question> (SAERS). Leia o texto abaixo.
+Sempre &amp;#x00E0; procura de novos esp&amp;#x00E9;cimes, a &amp;#x00FA;nica coisa que o interessava era apanhar sua rede e aventurar-se no cora&amp;#x00E7;&amp;#x00E3;o do bosque solit&amp;#x00E1;rio.
 
-&amp;#x003C;b&amp;#x003E;Pra dar no p&amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
+TESTA, F&amp;#x00FA;lvio. O colecionador de borboletas. S&amp;#x00E3;o Paulo: Melhoramentos, 1978. Fragmento.
 
-Pedro Ant&amp;#x00F4;nio de Oliveira
 
-Da varanda l&amp;#x00E1; de casa, eu a avistava: linda, exuberante e charmosa. Nela moravam: bem-te-vi, pintassilgo, pombo, juriti, marimbondo e formiga alpinista.
+&amp;#x003C;b&amp;#x003E;O homem morava&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>na cidade.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>na fazenda.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>na floresta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>no parque.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo e responda &amp;#x00E0; quest&amp;#x00E3;o.
 
-Papagaio de seda tamb&amp;#x00E9;m! Desses do m&amp;#x00EA;s de julho que, em vez de ficar requebrando no c&amp;#x00E9;u, decidem embara&amp;#x00E7;ar a rabiola nos galhos mais altos e ficar por ali mesmo.
 
-Teve um que gostou tanto de morar na &amp;#x00E1;rvore que nunca mais foi embora.
+&amp;#x003C;b&amp;#x003E;Caipora&amp;#x003C;/b&amp;#x003E;
 
-No meio do ano, come&amp;#x00E7;avam a aparecer pequenas flores naquele p&amp;#x00E9; de manga.
 
-Os frutos s&amp;#x00F3; chegavam em meados de dezembro. As chuvas do fim de tarde, muitas vezes, aprontavam: jogavam no ch&amp;#x00E3;o as suculentas frutas. Umas se esborrachavam feio na lama. A dona Tina, na manh&amp;#x00E3; seguinte, distribu&amp;#x00ED;a tudo entre a vizinhan&amp;#x00E7;a.
+&amp;#x00C9; um Mito do Brasil que os &amp;#x00ED;ndios j&amp;#x00E1; conheciam desde a &amp;#x00E9;poca do descobrimento. &amp;#x00CD;ndios e Jesu&amp;#x00ED;tas o chamavam de Cai&amp;#x00E7;ara, o protetor da ca&amp;#x00E7;a e das matas.
 
-Era bom...
+Seus p&amp;#x00E9;s voltados para tr&amp;#x00E1;s servem para despistar os ca&amp;#x00E7;adores, deixando-os sempre a seguir rastros falsos. Quem o v&amp;#x00EA;, perde totalmente o rumo, e n&amp;#x00E3;o sabe achar o caminho de volta. &amp;#x00C9; imposs&amp;#x00ED;vel captur&amp;#x00E1;-lo. Para atrair suas v&amp;#x00ED;timas, ele, &amp;#x00E0;s vezes, chama as pessoas com gritos que imitam a voz humana. &amp;#x00C9; tamb&amp;#x00E9;m chamado de pai ou M&amp;#x00E3;e-do-mato, Curupira e Caapora. Para os &amp;#x00ED;ndios Guaranis, ele &amp;#x00E9; o Dem&amp;#x00F4;nio da Floresta. &amp;#x00C0;s vezes &amp;#x00E9; visto montando um porco do mato.
 
-Revista CHC, n. 197, p.19, dez. 2008. Fragmento.
+http://www.arteduca&amp;#x00E7;&amp;#x00E3;o.pro.br
 
 
-&amp;#x003C;b&amp;#x003E;As frutas da &amp;#x00E1;rvore eram jogadas no ch&amp;#x00E3;o&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>pela dona Tina.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pelas chuvas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pela lama.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pelos vizinhos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
-
-&amp;#x003C;b&amp;#x003E;PARCERIA PERFEITA&amp;#x003C;/b&amp;#x003E;
-
-Nos desenhos animados, quando um personagem se irrita com o irm&amp;#x00E3;o, basta inventar um foguete e mand&amp;#x00E1;-lo para o espa&amp;#x00E7;o ou ent&amp;#x00E3;o blindar o quarto para impedir a entrada do &amp;#x201C;chatonildo&amp;#x201D;.
-
-Mas no mundo real n&amp;#x00E3;o &amp;#x00E9; assim... Ainda bem! Ou voc&amp;#x00EA; gostaria que seu irm&amp;#x00E3;o o enviasse para outra gal&amp;#x00E1;xia?
-
-No dia a dia, n&amp;#x00E3;o h&amp;#x00E1; her&amp;#x00F3;is ou vil&amp;#x00F5;es e, de repente, o chato pode ser voc&amp;#x00EA;! Afinal, pessoas diferentes quase nunca t&amp;#x00EA;m as mesmas opini&amp;#x00F5;es e prefer&amp;#x00EA;ncias.
-
-Voc&amp;#x00EA; e seus irm&amp;#x00E3;os podem at&amp;#x00E9; brigar de vez em quando por causa disso, mas &amp;#x00E9; importante que um respeite as ideias do outro e que ningu&amp;#x00E9;m termine o dia chateado.
-
-At&amp;#x00E9; quem n&amp;#x00E3;o tem irm&amp;#x00E3;os, &amp;#x00E0;s vezes, enfrenta problemas parecidos com primos ou amigos. E a&amp;#x00ED; vale a mesma sugest&amp;#x00E3;o: tente se colocar no lugar do outro e respeite as diferen&amp;#x00E7;as de opini&amp;#x00E3;o.
-
-Recreio. n. 490.
-
-De acordo com esse texto, em caso de briga entre irm&amp;#x00E3;os, &amp;#x00E9; importante
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>enviar o irm&amp;#x00E3;o para o espa&amp;#x00E7;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>perder a paci&amp;#x00EA;ncia e explodir.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>respeitar as ideias do outro.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>terminar o dia chateado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
-
-&amp;#x003C;b&amp;#x003E;A tartaruga e a lebre&amp;#x003C;/b&amp;#x003E;
-
-&amp;#x2013; Vamos apostar quem chega primeiro l&amp;#x00E1; onde fica aquela &amp;#x00E1;rvore? &amp;#x2013; perguntou a tartaruga &amp;#x00E0; lebre.
-
-A lebre riu dela:
-
-&amp;#x2013; Voc&amp;#x00EA; est&amp;#x00E1; louca? Vagarosa como voc&amp;#x00EA; &amp;#x00E9;! Est&amp;#x00E1; se lembrando que sou um dos animais mais r&amp;#x00E1;pidos que existem?
-
-&amp;#x2013; Estou, sim. E continuo apostando.
-
-A lebre sabia que era capaz de chegar at&amp;#x00E9; a &amp;#x00E1;rvore em quatro pulos.
-
-&amp;#x2013; Est&amp;#x00E1; bem. Depois n&amp;#x00E3;o diga que n&amp;#x00E3;o avisei.
-
-Combinaram um pr&amp;#x00EA;mio e a lebre deixou a tartaruga partir.
-
-Pastou, escutou de que lado vinha o vento, dormiu &amp;#x2013; e enquanto isso a tartaruga ia indo, no seu passo solene. Tinha consci&amp;#x00EA;ncia de sua lentid&amp;#x00E3;o e, por isso, n&amp;#x00E3;o parava de andar.
-
-&amp;#x2013; Essa aposta &amp;#x00E9; indigna dos meus dotes &amp;#x2013; pensava a lebre.
-
-&amp;#x2013; Para a vit&amp;#x00F3;ria ter algum valor, s&amp;#x00F3; saindo no &amp;#x00FA;ltimo instante.
-
-Afinal, quando a tartaruga estava quase chegando ao fim combinado, partiu como uma flecha.
-
-Tarde demais. Quando chegou, a tartaruga j&amp;#x00E1; estava l&amp;#x00E1;. Teve que lhe entregar o pr&amp;#x00EA;mio e, por cima, dar os parab&amp;#x00E9;ns.
-
-&amp;#x003C;b&amp;#x003E;Mais vale um trabalho persistente do que dotes naturais mal aproveitados.&amp;#x003C;/b&amp;#x003E;
-
-G&amp;#x00C4;RTNER, Hans; ZWERGER, Lisbeth. 12 f&amp;#x00E1;bulas de Esopo. S&amp;#x00E3;o Paulo: &amp;#x00C1;tica, 1999.
-
-No final da hist&amp;#x00F3;ria,
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a lebre perdeu por quatro pulos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a tartaruga chegou tarde demais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a lebre se esqueceu do pr&amp;#x00EA;mio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a tartaruga venceu a aposta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
-
-H&amp;#x00E1; alguns animais que se fingem de mortos. Em vez de correr ou lutar contra o inimigo, eles se deitam im&amp;#x00F3;veis, parecendo mortos. Isso confunde muitos predadores, que preferem se alimentar de animais vivos. Esse tipo de comportamento dos gamb&amp;#x00E1;s norte-americanos deu origem &amp;#x00E0; express&amp;#x00E3;o &amp;#x201C;brincar de morrer&amp;#x201D;. Quando atacados, eles mancam, caem e rolam no ch&amp;#x00E3;o, fecham os olhos e ficam com a l&amp;#x00ED;ngua para fora o tempo suficiente para afugentar a maioria de seus inimigos!
-
-(O mundo da natureza &amp;#x2013; fatos incr&amp;#x00ED;veis.. S&amp;#x00E3;o Paulo, Melhoramentos)
-
-&amp;#x003C;b&amp;#x003E;Os gamb&amp;#x00E1;s norte-americanos quando atacados:&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>correm, lutam e rolam no ch&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>brincam, rolam e caem no ch&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>rolam, pulam e lutam no ch&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>mancam, caem e rolam no ch&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo e responda.
-
-&amp;#x003C;b&amp;#x003E;O MACACO E A VELHA&amp;#x003C;/b&amp;#x003E;
-
-Havia uma velha, muito velha, chamada Marocas. Ela possu&amp;#x00ED;a um lindo bananal.
-
-Mas a coitadinha da velha comia poucas bananas, pois havia um macaco que lhe roubava todas.
-
-Um dia, Marocas, cansada de ser roubada, teve uma ideia. Comprou no armaz&amp;#x00E9;m v&amp;#x00E1;rios quilos de alcatr&amp;#x00E3;o e com ele fez um boneco. Colocou-o num grande tabuleiro e o levou para o meio do bananal, pensando em dar uma li&amp;#x00E7;&amp;#x00E3;o no macaco.
-
-Logo que Marocas voltou para casa, l&amp;#x00E1; veio o macaco Sim&amp;#x00E3;o de mansinho.
-
-Quando avistou o boneco, zangou-se pensando que ele lhe roubava as bananas.
-
-O macaco, muito zangado, deu-lhe uns sopapos, ficando com a m&amp;#x00E3;o grudada no alcatr&amp;#x00E3;o. Deu-lhe um pontap&amp;#x00E9;. Ficou preso no boneco tamb&amp;#x00E9;m o seu p&amp;#x00E9;. O macaco deu, ent&amp;#x00E3;o, uma cabe&amp;#x00E7;ada e ficou todinho grudado.
-
-Marocas, saindo do barraco, pegou o chicote e surrou o macaco e s&amp;#x00F3; parou, quando Sim&amp;#x00E3;o, dando tr&amp;#x00EA;s pulos, desgrudou-se do alcatr&amp;#x00E3;o e fugiu. Certa manh&amp;#x00E3;, Sim&amp;#x00E3;o teve uma ideia para se vingar da velha Marocas. Ele entrou numa pele de le&amp;#x00E3;o que encontrou na floresta. Pulou o muro da cada da velha e escondeu-se no bananal.
-
-Quando a velha apareceu, Sim&amp;#x00E3;o soltou um urro terr&amp;#x00ED;vel e deu-lhe um bote. A velha gritou e tentou fugir, mas, naquele alvoro&amp;#x00E7;o, caiu bem no fundo do po&amp;#x00E7;o que havia no quintal.
-
-O macaco, vendo o perigo que ela corria, ficou muito triste, pois queria assust&amp;#x00E1;-la, mas n&amp;#x00E3;o mat&amp;#x00E1;-la. Saiu bem r&amp;#x00E1;pido de dentro da pele e, olhando em volta, subiu num p&amp;#x00E9; de jamel&amp;#x00E3;o, pegou num galho bem grosso e espichou bem o rabo at&amp;#x00E9; o fundo do po&amp;#x00E7;o.
-
-Os gritos chamaram a aten&amp;#x00E7;&amp;#x00E3;o dos vizinhos que, chegando ao bananal, surpreenderam-se com a cena.
-
-O macaco fazendo for&amp;#x00E7;a, trazendo Marocas dependurada no seu rabo. Depois desse dia, as coisas mudaram, Marocas e o macaco ficaram amigos. Era uma beleza! Ela, em vez de pancadas, dava-lhe bananas e doces.
-
-CAPPELLI, Alba; DIAS, Dora. O macaco e a velha. Cole&amp;#x00E7;&amp;#x00E3;o Lua de Papel. FTD. &amp;#x201C;Adaptado: Reforma ortogr&amp;#x00E1;fica.
-
-
-&amp;#x003C;b&amp;#x003E;Onde Marocas colocou o boneco de alcatr&amp;#x00E3;o?&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Em um armaz&amp;#x00E9;m.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Em um po&amp;#x00E7;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>No bananal.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>No barraco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo e responda.
-
-QUANDO OS VIL&amp;#x00D5;ES SE ENCONTRAM
-
-Estavam todos l&amp;#x00E1;. Pense num, em qualquer um e ele estava l&amp;#x00E1;. O Capit&amp;#x00E3;o Gancho? L&amp;#x00E1;. A madrasta e as irm&amp;#x00E3;s de Cinderela? L&amp;#x00E1;. A Rainha Malvada da Branca de Neve? Tamb&amp;#x00E9;m. A Bruxa M&amp;#x00E1; do Oeste? &amp;#x00C9; claro que estava l&amp;#x00E1;!
-
-E isso sem falar em Dick Vigarista, Freddy Krueger, Coringa, Darth Vader, Mancha Negra, Lex Luthor, Cavaleiro Negro e mais algumas bruxas, uns drag&amp;#x00F5;es e outros monstros.
-
-Era a Reuni&amp;#x00E3;o Universal dos Inimigos Malvados, a R.U.I.M.
-
-Todos chegaram &amp;#x00E0; meia-noite em ponto ao Sal&amp;#x00E3;o Negro do Castelo das Assombra&amp;#x00E7;&amp;#x00F5;es.
-
-O Lobo Mau, que era o presidente da associa&amp;#x00E7;&amp;#x00E3;o, tomou a palavra e disse:
-
-&amp;#x2013; Caros vil&amp;#x00F5;es, estamos aqui reunidos por um motivo muito importante: ningu&amp;#x00E9;m respeita nossos direitos. Em todos os finais de hist&amp;#x00F3;ria n&amp;#x00F3;s apanhamos e perdemos, sempre. Basta! Precisamos lutar contra isso. Precisamos virar a mesa, certo?
-
-Nova Escola, ano XXIII, n. 213, p. 116, jun/jul 2008. Fragmento.
-
-
-&amp;#x003C;b&amp;#x003E;De acordo com esse texto, o presidente da associa&amp;#x00E7;&amp;#x00E3;o dos vil&amp;#x00F5;es era&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Dick Vigarista.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Cavaleiro Negro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Capit&amp;#x00E3;o Gancho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Lobo Mau.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
-
-&amp;#x003C;b&amp;#x003E;O URSO E AS ABELHAS&amp;#x003C;/b&amp;#x003E;
-
-
-Um urso topou com uma &amp;#x00E1;rvore ca&amp;#x00ED;da que servia de dep&amp;#x00F3;sito de mel para um enxame de abelhas.
-
-Come&amp;#x00E7;ou a farejar o tronco quando uma das abelhas do enxame voltou do campo de trevos. Adivinhando o que ele queria, deu uma picada daquelas no urso e depois desapareceu no buraco do tronco.
-
-O urso ficou louco de raiva e se p&amp;#x00F4;s a arranhar o tronco com as garras na esperan&amp;#x00E7;a de destruir a colm&amp;#x00E9;ia. A &amp;#x00FA;nica coisa que conseguiu foi fazer o enxame inteiro sair atr&amp;#x00E1;s dele.
-
-O urso fugiu a toda velocidade e s&amp;#x00F3; se salvou porque mergulhou de cabe&amp;#x00E7;a num lago.
-
-
-F&amp;#x00E1;bulas de Esopo. Compila&amp;#x00E7;&amp;#x00E3;o de Russel Ash e Bernard Higton; tradu&amp;#x00E7;&amp;#x00E3;o de Heloisa Jahn, S&amp;#x00E3;o Paulo, Companhia das Letrinhas, 1994. p. 24. * Adaptado: Reforma Ortogr&amp;#x00E1;fica.
-
-
-&amp;#x003C;b&amp;#x003E;Como o urso conseguiu se salvar do enxame de abelhas?&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Mergulhou de cabe&amp;#x00E7;a num lago.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Fugiu do enxame a toda velocidade.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Arranhou o tronco da &amp;#x00E1;rvore.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Topou com um tronco no caminho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PAEBES). Leia o texto abaixo.
-
-&amp;#x003C;b&amp;#x003E;ELA &amp;#x00C9; SUPER&amp;#x003C;/b&amp;#x003E;
-
-Conhe&amp;#x00E7;a as habilidades da on&amp;#x00E7;a-pintada e saiba mais sobre esse felino.
-
-Capaz de se disfar&amp;#x00E7;ar na mata, andar com leveza, escalar &amp;#x00E1;rvores altas e atravessar rios, a on&amp;#x00E7;a parece ter os poderes de invisibilidade de um guerreiro ninja. Ela usa todas essas habilidades para ca&amp;#x00E7;ar e se proteger. Costuma ser mais ativa quando o sol se p&amp;#x00F5;e e pode ca&amp;#x00E7;ar &amp;#x00E0; noite, pois enxerga bem no escuro e tem audi&amp;#x00E7;&amp;#x00E3;o e olfato agu&amp;#x00E7;ados.
-
-Como tem pernas curtas, ela n&amp;#x00E3;o corre. Se esconde, segue a presa sem ser percebida e ataca saltando de um galho ou do meio da mata de repente, com uma mordida mais forte do que a de felinos maiores.
-
-Revista Recreio. S&amp;#x00E3;o Paulo: Abril, n.487, p.20, 9 de jul. 2009. Fragmento.
-
-
-&amp;#x003C;b&amp;#x003E;De acordo com esse texto, a on&amp;#x00E7;a-pintada usa suas habilidades para&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>agu&amp;#x00E7;ar o olfato.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ca&amp;#x00E7;ar e se proteger.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>enxergar no escuro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ficar invis&amp;#x00ED;vel.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
-
-&amp;#x003C;b&amp;#x003E;SONHO REAL&amp;#x003C;/b&amp;#x003E;
-
-
-&amp;#x2014; M&amp;#x00E3;e, eu quero ser rei, amado por todo mundo.
-
-Com muita fama e muito dinheiro.
-
-Quando n&amp;#x00E3;o estiver reinando, apare&amp;#x00E7;o na tev&amp;#x00EA;, nos jornais e nas revistas, dou entrevista, fa&amp;#x00E7;o comercial, gravo disco e jogo na Sele&amp;#x00E7;&amp;#x00E3;o.
-
-&amp;#x2014; Rei administra o seu povo e n&amp;#x00E3;o fica s&amp;#x00F3; no oba-oba, meu filho.
-
-E, depois, nem tem rei mais, quase d&amp;#x00F3; presidentes ...
-
-&amp;#x2014; Xi! J&amp;#x00E1; vi que voc&amp;#x00EA; ta boiando! ...
-
-N&amp;#x00E3;o quero ser rei da p&amp;#x00E1;tria, n&amp;#x00E3;o quero nada disso.
-
-Quero ser um rei mais importante quero ser rei do futebol!!.
-
-JOS&amp;#x00C9;, Elias. Segredinhos de amor. S&amp;#x00E3;o Paulo: Moderna, 1991, p. 18
-
-
-&amp;#x003C;b&amp;#x003E;Que tipo de rei quer ser o personagem do texto?&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>O rei do disco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O rei da p&amp;#x00E1;tria.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O rei do mundo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O rei do futebol.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+&amp;#x003C;b&amp;#x003E;De acordo com esse texto, os p&amp;#x00E9;s voltados para tr&amp;#x00E1;s da Caipora sevem para &amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
