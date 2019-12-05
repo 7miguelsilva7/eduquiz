@@ -60,8 +60,8 @@
 <exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
 <keypad-characters></keypad-characters>
 <times-up>Your time is over!</times-up>
-<next-ex-caption>&amp;#x003C;img src=&quot;../../../eduquiz/hotpot/img/go.png&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
-<back-caption>&amp;#x003C;img src=&quot;../../../eduquiz/hotpot/img/back.png&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
 <contents-caption>Index</contents-caption>
 <include-next-ex>1</include-next-ex>
 <include-contents>1</include-contents>
@@ -87,8 +87,8 @@
 <correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
 <check-caption>Verifica</check-caption>
 <ok-caption>OK</ok-caption>
-<next-q-caption>&amp;#x003C;img src=&quot;../../../eduquiz/hotpot/img/go.png&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
-<last-q-caption>&amp;#x003C;img src=&quot;../../../eduquiz/hotpot/img/back.png&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
 <hint-caption>Sugest&amp;#x00E3;o</hint-caption>
 <show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
 <show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
