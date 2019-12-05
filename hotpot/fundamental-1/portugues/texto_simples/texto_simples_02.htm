@@ -6,13 +6,14 @@
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
 <meta name="DC:Creator" content="Eduquiz" />
 <meta name="DC:Creator" content="Alexandre" />
-<meta name="DC:Title" content="&#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&#x00E7;&#x00E3;o Tecnol&#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&#x003E;&#x0026;nbsp;&#x0026;nbsp;&#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&#x003E;&#x003C;br&#x003E;ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTO&#x003C;br&#x003E;FUND. I - DISCIPLINA - CATEGORIA" />
+<meta name="DC:Title" content="&#x003C;div class=&quot;01&quot; style=&quot;display:inline-block;width: 20%;float: left;&quot;&#x003E;&#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&#x00E7;&#x00E3;o Tecnol&#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&#x003E;
+&#x003C;/div&#x003E;&#x003C;div class=&quot;02&quot; style=&quot;width: 60%; float: left; display: inline-block;&quot;&#x003E;ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTO&#x003C;br&#x003E;FUND. I - PORTUGU&#x00CA;S - TEXTO SIMPLES 02&#x003C;/div&#x003E;&#x003C;div class=&quot;03&quot; style=&quot;width: 20%; display: inline-block;&quot;&#x003E;&#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&#x003E;&#x003C;/div&#x003E;" />
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
 
 <title>
-&nbsp;&nbsp;ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTOFUND. I - DISCIPLINA - CATEGORIA
+ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTOFUND. I - PORTUGU&#x00CA;S - TEXTO SIMPLES 02
 </title>
 
 <!-- Made with executable version 6.3 Release 0 Build 5 -->
@@ -1079,8 +1080,8 @@ function Finish(){
 //JQUIZ CORE JAVASCRIPT CODE
 
 var CurrQNum = 0;
-var CorrectIndicator = '<img src="../../../eduquiz/hotpot/img/certo.gif" alt="certo.gif" title="certo" width="50" height="50">';
-var IncorrectIndicator = '<img src="../../../eduquiz/hotpot/img/errado.gif" alt="errado.gif" title="errado" width="50" height="36">';
+var CorrectIndicator = '<img src="../../../img/certo.gif" alt="certo.gif" title="certo" width="50" height="50">';
+var IncorrectIndicator = '<img src="../../../img/errado.gif" alt="errado.gif" title="errado" width="50" height="36">';
 var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9; ';
 
 //New for 6.2.2.0
@@ -1095,7 +1096,7 @@ var ShuffleQs = false;
 var ShuffleAs = false;
 var DefaultRight = 'Correto!';
 var DefaultWrong = 'Desculpe! Tente novamente.';
-var QsToShow = 0;
+var QsToShow = 2;
 var Score = 0;
 var Finished = false;
 var Qs = null;
@@ -1278,6 +1279,19 @@ function SetQNumReadout(){
 }
 
 var I=new Array();
+I[0]=new Array();I[0][0]=100;
+I[0][1]='';
+I[0][2]='0';
+I[0][3]=new Array();
+I[0][3][0]=new Array('na cidade.','',0,0,1);
+I[0][3][1]=new Array('na fazenda.','',0,0,1);
+I[0][3][2]=new Array('na floresta.','',1,100,1);
+I[0][3][3]=new Array('no parque.','',0,0,1);
+I[1]=new Array();I[1][0]=100;
+I[1][1]='';
+I[1][2]='0';
+I[1][3]=new Array();
+I[1][3][0]=new Array('','',1,100,1);
 
 
 function StartUp(){
@@ -1296,7 +1310,7 @@ function StartUp(){
 
 	
 
-	PreloadImages('../../../eduquiz/hotpot/img/certo.gif','../../../eduquiz/hotpot/img/errado.gif','../../../eduquiz/hotpot/img/go.png','../../../img/aet_logo_2017.png','../../../img/eduquiz_logo.png','../../../eduquiz/hotpot/img/back.png');
+	PreloadImages('../../../img/certo.gif','../../../img/errado.gif','../../../img/aet_logo_2017.png','../../../img/eduquiz_logo.png','../../../img/back_02.png','../../../img/go_02.png');
 
 	
 	CompleteEmptyFeedback();
@@ -1366,6 +1380,168 @@ function CreateStatusArray(){
 		else{
 			State[QNum] = null;
 		}
+	}
+}
+
+
+
+function CheckMCAnswer(QNum, ANum, Btn){
+//if question doesn't exist, bail
+	if (State[QNum].length < 1){return;}
+	
+//Get the feedback
+	Feedback = I[QNum][3][ANum][1];
+	
+//Now show feedback and bail if question already complete
+	if (State[QNum][0] > -1){
+//Add an extra message explaining that the question
+// is finished if defined by the user
+		if (strQuestionFinished.length > 0){Feedback += '<br />' + strQuestionFinished;}
+//Show the feedback
+		ShowMessage(Feedback);
+//New for 6.2.2.1: If you want to mark an answer as correct even when it's the final choice, uncomment this line.
+//		if (I[QNum][3][ANum][2] >= 1){Btn.innerHTML = CorrectIndicator;}else{Btn.innerHTML = IncorrectIndicator;}	
+		return;
+	}
+	
+//Hide the button while processing
+	Btn.style.display = 'none';
+
+//Increment the number of tries
+	State[QNum][2]++;
+	
+//Add the percent-correct value of this answer
+	State[QNum][3] += I[QNum][3][ANum][3];
+	
+//Store the try number in the answer part of the State array, for tracking purposes
+	State[QNum][1][ANum] = State[QNum][2];
+	if (State[QNum][5].length > 0){State[QNum][5] += ' | ';}
+	State[QNum][5] += String.fromCharCode(65+ANum);
+	
+//Should this answer be accepted as correct?
+	if (I[QNum][3][ANum][2] < 1){
+//It's wrong
+
+//Mark the answer
+		Btn.innerHTML = IncorrectIndicator;
+		
+//Remove any previous score unless exercise is finished (6.0.3.8+)
+		if (Finished == false){
+			WriteToInstructions(strInstructions);
+		}	
+		
+//Check whether this leaves just one MC answer unselected, in which case the Q is terminated
+		var RemainingAnswer = FinalAnswer(QNum);
+		if (RemainingAnswer > -1){
+//Behave as if the last answer had been selected, but give no credit for it
+//Increment the number of tries
+			State[QNum][2]++;		
+		
+//Calculate the score for this question
+			CalculateMCQuestionScore(QNum);
+			
+//Get the overall score and add it to the feedback
+			CalculateOverallScore();
+//New for 6.2.2.1
+			var QsDone = CheckQuestionsCompleted();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
+			}
+			else{
+				WriteToInstructions(QsDone);
+			}
+		}
+	}
+	else{
+//It's right
+//Mark the answer
+		Btn.innerHTML = CorrectIndicator;
+				
+//Calculate the score for this question
+		CalculateMCQuestionScore(QNum);
+		
+//New for 6.2.2.0
+		var QsDone = CheckQuestionsCompleted();
+
+//Get the overall score and add it to the feedback
+		if (ContinuousScoring == true){
+			CalculateOverallScore();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
+			}
+		}
+		else{
+			WriteToInstructions(QsDone);
+		}
+	}
+	
+//Show the button again
+	Btn.style.display = 'inline';
+	
+//Finally, show the feedback	
+	ShowMessage(Feedback);
+	
+//Check whether all questions are now done
+	CheckFinished();
+}
+
+function CalculateMCQuestionScore(QNum){
+	var Tries = State[QNum][2] + State[QNum][4]; //include tries and hint penalties
+	var PercentCorrect = State[QNum][3];
+	var TotAns = GetTotalMCAnswers(QNum);
+	var HintPenalties = State[QNum][4];
+	
+//Make sure it's not already complete
+
+	if (State[QNum][0] < 0){
+//Allow for Hybrids
+		if (HintPenalties >= 1){
+			State[QNum][0] = 0;
+		}
+		else{
+//This line calculates the score for this question
+			if (TotAns == 1){
+				State[QNum][0] = 1;
+			}
+			else{
+				State[QNum][0] = ((TotAns-((Tries*100)/State[QNum][3]))/(TotAns-1));
+			}
+		}
+//Fix for Safari bug added for version 6.0.3.42 (negative infinity problem)
+		if ((State[QNum][0] < 0)||(State[QNum][0] == Number.NEGATIVE_INFINITY)){
+			State[QNum][0] = 0;
+		}
+	}
+}
+
+function GetTotalMCAnswers(QNum){
+	var Result = 0;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			Result++;
+		}
+	}
+	return Result;
+}
+
+function FinalAnswer(QNum){
+	var UnchosenAnswers = 0;
+	var FinalAnswer = -1;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			if (State[QNum][1][ANum] < 1){ //This answer hasn't been chosen yet
+				UnchosenAnswers++;
+				FinalAnswer = ANum;
+			}
+		}
+	}
+	if (UnchosenAnswers == 1){
+		return FinalAnswer;
+	}
+	else{
+		return -1;
 	}
 }
 
@@ -1504,8 +1680,6 @@ function CheckFinished(){
 
 
 
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='proxima.htm'; return false;"><img src="../../../eduquiz/hotpot/img/go.png" alt="pr&#x00F3;xima quest&#x00E3;o" title="pr&#x00F3;xima quest&#x00E3;o"></button>
-
 
 </div>
 
@@ -1514,7 +1688,7 @@ function CheckFinished(){
 <!-- EndTopNavButtons -->
 
 <div class="Titles">
-	<h2 class="ExerciseTitle"><img src="../../../img/aet_logo_2017.png" alt="Articuladores de Educa&#x00E7;&#x00E3;o Tecnol&#x00F3;gica" width="148" height="72">&nbsp;&nbsp;<img src="../../../img/eduquiz_logo.png" alt="Eduquiz" width="148" height="72"><br>ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTO<br>FUND. I - DISCIPLINA - CATEGORIA</h2>
+	<h2 class="ExerciseTitle"><div class="01" style="display:inline-block;width: 20%;float: left;"><img src="../../../img/aet_logo_2017.png" alt="Articuladores de Educa&#x00E7;&#x00E3;o Tecnol&#x00F3;gica" width="148" height="72"><br /></div><div class="02" style="width: 60%; float: left; display: inline-block;">ATIVIDADES DE INTERPRETA&#x00C7;&#x00C3;O DE TEXTO<br>FUND. I - PORTUGU&#x00CA;S - TEXTO SIMPLES 02</div><div class="03" style="width: 20%; display: inline-block;"><img src="../../../img/eduquiz_logo.png" alt="Eduquiz" width="148" height="72"></div></h2>
 
 
 
@@ -1536,17 +1710,19 @@ function CheckFinished(){
 </p>
 
 <div id="OneByOneReadout">
-<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;"><img src="../../../eduquiz/hotpot/img/back.png" alt="quest&#x00E3;o anterior" title="quest&#x00E3;o anterior"></button>
+<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;"><img src="../../../img/back_02.png" width="50px" alt="quest&#x00E3;o anterior" title="quest&#x00E3;o anterior"></button>
 
 <span id="QNumReadout" class="QNum">&nbsp;</span>
 
-<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;"><img src="../../../eduquiz/hotpot/img/go.png" alt="pr&#x00F3;xima quest&#x00E3;o" title="pr&#x00F3;xima quest&#x00E3;o"></button>
+<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;"><img src="../../../img/go_02.png" width="50px" alt="pr&#x00F3;xima quest&#x00E3;o" title="pr&#x00F3;xima quest&#x00E3;o"></button>
 <br />
 </div>
 
 </div>
  
 <ol class="QuizQuestions" id="Questions">
+<li class="QuizQuestion" id="Q_0" style="display: none;"><div class="QuestionText">(PAEBES). Leia o texto abaixo.<br /><br /><b>O colecionador de borboletas</b><br /><br /><br />Era uma vez um homem que morava numa torre muito alta, no meio de uma floresta, longe de qualquer outra casa.<br /><br />Da sua torre, em dias muito claros, ele podia avistar a cidade vizinha, cheia de casas e pessoas.<br /><br />Se olhasse para baixo, podia ver as copas das &#x00E1;rvores... Mas ele nunca pensava em &#x00E1;rvores, nem em pessoas. Seu pensamento estava sempre voltado para uma s&#x00F3; coisa... borboletas.<br /><br />Sempre &#x00E0; procura de novos esp&#x00E9;cimes, a &#x00FA;nica coisa que o interessava era apanhar sua rede e aventurar-se no cora&#x00E7;&#x00E3;o do bosque solit&#x00E1;rio.<br /><br />TESTA, F&#x00FA;lvio. O colecionador de borboletas. S&#x00E3;o Paulo: Melhoramentos, 1978. Fragmento.<br /><br /><br /><b>O homem morava</b><br /><br></div><ol class="MCAnswers"><li id="Q_0_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;na cidade.</li><li id="Q_0_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_1_Btn" onclick="CheckMCAnswer(0,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;na fazenda.</li><li id="Q_0_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_2_Btn" onclick="CheckMCAnswer(0,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;na floresta.</li><li id="Q_0_3"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_3_Btn" onclick="CheckMCAnswer(0,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;no parque.</li></ol></li>
+<li class="QuizQuestion" id="Q_1" style="display: none;"><div class="QuestionText">Leia o texto abaixo e responda &#x00E0; quest&#x00E3;o.<br /><br /><br /><b>Caipora</b><br /><br /><br />&#x00C9; um Mito do Brasil que os &#x00ED;ndios j&#x00E1; conheciam desde a &#x00E9;poca do descobrimento. &#x00CD;ndios e Jesu&#x00ED;tas o chamavam de Cai&#x00E7;ara, o protetor da ca&#x00E7;a e das matas.<br /><br />Seus p&#x00E9;s voltados para tr&#x00E1;s servem para despistar os ca&#x00E7;adores, deixando-os sempre a seguir rastros falsos. Quem o v&#x00EA;, perde totalmente o rumo, e n&#x00E3;o sabe achar o caminho de volta. &#x00C9; imposs&#x00ED;vel captur&#x00E1;-lo. Para atrair suas v&#x00ED;timas, ele, &#x00E0;s vezes, chama as pessoas com gritos que imitam a voz humana. &#x00C9; tamb&#x00E9;m chamado de pai ou M&#x00E3;e-do-mato, Curupira e Caapora. Para os &#x00ED;ndios Guaranis, ele &#x00E9; o Dem&#x00F4;nio da Floresta. &#x00C0;s vezes &#x00E9; visto montando um porco do mato.<br /><br />http://www.arteduca&#x00E7;&#x00E3;o.pro.br<br /><br /><br /><b>De acordo com esse texto, os p&#x00E9;s voltados para tr&#x00E1;s da Caipora sevem para </b><br /><br></div><ol class="MCAnswers"><li id="Q_1_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_0_Btn" onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;</li></ol></li></ol>
 
 
 
@@ -1570,8 +1746,6 @@ function CheckFinished(){
 <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='index.htm'; return false;"> Index </button>
 
 
-
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='proxima.htm'; return false;"><img src="../../../eduquiz/hotpot/img/go.png" alt="pr&#x00F3;xima quest&#x00E3;o" title="pr&#x00F3;xima quest&#x00E3;o"></button>
 
 
 </div>

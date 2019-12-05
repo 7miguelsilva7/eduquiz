@@ -5,12 +5,14 @@
   <rdf:Description rdf:about="">
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
-    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</dc:title>
+    <dc:title>&amp;#x003C;div class=&quot;01&quot; style=&quot;display:inline-block;width: 20%;float: left;&quot;&amp;#x003E;&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;
+&amp;#x003C;/div&amp;#x003E;&amp;#x003C;div class=&quot;02&quot; style=&quot;width: 60%; float: left; display: inline-block;&quot;&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02&amp;#x003C;/div&amp;#x003E;&amp;#x003C;div class=&quot;03&quot; style=&quot;width: 20%; display: inline-block;&quot;&amp;#x003E;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;/div&amp;#x003E;</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</title>
+<title>&amp;#x003C;div class=&quot;01&quot; style=&quot;display:inline-block;width: 20%;float: left;&quot;&amp;#x003E;&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;
+&amp;#x003C;/div&amp;#x003E;&amp;#x003C;div class=&quot;02&quot; style=&quot;width: 60%; float: left; display: inline-block;&quot;&amp;#x003E;ATIVIDADES DE INTERPRETA&amp;#x00C7;&amp;#x00C3;O DE TEXTO&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02&amp;#x003C;/div&amp;#x003E;&amp;#x003C;div class=&quot;03&quot; style=&quot;width: 20%; display: inline-block;&quot;&amp;#x003E;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;/div&amp;#x003E;</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -52,7 +54,7 @@ http://www.arteduca&amp;#x00E7;&amp;#x00E3;o.pro.br
 
 
 &amp;#x003C;b&amp;#x003E;De acordo com esse texto, os p&amp;#x00E9;s voltados para tr&amp;#x00E1;s da Caipora sevem para &amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
