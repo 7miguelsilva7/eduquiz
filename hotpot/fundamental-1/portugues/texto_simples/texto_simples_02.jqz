@@ -5,12 +5,12 @@
   <rdf:Description rdf:about="">
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
-    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 01</dc:title>
+    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 01</title>
+<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 02</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -23,8 +23,7 @@
 
 <questions><question-record><question>(PAEBES). Leia o texto abaixo.
 
-&amp;#x003C;b&amp;#x003E;O colecionador de borboletas&amp;#x003C;/b&amp;#x003E;
-
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O colecionador de borboletas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
 
 Era uma vez um homem que morava numa torre muito alta, no meio de uma floresta, longe de qualquer outra casa.
 
@@ -40,9 +39,7 @@ TESTA, F&amp;#x00FA;lvio. O colecionador de borboletas. S&amp;#x00E3;o Paulo: Me
 &amp;#x003C;b&amp;#x003E;O homem morava&amp;#x003C;/b&amp;#x003E;
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>na cidade.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>na fazenda.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>na floresta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>no parque.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo e responda &amp;#x00E0; quest&amp;#x00E3;o.
 
-
-&amp;#x003C;b&amp;#x003E;Caipora&amp;#x003C;/b&amp;#x003E;
-
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Caipora&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
 
 &amp;#x00C9; um Mito do Brasil que os &amp;#x00ED;ndios j&amp;#x00E1; conheciam desde a &amp;#x00E9;poca do descobrimento. &amp;#x00CD;ndios e Jesu&amp;#x00ED;tas o chamavam de Cai&amp;#x00E7;ara, o protetor da ca&amp;#x00E7;a e das matas.
 
@@ -52,7 +49,125 @@ http://www.arteduca&amp;#x00E7;&amp;#x00E3;o.pro.br
 
 
 &amp;#x003C;b&amp;#x003E;De acordo com esse texto, os p&amp;#x00E9;s voltados para tr&amp;#x00E1;s da Caipora sevem para &amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>atrair suas v&amp;#x00ED;timas</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>despistar ca&amp;#x00E7;adores</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>montar um porco do mato</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>proteger as matas</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Matam ou engordam?&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Tem uma coisa que os adultos dizem que eu tenho certeza de que aborrece as crian&amp;#x00E7;as: &amp;#x201C;V&amp;#x00E1; lavar as m&amp;#x00E3;os antes de comer! Ela est&amp;#x00E1; cheia de micr&amp;#x00F3;bios. N&amp;#x00E3;o coma esse tro&amp;#x00E7;o que caiu no ch&amp;#x00E3;o! Lave logo o machucado, sen&amp;#x00E3;o os micr&amp;#x00F3;bios tomam conta!&amp;#x201D; Da&amp;#x00ED; a crian&amp;#x00E7;a vai logo pensando: &amp;#x201C;Coisa chata essa de micr&amp;#x00F3;bio!&amp;#x201D; E eles v&amp;#x00E3;o ficando com essa fama de monstrinhos, sempre prontos a atacar em caso de desleixo.
+
+Mas sem micr&amp;#x00F3;bios e bact&amp;#x00E9;rias tamb&amp;#x00E9;m n&amp;#x00E3;o d&amp;#x00E1; para viver, porque h&amp;#x00E1; um mont&amp;#x00E3;o deles que s&amp;#x00E3;o essenciais para manter vida em nosso planeta. Quando a gente vai lavar as m&amp;#x00E3;os antes de comer fica at&amp;#x00E9; meio desapontado, pois n&amp;#x00E3;o v&amp;#x00EA; micr&amp;#x00F3;bio nenhum. E acha aquilo um exagero. &amp;#x00C9; que os micr&amp;#x00F3;bios s&amp;#x00E3;o microsc&amp;#x00F3;picos.
+
+Os micr&amp;#x00F3;bios - n&amp;#x00E3;o h&amp;#x00E1; como negar - s&amp;#x00E3;o respons&amp;#x00E1;veis por uma s&amp;#x00E9;rie de aborrecimentos: gripe, sarampo, tifo, mal&amp;#x00E1;ria, febre amarela, paralisia infantil e um bocado de coisas mais. Mas tamb&amp;#x00E9;m h&amp;#x00E1; in&amp;#x00FA;meros micr&amp;#x00F3;bios ben&amp;#x00E9;ficos, que decomp&amp;#x00F5;em o corpo morto das plantas e animais, transformando suas mol&amp;#x00E9;culas complexas em mol&amp;#x00E9;culas pequenas, aproveit&amp;#x00E1;veis na nutri&amp;#x00E7;&amp;#x00E3;o das plantas.
+
+O vil&amp;#x00E3;o de nossa hist&amp;#x00F3;ria, portanto, n&amp;#x00E3;o &amp;#x00E9; totalmente malvado. Se ele desaparecesse, n&amp;#x00F3;s tamb&amp;#x00E9;m acabar&amp;#x00ED;amos junto com ele.
+
+Adaptado: CI&amp;#x00CA;NCIA HOJE DAS CRIAN&amp;#x00C7;AS. Rio de Janeiro: SBPC, ano 6. n.30, p.20-23.
+
+&amp;#x003C;b&amp;#x003E;O assunto do texto &amp;#x00E9;:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a chatice dos micr&amp;#x00F3;bios.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a falta dos micr&amp;#x00F3;bios.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o papel dos micr&amp;#x00F3;bios.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o desaparecimento dos micr&amp;#x00F3;bios</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;&amp;#x00C1;gua: uma quest&amp;#x00E3;o de sobreviv&amp;#x00EA;ncia&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Ao mesmo tempo que precisamos evitar a polui&amp;#x00E7;&amp;#x00E3;o dos mananciais, devemos tamb&amp;#x00E9;m economizar a &amp;#x00E1;gua tratada. Deixar a torneira aberta, enquanto escovamos os dentes, nos coloca no rol dos respons&amp;#x00E1;veis.
+
+Atitudes de respeito e preserva&amp;#x00E7;&amp;#x00E3;o do meio ambiente, em particular o uso racional da &amp;#x00E1;gua, podem ser desenvolvidas a partir de atitudes em sala de aula. Monitorar o hidr&amp;#x00F4;metro (medidor do consumo de &amp;#x00E1;gua), calcular o consumo de &amp;#x00E1;gua por pessoa e promover campanhas de redu&amp;#x00E7;&amp;#x00E3;o de gasto s&amp;#x00E3;o caminhos interessantes para atingirmos tais objetivos.
+
+Revista Nova Escola &amp;#x2013; mar&amp;#x00E7;o/2007, p&amp;#x00E1;g. 17
+
+&amp;#x003C;b&amp;#x003E;Qual &amp;#x00E9; o principal assunto desse texto?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A import&amp;#x00E2;ncia de atitudes em sala de aula.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A polui&amp;#x00E7;&amp;#x00E3;o do planeta Terra.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O monitoramento do hidr&amp;#x00F4;metro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O consumo racional da &amp;#x00E1;gua.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERO). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Caros amigos da Vila Esperan&amp;#x00E7;a,&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Dou um pr&amp;#x00EA;mio para quem adivinhar onde estou! N&amp;#x00E3;o vale olhar o endere&amp;#x00E7;o do remetente! Acreditem ou n&amp;#x00E3;o, estou em Coari, no Amazonas, terra do meu amigo Marc&amp;#x00ED;lio, o quitandeiro. [...]
+
+O irm&amp;#x00E3;o do Marc&amp;#x00ED;lio quase caiu para tr&amp;#x00E1;s quando me viu. Ele nunca poderia imaginar que eu era o carteiro que entregava todas as suas cartas ao irm&amp;#x00E3;o.
+
+Depois de Coari, vou para Souza, na Para&amp;#x00ED;ba, conhecer o tio do Zuca e as pegadas dos dinossauros; de l&amp;#x00E1;, vou pra Blumenau, terra do Hanz... [...]
+
+Um grande abra&amp;#x00E7;o do viajante de sempre, Pedro.
+
+MOREIRA, J. R.; RODRI GUES, J. Bras&amp;#x00ED;lia. O carregador de not&amp;#x00ED;cias. Minist&amp;#x00E9;rio das Cidades, Denatran, 2008.
+
+
+&amp;#x003C;b&amp;#x003E;Em que lugar o autor estava, quando escreveu a carta?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>No Amazonas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Na Para&amp;#x00ED;ba.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Em Blumenau.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Em Souza.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERO). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Bal&amp;#x00F5;es e dirig&amp;#x00ED;veis&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Em 1670, o padre italiano Francisco Lana idealizou o projeto de um &amp;#x201C;veleiro a&amp;#x00E9;reo&amp;#x201D;, que n&amp;#x00E3;o chegou a ser constru&amp;#x00ED;do. Mas, em 5 de agosto de 1709, em Lisboa, o padre brasileiro Bartolomeu de Gusm&amp;#x00E3;o realizava sua primeira tentativa de fazer voar um bal&amp;#x00E3;o.
+
+Ap&amp;#x00F3;s algumas experi&amp;#x00EA;ncias malogradas, ele conseguiu fazer seu aer&amp;#x00F3;stato elevar-se no ar. (A palavra aer&amp;#x00F3;stato vem do grego era = ar e stat&amp;#x00F3;s = parado, suspenso: ou seja, &amp;#x201C;suspenso no ar&amp;#x201D;.)
+
+J&amp;#x00E1; em 1782, Joseph Montgolfier, um franc&amp;#x00EA;s fabricante de papel, descansava diante da lareira de sua casa, vendo como subiam a fuma&amp;#x00E7;a e o ar quente. Ele teve um estalo na cabe&amp;#x00E7;a e fez um bal&amp;#x00E3;o de papel de seda, levando sua abertura pouco acima das chamas.
+
+Logo o bal&amp;#x00E3;o se inflou de ar quente e... subiu at&amp;#x00E9; o teto.
+
+Biblioteca do escoteiro-mirim, S&amp;#x00E3;o Paulo: Nova Cultural, 1985, p. 40.
+
+
+&amp;#x003C;b&amp;#x003E;Segundo esse texto, Joseph Montgolfier fez um&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>aer&amp;#x00F3;stato.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>bal&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>dirig&amp;#x00ED;vel.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>veleiro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SADEAM). Leia o texto abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;QUEM INVENTOU A B&amp;#x00DA;SSOLA?&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Foram os chineses, h&amp;#x00E1; mais de mil anos. No come&amp;#x00E7;o, ela tinha o formato de uma colher e apontava sempre para o sul, por isso era chamada de a colher-que-aponta-o-sul. Hoje, esse instrumento possui uma agulha que aponta sempre para o norte.
+
+Revista Recreio, Ed. Abril, ano 2. 7 jun. 2001.
+
+
+&amp;#x003C;b&amp;#x003E;De acordo com o texto, as primeiras b&amp;#x00FA;ssolas apontavam sempre para o&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>sul.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>leste.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>norte.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>oeste.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo e responda.
+&amp;#x003C;br&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/96d25ddeaf439dea1b662d0e4eebdb707ae71d58.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot; width=&quot;399&quot; height=&quot;117&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;
+Ziraldo Alves Pinto nasceu no dia 24 de outubro de 1932, em Caratinga, Minas Gerais. Come&amp;#x00E7;ou sua carreira nos anos 50 em jornais e revistas de express&amp;#x00E3;o, como Jornal do Brasil, O Cruzeiro, Folha de Minas, etc. Al&amp;#x00E9;m de pintor, &amp;#x00E9; cartazista, jornalista, teatr&amp;#x00F3;logo, chargista, caricaturista e escritor.
+
+A fama come&amp;#x00E7;ou a vir nos anos 60, com o lan&amp;#x00E7;amento da primeira revista em quadrinhos brasileira feita por um s&amp;#x00F3; autor: A Turma do Perer&amp;#x00EA;. Em 1969, Ziraldo publicou o seu primeiro livro infantil, FLICTS, que conquistou f&amp;#x00E3;s em todo o mundo. A partir de 1979, concentrou-se na produ&amp;#x00E7;&amp;#x00E3;o de livros para crian&amp;#x00E7;as e, em 1980, lan&amp;#x00E7;ou O Menino Maluquinho, um dos maiores fen&amp;#x00F4;menos editoriais no Brasil de todos os tempos.
+
+Os trabalhos de Ziraldo j&amp;#x00E1; foram traduzidos para diversos idiomas, como ingl&amp;#x00EA;s, espanhol, alem&amp;#x00E3;o, franc&amp;#x00EA;s, italiano e basco, e representam o talento e o humor brasileiros no mundo. Est&amp;#x00E3;o at&amp;#x00E9; expostos em museu!
+
+Dispon&amp;#x00ED;vel em: &amp;#x003C;http://www.ziraldo.com.br/. Acesso em 20/09/08. Fragmento.
+
+
+&amp;#x003C;b&amp;#x003E;Ziraldo come&amp;#x00E7;ou a ficar famoso, quando&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>come&amp;#x00E7;ou a escrever para jornais e revistas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>lan&amp;#x00E7;ou a revista da Turma do Perer&amp;#x00EA;.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>lan&amp;#x00E7;ou o seu livro OMenino Maluquinho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>publicou o seu livro infantil FLICTS.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Paix&amp;#x00E3;o Nacional&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+O futebol &amp;#x00E9; sem d&amp;#x00FA;vida alguma o esporte mais popular do planeta. N&amp;#x00E3;o h&amp;#x00E1; nenhum outro esporte que esteja t&amp;#x00E3;o divulgado e que seja praticado da mesma maneira ao redor do mundo. O futebol &amp;#x00E9; praticado em todos os pa&amp;#x00ED;ses, nos cinco continentes do globo.
+
+No Brasil, os registros oficiais mostram que o futebol come&amp;#x00E7;ou a ser praticado em 1894, no estado de S&amp;#x00E3;o Paulo, trazido por Charles Miller, que, ao retornar da Inglaterra, onde fora estudar, trouxe as primeiras bolas, uniformes e chuteiras. Em poucos anos, nasceu entre o povo brasileiro a paix&amp;#x00E3;o pela bola e a difus&amp;#x00E3;o do futebol ocorreu de forma ampla.
+
+Inicialmente, esse esporte s&amp;#x00F3; era praticado por pessoas de classes mais abastadas, mas a populariza&amp;#x00E7;&amp;#x00E3;o r&amp;#x00E1;pida do futebol em v&amp;#x00E1;rias regi&amp;#x00F5;es do pa&amp;#x00ED;s fez com que esse esporte come&amp;#x00E7;asse a ser praticado pelas camadas mais pobres da popula&amp;#x00E7;&amp;#x00E3;o. Assim, o futebol come&amp;#x00E7;ou a ser jogado de forma aberta e espont&amp;#x00E2;nea em todas as localidades do Brasil.
+
+Dispon&amp;#x00ED;vel em: &amp;#x003C;http://recantodasletras.uol.com.br&amp;#x003E;. Acesso em: 12 mai. 2010.
+
+
+&amp;#x003C;b&amp;#x003E;O t&amp;#x00ED;tulo desse texto &amp;#x201C;Paix&amp;#x00E3;o Nacional&amp;#x201D; est&amp;#x00E1; relacionado com&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>esportes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>futebol.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>estudo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>viagens.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O galo cantor&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Era uma vez, um galo conhecido por sua arrog&amp;#x00E2;ncia. Costumava demonstrar for&amp;#x00E7;a ao raiar do sol, quando cantava bem alto, de modo a superar, no timbre e no tempo, o canto dos companheiros. Erguia a crista, estufava o peito e permanecia assim por horas. As galinhas olhavam compreensivas, apesar de um tanto entediadas com a repeti&amp;#x00E7;&amp;#x00E3;o di&amp;#x00E1;ria do presun&amp;#x00E7;oso rito.
+
+Certo dia, chovia muito. O galo estufou o peito, ergueu a crista e cantou como sempre. Os outros galos se calaram.
+
+N&amp;#x00E3;o demorou, e a garganta do arrogante cantor se inflamou gravemente. Ele encolheu, ficou muito gripado e, afinal, teve uma forte pneumonia que emudeceu suas cordas vocais. N&amp;#x00E3;o p&amp;#x00F4;de mais cantar.
+
+Um gamb&amp;#x00E1;, que sempre passava por ali, comentou:
+
+&amp;#x2014; Era s&amp;#x00F3; voz o grande galo? Nada aprendeu nesse tempo de dom&amp;#x00ED;nio?
+
+As galinhas se calaram.
+
+Moral da Hist&amp;#x00F3;ria: A arrog&amp;#x00E2;ncia &amp;#x00E9; amiga da estupidez.
+
+ANDRADE, Rachel Gazolla de. F&amp;#x00E1;bulas nuas e cruas. S&amp;#x00E3;o Paulo: Par&amp;#x00E1;bola Editorial, 2005. p. 11.
+
+
+&amp;#x003C;b&amp;#x003E;De acordo com esse texto, o galo ficou conhecido por sua&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>arrog&amp;#x00E2;ncia.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>compreens&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>crista.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>for&amp;#x00E7;a.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
@@ -91,8 +206,8 @@ http://www.arteduca&amp;#x00E7;&amp;#x00E3;o.pro.br
 <exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
 <keypad-characters></keypad-characters>
 <times-up>Your time is over!</times-up>
-<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go_02.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
-<back-caption>&amp;#x003C;img src=&quot;../../../img/back_02.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
 <contents-caption>Index</contents-caption>
 <include-next-ex>0</include-next-ex>
 <include-contents>1</include-contents>
@@ -118,8 +233,8 @@ http://www.arteduca&amp;#x00E7;&amp;#x00E3;o.pro.br
 <correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
 <check-caption>Verifica</check-caption>
 <ok-caption>OK</ok-caption>
-<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go_02.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
-<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back_02.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
 <hint-caption>Sugest&amp;#x00E3;o</hint-caption>
 <show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
 <show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
