@@ -3,6 +3,7 @@
 <hotpot-jquiz-file>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
     <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - DISCIPLINA - CATEGORIA</dc:title>
@@ -21,7 +22,30 @@
 
 </reading>
 
-<questions><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+<questions><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Feias, sujas e imbat&amp;#x00ED;veis (fragmento)&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+ 
+
+As baratas est&amp;#x00E3;o na Terra h&amp;#x00E1; mais de 200 milh&amp;#x00F5;es de anos, 
+sobrevivem tanto no deserto como nos polos e podem ficar at&amp;#x00E9; 
+dias sem comer. Vai encarar? 
+F&amp;#x00E9;rias, sol e praia s&amp;#x00E3;o alguns dos bons motivos para comemorar a
+chegada do ver&amp;#x00E3;o e achar que essa &amp;#x00E9; a melhor esta&amp;#x00E7;&amp;#x00E3;o do ano. E realmente 
+seria, se n&amp;#x00E3;o fosse por um &amp;#x00FA;nico detalhe: as baratas. Assim como 
+n&amp;#x00F3;s, elas tamb&amp;#x00E9;m ficam bem animadas com o calor. Aproveitam a acelera&amp;#x00E7;&amp;#x00E3;o 
+de seus processos bioqu&amp;#x00ED;micos para se reproduzirem mais r&amp;#x00E1;pido e, claro, 
+para passearem livremente por todos os c&amp;#x00F4;modos de nossas casas.
+
+Nessa &amp;#x00E9;poca do ano, as chances de dar de cara com a visitante 
+indesejada, ao acordar durante a noite para beber &amp;#x00E1;gua ou ir ao banheiro, 
+s&amp;#x00E3;o tr&amp;#x00EA;s vezes maiores.
+
+Revista Galileu. Rio de Janeiro: Globo, n&amp;#x00BA; 151, fevereiro de 2004, p. 26.
+
+No trecho &quot;Vai encarar?&quot; (l. 4) o ponto de interroga&amp;#x00E7;&amp;#x00E3;o tem o efeito de: 
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>apresentar</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>avisar</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>desafiar</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>questionar</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
@@ -63,7 +87,7 @@
 <next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
 <back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
 <contents-caption>Index</contents-caption>
-<include-next-ex>1</include-next-ex>
+<include-next-ex>0</include-next-ex>
 <include-contents>1</include-contents>
 <include-back>0</include-back>
 <contents-url>index.htm</contents-url>
