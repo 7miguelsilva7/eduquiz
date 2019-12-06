@@ -281,7 +281,11 @@ JOS&amp;#x00C9;, Elias. Segredinhos de amor. S&amp;#x00E3;o Paulo: Moderna, 1991
 <user-string-1>one</user-string-1>
 <user-string-2>two</user-string-2>
 <user-string-3>three</user-string-3>
-<header-code></header-code>
+<header-code>&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+&amp;#x003C;/style&amp;#x003E;</header-code>
 <correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
 <check-caption>Verifica</check-caption>
 <ok-caption>OK</ok-caption>
