@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S- PRONOME 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S- PRONOME 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A Costureira das Fadas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+(Fragmento)
+
+
+Depois do jantar, o pr&amp;#x00ED;ncipe levou Narizinho &amp;#x00E0; casa da melhor costureira do reino. Era uma aranha de Paris, que sabia fazer vestidos lindos, lindos at&amp;#x00E9; n&amp;#x00E3;o poder mais! Ela mesma tecia a fazenda, ela mesma inventava as modas.
+
+&amp;#x2013; Dona Aranha &amp;#x2013; disse o pr&amp;#x00ED;ncipe &amp;#x2013; quero que fa&amp;#x00E7;a para esta ilustre dama o vestido mais bonito do mundo. Vou dar uma grande festa em sua honra e quero v&amp;#x00EA;-la deslumbrar a corte.
+
+Disse e retirou-se. Dona Aranha tomou da fita m&amp;#x00E9;trica e, ajudada por seis aranhinhas muito espertas, principiou a tomar as medidas. Depois teceu depressa, depressa, uma fazenda cor-de-rosa com estrelinhas douradas, a coisa mais linda que se possa imaginar. Teceu tamb&amp;#x00E9;m pe&amp;#x00E7;as de fita e pe&amp;#x00E7;as de renda e de entremeio &amp;#x2014; at&amp;#x00E9; carret&amp;#x00E9;is de linha de seda fabricou.
+
+
+MONTEIRO LOBATO, Jos&amp;#x00E9; Bento. Reina&amp;#x00E7;&amp;#x00F5;es de Narizinho. S&amp;#x00E3;o Paulo: Brasiliense, 1973.
+
+
+&amp;#x201C;&amp;#x2014; Dona Aranha &amp;#x2014; disse o pr&amp;#x00ED;ncipe &amp;#x2014; quero que fa&amp;#x00E7;a para esta ilustre dama o ves&amp;#x00AD;tido mais bonito do mundo. Vou dar uma grande festa em sua honra e quero v&amp;#x00EA;-la deslumbrar a corte.&amp;#x201D;
+
+
+A express&amp;#x00E3;o &amp;#x003C;b&amp;#x003E;v&amp;#x00EA;-la&amp;#x003C;/b&amp;#x003E; em &quot;... quero v&amp;#x00EA;-la deslumbrar a corte.&quot; se refere &amp;#x00E0;:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Fada.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Cinderela.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Dona Aranha.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Narizinho.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROMOVER). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Pequenas e poderosas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Bonitinhas e delicadas, as joaninhas s&amp;#x00E3;o um dos poucos insetos de que quase todo mundo gosta. Para muitas pessoas, representam at&amp;#x00E9; um sinal de boa sorte, por isso, s&amp;#x00E3;o sempre muito bem-vindas nos jardins.
+
+Na verdade, elas s&amp;#x00F3; conquistaram esse carinho porque realmente ajudam as planta&amp;#x00E7;&amp;#x00F5;es. &amp;#x00C9; que as joaninhas se alimentam de pulg&amp;#x00F5;es, &amp;#x00E1;caros, cochonilhas e outros bichos que comem e destroem vegetais. Assim, enquanto almo&amp;#x00E7;am, elas acabam salvando a vida das plantas. [...]
+
+Nem todas as joaninhas t&amp;#x00EA;m a carapa&amp;#x00E7;a vermelha com pintinhas pretas.
+
+H&amp;#x00E1; cerca de 5.000 esp&amp;#x00E9;cies desse inseto espalhadas pela Am&amp;#x00E9;rica, Europa, &amp;#x00C1;sia e Oceania. Elas podem ser vermelhas, amarelas, cinzentas, pretas ou de outras cores. Algumas t&amp;#x00EA;m pintas e outras n&amp;#x00E3;o.
+
+CORDEIRO, Bellah Leite. Recreio, ano I, n. 8, 4 maio 2000.
+
+
+No trecho &amp;#x201C;... &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;elas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/u&amp;#x003E; s&amp;#x00F3; conquistaram esse carinho...&amp;#x201D; a palavra &amp;#x201C;ela&amp;#x201D; substitui
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>cochonilhas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>esp&amp;#x00E9;cies.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>joaninhas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>plantas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O h&amp;#x00E1;bito da leitura&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+
+&amp;#x201C;A crian&amp;#x00E7;a &amp;#x00E9; o pai do homem&amp;#x201D;. A frase, do poeta ingl&amp;#x00EA;s William Wordsworth, ensina que o adulto conserva e amplia qualidades e defeitos que adquiriu quando crian&amp;#x00E7;a. Tudo que se torna um h&amp;#x00E1;bito dificilmente &amp;#x00E9; deixado. Assim, a leitura poderia ser uma mania prazerosa, um passatempo.
+
+Voc&amp;#x00EA;, coleguinha, pode descobrir v&amp;#x00E1;rias coisas, viajar por v&amp;#x00E1;rios lugares, conhecer v&amp;#x00E1;rias pessoas, e adquirir muitas experi&amp;#x00EA;ncias enquanto l&amp;#x00EA; um livro, jornal, gibi, revista, cartazes de rua e at&amp;#x00E9; bula de rem&amp;#x00E9;dio. Dia 25 de janeiro foi o dia do Carteiro. Ele leva ao mundo inteiro v&amp;#x00E1;rias not&amp;#x00ED;cias, intima&amp;#x00E7;&amp;#x00F5;es, saudades, respostas, mas tudo isso s&amp;#x00F3; existe por causa do h&amp;#x00E1;bito da leitura. E a&amp;#x00ED;, vamos participar de um projeto de leitura?
+
+
+CORREIO BRAZILIENSE, Bras&amp;#x00ED;lia, 31 de janeiro de 2004, p. 7.
+
+
+No trecho &amp;#x201C;Ele leva ao mundo inteiro&amp;#x201D;, a palavra sublinhada refere-se ao:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>carteiro.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>jornal.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>livro.</text><feedback></feedback><correct>0</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>plantas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAEPE). Leia o texto abaixo e responda as quest&amp;#x00F5;es 1 e 2.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A pipa Pepita&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+
+Zezito era o dono de Pepita, uma pipa verde e rosa, de carinha graciosa.
+
+Zezito preparou Pepita para concorrer no grande campeonato de pipas. Fitas coloridas sa&amp;#x00ED;am de suas pontas.
+
+O dia amanheceu. O Sol estava forte e o c&amp;#x00E9;u azul. De toda parte chegava gente grande, gente pequena, com suas pipas de todos os jeitos. Tinha pipa-estrela, pipa-bicho, pipas de todos os jeitos.
+
+Um apito deu o sinal e as pipas voaram no c&amp;#x00E9;u. Ele ficou colorido, como um dia de carnaval.
+
+Pepita foi subindo...
+
+Passou por v&amp;#x00E1;rias nuvens e deixou as outras pipas para tr&amp;#x00E1;s. L&amp;#x00E1; no alto, Pepita gritou:
+
+&amp;#x2014; At&amp;#x00E9; um dia, Zezito! Vou fazer um grande v&amp;#x00F4;o.
+
+Se voc&amp;#x00EA; olhar para o c&amp;#x00E9;u nas noites estreladas, ver&amp;#x00E1; Pepita, com seus cabelos de fita.
+
+
+GOES, L&amp;#x00FA;cia Pimentel. A pipa Pepita. S&amp;#x00E3;o Paulo: Scipione, 1988.
+
+No trecho &amp;#x201C;&amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;Ele&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; ficou colorido, como um dia de carnaval (...)&amp;#x201D;, a palavra destacada pode ser substitu&amp;#x00ED;da por:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>sol..</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>dia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>c&amp;#x00E9;u.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>apito.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O come&amp;#x00E7;o da humanidade&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+N&amp;#x00E3;o existia gente no mundo, apenas um homem chamado Toba com sua mulher.
+
+Plantavam macaxeira, milho, batatas, banana, mam&amp;#x00E3;o.
+
+Fora a ro&amp;#x00E7;a deles, tudo era natureza, sem planta&amp;#x00E7;&amp;#x00E3;o alguma. Eram s&amp;#x00F3; os dois, sozinhos.
+
+Nem sequer bichos havia; s&amp;#x00F3; a cutia e o nambu-rel&amp;#x00F3;gio.
+
+Toba debulhava o milho e fazia montinhos.
+
+Um dia viu que a colheita estava desaparecendo. Imaginando que o ladr&amp;#x00E3;o podia ser a cutia, se n&amp;#x00E3;o fosse a tanajura ou a sa&amp;#x00FA;va, fez uma tocaia para espreit&amp;#x00E1;-la, bem de madrugada.
+
+Em vez de cutia, viu que era gente, debaixo da terra, que esticava a m&amp;#x00E3;o por um buraco para roubar seu milho. Toba conseguia ouvir conversas no subterr&amp;#x00E2;neo, pessoas brigando para ver quem poria primeiro a m&amp;#x00E3;o para surrupiar o milho.
+
+A sa&amp;#x00ED;da do mundo subterr&amp;#x00E2;neo era um buraco tampado por uma rocha pesad&amp;#x00ED;ssima.
+
+Toba fez for&amp;#x00E7;a e conseguiu levant&amp;#x00E1;-la para as pessoas sa&amp;#x00ED;rem; mas tinha que ficar segurando o peso imenso, apressando o povo enquanto sustentava a rocha.
+
+As pessoas foram saindo...
+
+MINDIN, Betty. O primeiro homem. S&amp;#x00E3;o Paulo: Cosac &amp;#x0026; Naify, 2001. p. 13-6. Col. Mitos do Mundo. Fragmento.
+
+
+No trecho &amp;#x201C;... para roubar &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;seu&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; milho.&amp;#x201D; (&amp;#x2113;. 9), a palavra destacada refere-se &amp;#x00E0; palavra</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>ladr&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>cutia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>gente.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Toba.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;MANIA DE PL&amp;#x00C1;STICO&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Toneladas de sacos, garrafas, copos, brinquedos e outros lixos est&amp;#x00E3;o fazendo mal ao nosso planeta.
+
+Ele est&amp;#x00E1; em toda parte: sand&amp;#x00E1;lias, garrafas de refrigerante, escovas, copos, sacolas, computadores, etc. N&amp;#x00E3;o d&amp;#x00E1; para pensar a nossa vida sem o pl&amp;#x00E1;stico. Desde que os pesquisadores descobriram que era poss&amp;#x00ED;vel criar esse material a partir de elementos do petr&amp;#x00F3;leo, em 1862, as ind&amp;#x00FA;strias passaram a us&amp;#x00E1;-lo cada vez mais. &amp;#x00C9; claro que isso trouxe progresso, conforto e melhorias para todos n&amp;#x00F3;s. Acredito que o pl&amp;#x00E1;stico &amp;#x00E9;, hoje, um dos maiores vil&amp;#x00F5;es da vida moderna. Quando n&amp;#x00E3;o &amp;#x00E9; reciclado, ele detona a natureza e polui cidades.
+
+As pe&amp;#x00E7;as de pl&amp;#x00E1;stico boiando no mar podem causar a morte de mais de 100 mil animais marinhos (golfinhos, baleias e tartarugas) e um milh&amp;#x00E3;o de aves por ano. As sacolas de pl&amp;#x00E1;stico podem levar 200 anos para se decompor. Quando s&amp;#x00E3;o largadas nas ruas, entopem bueiros e provocam enchentes.
+
+Evite comprar produtos que usem pl&amp;#x00E1;stico demais nas embalagens.
+
+Witch, S&amp;#x00E3;o Paulo: Abril. n. 77, p. 09.
+
+
+No trecho &amp;#x201C;&amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;Ele&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; est&amp;#x00E1; em toda parte:...&amp;#x201D;(&amp;#x2113;. 3), a palavra destacada refere-se ao
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>petr&amp;#x00F3;leo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>planeta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pl&amp;#x00E1;stico.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>progresso.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A MENINA CORAJOSA&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Esta hist&amp;#x00F3;ria aconteceu com a minha bisav&amp;#x00F3; paterna e foi contada pela filha dela, que &amp;#x00E9; minha av&amp;#x00F3;. Quando crian&amp;#x00E7;a, minha bisav&amp;#x00F3; morava num s&amp;#x00ED;tio. Seu pai sustentava a fam&amp;#x00ED;lia trabalhando na ro&amp;#x00E7;a. Todos os dias, ela ia levar comida para o pai no ro&amp;#x00E7;ado, um lugar longe de casa. Sua cachorrinha sempre ia com ela.
+
+Um dia, quando levava a marmita para o pai, andando bem tranquila pela trilheira, num lugar onde a mata era fechada, viu que a cachorrinha come&amp;#x00E7;ou a choramingar e a se enrolar nas pr&amp;#x00F3;prias pernas. A menina percebeu que alguma coisa estranha estava acontecendo. Olhou para os lados e viu uma on&amp;#x00E7;a bem grande, com o bote armado, a ponto de pular do capinzeiro em cima dela.
+
+No que viu a on&amp;#x00E7;a, a menina ficou encarando a danada. Pouco a pouco, sempre olhando para o bicho, ela foi se afastando para tr&amp;#x00E1;s sem se virar. Quando pegou uma boa dist&amp;#x00E2;ncia, a menina correu em disparada at&amp;#x00E9; se sentir segura.
+
+Quando chegou em casa, estava sem voz. Depois de muito tempo &amp;#x00E9; que conseguiu falar.
+
+Os homens da fazenda pegaram as armas e foram procurar a on&amp;#x00E7;a. Mas n&amp;#x00E3;o a encontraram.
+
+Minha bisav&amp;#x00F3; foi muito corajosa, porque na hora em que ela viu a on&amp;#x00E7;a, conseguiu lembrar do que o povo dizia: &amp;#x201C;On&amp;#x00E7;a n&amp;#x00E3;o ataca de frente, porque tem medo do rosto da pessoa. Quem quiser se ver livre dela basta encarar a danada e n&amp;#x00E3;o lhe dar as costas&amp;#x201D;.
+
+TOMAZ, Cristina Macedo. De boca em boca. S&amp;#x00E3;o Paulo: Salesiana, 2002.
+
+Na frase &amp;#x201C;Quem quiser se ver livre dela basta encarar a danada e n&amp;#x00E3;o &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;lhe&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; dar as costas&amp;#x201D;, a palavra destacada se refere &amp;#x00E0;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>bisav&amp;#x00F3;.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>cachorrinha.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>menina.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>on&amp;#x00E7;a.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O URSO E AS ABELHAS&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um urso topou com uma arvore ca&amp;#x00ED;da que servia de dep&amp;#x00F3;sito de mel para um enxame de abelhas. Come&amp;#x00E7;ou a farejar o tronco quando uma das abelhas do enxame voltou do campo de trevos. Adivinhando o que &amp;#x003C;b&amp;#x003E;ele&amp;#x003C;/b&amp;#x003E; queria, deu uma picada daquelas no urso e depois desapareceu no buraco do tronco. O urso ficou louco de raiva e se p&amp;#x00F4;s a arranhar o tronco com as garras na esperan&amp;#x00E7;a de destruir o ninho. A &amp;#x00FA;nica coisa que conseguiu foi fazer o enxame inteiro sair atr&amp;#x00E1;s dele. O urso fugiu a toda a velocidade e s&amp;#x00F3; se salvou porque mergulhou de cabe&amp;#x00E7;a num lago.
+
+Moral: Mais vale suportar um s&amp;#x00F3; ferimento em sil&amp;#x00EA;ncio que perder o controle e acabar todo machucado.
+
+(Do livro: F&amp;#x00E1;bulas de Esopo - Companhia das Letrinhas)
+
+No trecho &amp;#x201C;Adivinhando o que ele queria, deu uma picada daquelas no urso&amp;#x201D;. A palavra destacada se refere a:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>abelha</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ninho</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>urso</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>enxame</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;GRANDES RIOS BRASILEIROS&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+O Brasil &amp;#x00E9; um pa&amp;#x00ED;s de sorte. Pois tem grandes rios. No entanto, &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;eles&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; est&amp;#x00E3;o todos doentes, em maior ou menor grau. Lixo, res&amp;#x00ED;duos qu&amp;#x00ED;micos e esgotos s&amp;#x00E3;o lan&amp;#x00E7;ados nos rios, diariamente, poluindo-&amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;os&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E;.
+
+Observe as palavras destacadas. Qual palavra elas substituem, no texto?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Brasil</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>rios</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>res&amp;#x00ED;duos qu&amp;#x00ED;micos</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>esgotos</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;CO&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;, que bicho &amp;#x00E9; esse&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+&amp;#x00C9; um g&amp;#x00E1;s essencial &amp;#x00E0; vida, produzido pela respira&amp;#x00E7;&amp;#x00E3;o dos seres vivos, decomposi&amp;#x00E7;&amp;#x00E3;o de plantas e animais, na queima de combust&amp;#x00ED;veis f&amp;#x00F3;sseis e de florestas. O tempo de sua perman&amp;#x00EA;ncia na atmosfera &amp;#x00E9; de 100 anos, no m&amp;#x00ED;nimo. O principal processo de renova&amp;#x00E7;&amp;#x00E3;o do g&amp;#x00E1;s &amp;#x00E9; a sua absor&amp;#x00E7;&amp;#x00E3;o pelos oceanos e florestas. Hoje &amp;#x00E9; emitido entre 8 e 9 bilh&amp;#x00F5;es de toneladas de CO2, por ano, em todo o planeta. Desse total, 80% v&amp;#x00EA;m da queima de combust&amp;#x00ED;veis f&amp;#x00F3;sseis.
+
+Por Dentro das Mudan&amp;#x00E7;as Clim&amp;#x00E1;ticas - O que voc&amp;#x00EA; precisa saber sobre o assunto. Nova Escola, p. 94, out. 2008.
+
+No trecho &amp;#x201C;O tempo de &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;sua&amp;#x003C;/u&amp;#x003E;&amp;#x003C;/b&amp;#x003E; perman&amp;#x00EA;ncia...&amp;#x201D;, a palavra destacada substitui
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>animais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>florestas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>g&amp;#x00E1;s.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>plantas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+&amp;#x003C;/style&amp;#x003E;</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
