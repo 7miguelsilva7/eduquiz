@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - PONTUA&amp;#x00C7;&amp;#x00C3;O 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x003C;br&amp;#x003E;FUND. I - PORTUGU&amp;#x00CA;S - PONTUA&amp;#x00C7;&amp;#x00C3;O 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(SAERJ). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;SER BICHO D&amp;#x00C1; TRABALHO!&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Cachorros, cavalos, galinhas e muitos outros animais s&amp;#x00E3;o criados no mundo inteiro.
+
+Mas, dependendo do lugar, as pessoas domesticam alguns bichos bem diferentes.
+
+Em pa&amp;#x00ED;ses como a &amp;#x00CD;ndia, por exemplo, o melhor amigo do homem n&amp;#x00E3;o &amp;#x00E9; o cachorro e sim o elefante asi&amp;#x00E1;tico. Ele &amp;#x00E9; usado para muitas coisas: montaria, puxar carro&amp;#x00E7;as ou carregar coisas pesadas, como troncos de &amp;#x00E1;rvore!
+
+No Jap&amp;#x00E3;o, foi inventado um jeito bem original de pescar. Alguns pescadores treinam uma ave chamada cormor&amp;#x00E3;o para mergulhar e voltar ao barco trazendo peixes no bico. Para evitar lanches durante o trabalho, ela sempre mergulha com uma coleira de couro apertada no pesco&amp;#x00E7;o. Assim, o cormor&amp;#x00E3;o n&amp;#x00E3;o consegue engolir o peixe que pegou.
+
+Revista Sesinho, ano 2, n&amp;#x00BA; 23, se&amp;#x00E7;&amp;#x00E3;o Saiba Mais, p.33.
+
+Cormor&amp;#x00E3;o &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma coleira.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma ave.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um peixe.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um elefante.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Presentes incr&amp;#x00ED;veis&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+O pr&amp;#x00ED;ncipe Potemkim, da R&amp;#x00FA;ssia, quis oferecer um presente &amp;#x00E0; rainha Catarina, a Grande. Deu a ela um enorme elefante (de mentira, &amp;#x00E9; claro) cravejado de pedras preciosas. De dentro dele sa&amp;#x00ED;a um bal&amp;#x00E9; completo para distrair a rainha. Anos depois, Catarina quis se livrar de um outro namorado, o conde Orloff, e deu a ele 17 milh&amp;#x00F5;es de rublos (moeda russa), um pal&amp;#x00E1;cio de m&amp;#x00E1;rmore e 15 mil escravos.
+
+Almanaque Ruth Rocha.p.15
+
+
+Rublo &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma moeda.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma pedra.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um elefante.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um pal&amp;#x00E1;cio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo:
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;Cateret&amp;#x00EA; ou Catira&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;dan&amp;#x00E7;a de origem ind&amp;#x00ED;gena.
+&amp;#x003E;
+
+O Cateret&amp;#x00EA; &amp;#x00E9; uma dan&amp;#x00E7;a conhecida nas regi&amp;#x00F5;es Sul, Sudeste e Centro-Oeste do Brasil.
+
+A dan&amp;#x00E7;a rural Cateret&amp;#x00EA; &amp;#x00E9; de origem ind&amp;#x00ED;gena, com algumas caracter&amp;#x00ED;sticas africanas. Em geral, &amp;#x00E9; dan&amp;#x00E7;ada apenas por homens organizados em duas fileiras, uma de frente para a outra. Atualmente, h&amp;#x00E1; grupos exclusivos de mulheres que dan&amp;#x00E7;am o Cateret&amp;#x00EA; ou Catira. Seguindo as melodias cantadas pelos violeiros, os dan&amp;#x00E7;arinos dan&amp;#x00E7;am batendo palmas e sapateando.
+
+Oficina do folclore. Rideel. Vol.5, p. 93.
+
+
+O Cateret&amp;#x00EA; &amp;#x00E9; o nome de uma
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>dan&amp;#x00E7;a de origem ind&amp;#x00ED;gena.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>melodia africana.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>melodia africana.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>reuni&amp;#x00E3;o de homens.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo e responda.
+
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;Como o cavalo se tornou Cervo do homem&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+H&amp;#x00E1; muitos e muitos anos, os animais viviam juntos, em total liberdade. O cavalo habitava a floresta e n&amp;#x00E3;o conhecia o peso de uma sela nem a humilha&amp;#x00E7;&amp;#x00E3;o de puxar arados e carro&amp;#x00E7;as.
+
+Orgulhoso de sua for&amp;#x00E7;a e beleza, o cavalo olhava os companheiros de cima para baixo. Certo dia, ele e o cervo brigaram. Cada um dizia que era o animal mais veloz das matas. Para resolver a quest&amp;#x00E3;o, apostaram uma corrida, mas chegaram empatados. O cervo aceitou bem o resultado. O cavalo foi pedir ajuda ao homem:
+
+&amp;#x2013; Preciso vencer o cervo, mas n&amp;#x00E3;o consigo...
+
+&amp;#x2013; Se eu o montar, conseguir&amp;#x00E1; &amp;#x2013; disse o homem.
+
+O cavalo achou &amp;#x00F3;timo.
+
+O homem saltou sobre ele, colocou-lhe uma corda na boca como freio e o esporeou, para que corresse mais.
+
+E assim, ensinando-o a pegar a dire&amp;#x00E7;&amp;#x00E3;o certa e a evitar obst&amp;#x00E1;culos, o homem conduziu o cavalo &amp;#x00E0; vit&amp;#x00F3;ria. O cervo, vencido, retirou-se. O cavalo exultava:
+
+&amp;#x2013; Obrigado, agora vou voltar &amp;#x00E0; minha floresta...
+
+&amp;#x2013; Nada disso, amig&amp;#x00E3;o &amp;#x2013; rebateu bruscamente o homem &amp;#x2013; acabo de descobrir que voc&amp;#x00EA; pode me ser bastante &amp;#x00FA;til. A partir de hoje, vou lhe dar casa e comida, e voc&amp;#x00EA; me servir&amp;#x00E1;.
+
+Vamos, siga-me j&amp;#x00E1;!
+
+Desde ent&amp;#x00E3;o, o cavalo perdeu a liberdade, fechado em est&amp;#x00E1;bulos, trabalhando nos campos ou puxando cargas. Quantas vezes n&amp;#x00E3;o se culpou por ter trocado a independ&amp;#x00EA;ncia por uma est&amp;#x00FA;pida prova de velocidade.
+
+MORAL DA HIST&amp;#x00D3;RIA: A ambi&amp;#x00E7;&amp;#x00E3;o desmedida nos torna escravos.
+
+Fabulinhas Famosas. S&amp;#x00E3;o Paulo: Rideel, 2001. Adaptado.
+
+
+Na frase &amp;#x201C;A ambi&amp;#x00E7;&amp;#x00E3;o &amp;#x003C;B&amp;#x003E;desmedida&amp;#x003C;/B&amp;#x003E; nos torna escravos.&amp;#x201D; ( . 21), a palavra &amp;#x201C;&amp;#x003C;U&amp;#x003E;desmedida&amp;#x003C;/U&amp;#x003E;&amp;#x201D; poderia ser substitu&amp;#x00ED;da, sem alterar o sentido da frase, por
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>bastante &amp;#x00FA;til.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>com perfei&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>mal resolvida.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>sem limites.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;Elixir&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+Numa cidadezinha do interior, um jovem vendedor ambulante oferecia um maravilhoso produto chamado Elixir da Longa Vida. Na pra&amp;#x00E7;a central, ele gritava empolgado:
+
+&amp;#x2013; Todo dia tomo uma colher desse elixir e olhem o resultado: j&amp;#x00E1; vivi 300 anos!
+
+Ouvindo isso, os espectadores logo correram para a banca abarrotada de vidros, onde um garotinho atendia a multid&amp;#x00E3;o. Foi quando um outro negociante, muito esperto, resolveu desmascarar aquela charlatanice. Foi at&amp;#x00E9; o menino e perguntou em voz alta para todo mundo ouvir:
+
+&amp;#x2013; Que hist&amp;#x00F3;ria &amp;#x00E9; essa? O seu patr&amp;#x00E3;o j&amp;#x00E1; viveu trezentos anos mesmo?
+
+E o menino respondeu:
+
+&amp;#x2013; Eu n&amp;#x00E3;o tenho certeza. S&amp;#x00F3; trabalho para ele h&amp;#x00E1; 120 anos.
+
+AVIZ, Luiz (org.). Piadas da internet para crian&amp;#x00E7;as espertas. Rio de Janeiro: Record, 2001, p. 77.
+
+
+Pelas pistas desse texto, a palavra &amp;#x201C;&amp;#x003C;U&amp;#x003E;charlatanice&amp;#x003C;/U&amp;#x003E;&amp;#x201D; quer dizer
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>venda.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>amola&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>multid&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>engana&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;O crescimento do cabelo&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+Quem n&amp;#x00E3;o curte um corte de cabelo estiloso para dar uma turbinada no visual? Nosso cabelo, assim como as unhas, nunca param de crescer. Por isso podemos cort&amp;#x00E1;-lo de v&amp;#x00E1;rias formas sem correr o risco de ficar com a cabe&amp;#x00E7;a pelada.
+
+O cabelo &amp;#x00E9; um fio produzido por uma gl&amp;#x00E2;ndula que fica abaixo da pele. O pelo brota no fol&amp;#x00ED;culo, que &amp;#x00E9; uma esp&amp;#x00E9;cie de tubo no qual as c&amp;#x00E9;lulas produzem prote&amp;#x00ED;nas e queratina. Essas subst&amp;#x00E2;ncias se acumulam em seu interior e s&amp;#x00E3;o empurradas pra cima, endurecem e assumem a forma de um fio.
+
+Existem cabelos de todos os tipos: lisos, crespos, amarelos, vermelhos etc. A cor e a textura s&amp;#x00E3;o determinadas por fatores gen&amp;#x00E9;ticos.
+
+Jornal Estado de Minas, p. 8, 12 jan. 2008. *Adaptado
+
+Reforma Ortogr&amp;#x00E1;fica.
+
+
+O que significa a express&amp;#x00E3;o &amp;#x201C;dar uma turbinada&amp;#x201D;, que aparece no 1&amp;#x00BA; par&amp;#x00E1;grafo?
+&amp;#x003C;BR&amp;#x003E;
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Fazer uma mudan&amp;#x00E7;a radical.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ficar com a mesma apar&amp;#x00EA;ncia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Correr o risco de ficar careca.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Usar uma turbina para secar o cabelo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PAEBES). Leia o texto abaixo.
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;A surdez da bisav&amp;#x00F3;&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+
+&amp;#x2013; V&amp;#x00F3;, j&amp;#x00E1; s&amp;#x00E3;o horas &amp;#x2013; diz o meu pai para a minha bisav&amp;#x00F3;, depois do jantar. Mas a minha bisav&amp;#x00F3; nem se mexe na cadeira.
+
+Ent&amp;#x00E3;o a minha m&amp;#x00E3;e afirma que &amp;#x00E9; preciso explicar-lhe melhor as coisas. Chega perto dela e diz:
+
+&amp;#x2013; V&amp;#x00F3;, j&amp;#x00E1; s&amp;#x00E3;o horas de ir para a cama.
+
+Mas a minha bisav&amp;#x00F3;, continua sem se mexer na cadeira.
+
+&amp;#x2013; Est&amp;#x00E1; cada vez mais surda coitada &amp;#x2013; murmura meu pai.
+
+E minha m&amp;#x00E3;e insiste, mais uma vez:
+
+&amp;#x2013; V&amp;#x00F3;, j&amp;#x00E1; s&amp;#x00E3;o horas de ir para a cama porque est&amp;#x00E1; muito frio.
+
+A minha bisav&amp;#x00F3; nem se mexe, os olhos colados na TV no fundo da sala. [...]
+
+&amp;#x2013; V&amp;#x00F3;, j&amp;#x00E1; s&amp;#x00E3;o horas de ir para a cama porque est&amp;#x00E1; muito frio e n&amp;#x00E3;o queremos que fique gripada, porque depois fica com febre e precisa tomar rem&amp;#x00E9;dio.
+
+A minha bisav&amp;#x00F3;, nem um piu.
+
+At&amp;#x00E9; que meu pai tira a mesa e n&amp;#x00E3;o pensa mais no assunto. E a minha m&amp;#x00E3;e volta a suspirar profundamente e vai lavar a lou&amp;#x00E7;a.
+
+&amp;#x2013; Eu n&amp;#x00E3;o sou surda &amp;#x2013; murmura ent&amp;#x00E3;o para mim a minha bisav&amp;#x00F3;, com um sorriso no canto da boca e apontando para a televis&amp;#x00E3;o &amp;#x2013; mas n&amp;#x00E3;o vou para a cama sem saber o restante.
+
+Quer dizer, sem saber se a mo&amp;#x00E7;a loira e rica casa com o rapaz moreno e pobre.
+
+Encosta-se na cadeira e l&amp;#x00E1; fica.
+
+Eu ia jurar que, alguns minutos depois, a ouvi roncar. Mas devia ser impress&amp;#x00E3;o minha.
+
+&amp;#x2013; Vi tudo at&amp;#x00E9; o fim &amp;#x2013; garante-me ela no dia seguinte...
+
+VIEIRA, Alice. A surdez da bisav&amp;#x00F3;. In: Livro com cheiro de baunilha. S&amp;#x00E3;o Paulo: Texto Editores, 2009, p. 6-7. Fragmento.
+
+
+No trecho &amp;#x201C;A minha bisav&amp;#x00F3;, &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;nem um piu.&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/u&amp;#x003E;&amp;#x201D; ( . 13), a express&amp;#x00E3;o destacada significa que a bisav&amp;#x00F3;
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>continuou muda.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>dormia sem roncar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>estava sem se mexer.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ficou vendo TV.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SPAECE). Leia o texto abaixo responda:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;PASSARINHO FOFOQUEIRO&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;:
+
+Um passarinho me contou que a ostra &amp;#x00E9; muito fechada,
+
+que a cobra &amp;#x00E9; muito enrolada, que a arara &amp;#x00E9; uma cabe&amp;#x00E7;a oca,
+
+e que o le&amp;#x00E3;o marinho e a foca... X&amp;#x00F4;, passarinho! Chega de fofoca!
+
+
+Dispon&amp;#x00ED;vel em: &amp;#x003C;http://www.revista.agulha.nom.br/jpaulo1.html&amp;#x003E;. Acesso em: 5 jun. 2010.
+
+Nesse texto, a express&amp;#x00E3;o &amp;#x201C;cabe&amp;#x00E7;a oca&amp;#x201D; quer dizer
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>complicada.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>f&amp;#x00E1;cil de influenciar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pensa pouco.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>teimosa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Matam ou engordam?&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+
+Tem uma coisa que os adultos dizem que eu tenho certeza de que aborrece as crian&amp;#x00E7;as: &amp;#x201C;V&amp;#x00E1; lavar as m&amp;#x00E3;os antes de comer! Ela est&amp;#x00E1; cheia de micr&amp;#x00F3;bios. N&amp;#x00E3;o coma esse tro&amp;#x00E7;o que caiu no ch&amp;#x00E3;o! Lave logo o machucado, sen&amp;#x00E3;o os micr&amp;#x00F3;bios tomam conta!&amp;#x201D; Da&amp;#x00ED; a crian&amp;#x00E7;a vai logo pensando: &amp;#x201C;Coisa chata essa de micr&amp;#x00F3;bio!&amp;#x201D; E eles v&amp;#x00E3;o ficando com essa fama de monstrinhos, sempre prontos a atacar em caso de desleixo.
+
+Mas sem micr&amp;#x00F3;bios e bact&amp;#x00E9;rias tamb&amp;#x00E9;m n&amp;#x00E3;o d&amp;#x00E1; para viver, porque h&amp;#x00E1; um mont&amp;#x00E3;o deles que s&amp;#x00E3;o essenciais para manter vida em nosso planeta. Quando a gente vai lavar as m&amp;#x00E3;os antes de comer fica at&amp;#x00E9; meio desapontado, pois n&amp;#x00E3;o v&amp;#x00EA; micr&amp;#x00F3;bio nenhum. E acha aquilo um exagero. &amp;#x00C9; que os micr&amp;#x00F3;bios s&amp;#x00E3;o microsc&amp;#x00F3;picos.
+
+Os micr&amp;#x00F3;bios - n&amp;#x00E3;o h&amp;#x00E1; como negar - s&amp;#x00E3;o respons&amp;#x00E1;veis por uma s&amp;#x00E9;rie de aborrecimentos: gripe, sarampo, tifo, mal&amp;#x00E1;ria, febre amarela, paralisia infantil e um bocado de coisas mais. Mas tamb&amp;#x00E9;m h&amp;#x00E1; in&amp;#x00FA;meros micr&amp;#x00F3;bios ben&amp;#x00E9;ficos, que decomp&amp;#x00F5;em o corpo morto das plantas e animais, transformando suas mol&amp;#x00E9;culas complexas em mol&amp;#x00E9;culas pequenas, aproveit&amp;#x00E1;veis na nutri&amp;#x00E7;&amp;#x00E3;o das plantas.
+
+O vil&amp;#x00E3;o de nossa hist&amp;#x00F3;ria, portanto, n&amp;#x00E3;o &amp;#x00E9; totalmente malvado. Se ele desaparecesse, n&amp;#x00F3;s tamb&amp;#x00E9;m acabar&amp;#x00ED;amos junto com ele.
+
+Adaptado: CI&amp;#x00CA;NCIA HOJE DAS CRIAN&amp;#x00C7;AS. Rio de Janeiro: SBPC, ano 6. n.30, p.20-23.
+
+Leia o trecho retirado do texto:
+
+
+No trecho: &amp;#x201C;.. Mas tamb&amp;#x00E9;m h&amp;#x00E1; in&amp;#x00FA;meros micr&amp;#x00F3;bios &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;ben&amp;#x00E9;ficos&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/u&amp;#x003E;, que decomp&amp;#x00F5;em o corpo morto das plantas e animais...&amp;#x201D; a palavra grifada significa:
+&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>que fazem mal</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>que causam aborrecimentos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>que fazem bem.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Que provocam doen&amp;#x00E7;as.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo e responda.
+
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A origem da noite&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+
+E &amp;#x00E9; assim at&amp;#x00E9; hoje. Depois do mundo feito, vem um para achar defeito. O &amp;#x00ED;ndio U&amp;#x00E1;nham achou na cria&amp;#x00E7;&amp;#x00E3;o uma falha: era dia atr&amp;#x00E1;s de dia, dia atr&amp;#x00E1;s de dia. Noite n&amp;#x00E3;o havia, para se dormir e descansar.
+
+De tanto assuntar, U&amp;#x00E1;nham acabou descobrindo a dona da noite: a Surucucu. Mo&amp;#x00E7;o valente, juntou o arco e as flechas, dizendo &amp;#x00E0; sua gente:
+
+Esperem que esse cansa&amp;#x00E7;o j&amp;#x00E1; finda. Vou e trago a noite comigo, agorinha.
+
+Chegando &amp;#x00E0; casa da Surucucu, bateu palmas e chamou:
+
+&amp;#x2013; &amp;#x00D3;, comadre! Venho de longe pra lhe comprar a noite. Em troca, ofere&amp;#x00E7;o-lhe meu arco e flechas.
+
+A Surucucu danou-se a rir da proposta de U&amp;#x00E1;nham. Depois, respondeu:
+
+&amp;#x2013; E como se usa arco e flecha, sem m&amp;#x00E3;os e p&amp;#x00E9;s? Sua oferta n&amp;#x00E3;o tem serventia para mim.
+
+U&amp;#x00E1;nham voltou para a aldeia e se p&amp;#x00F4;s a matutar. Passou o tempo de uma lua, se lua houvesse. Ent&amp;#x00E3;o, uma ideia brotou-lhe da cachola:
+
+&amp;#x2013; Vou oferecer &amp;#x00E0; dona da noite a faixa que uso nas pernas. Isso ela h&amp;#x00E1; de querer!
+
+Cedinho, banhou-se no rio e foi direto &amp;#x00E0; casa da Surucucu. Como da primeira vez, bateu palmas e chamou. Diante da oferta do &amp;#x00ED;ndio, ela respondeu:
+
+&amp;#x2013; Na perna n&amp;#x00E3;o presta, porque perna n&amp;#x00E3;o tenho. Mas aceito a faixa. Amarre-a no meu rabo.[...]
+
+
+SAVARY, Fl&amp;#x00E1;via. A origem da noite. S&amp;#x00E3;o Paulo: Editora Salesiana, 2006. p. 8-9. Fragmento
+
+
+No trecho &amp;#x201C;Ent&amp;#x00E3;o, uma ideia brotou-lhe da &amp;#x003C;b&amp;#x003E;&amp;#x003C;u&amp;#x003E;cachola&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/u&amp;#x003E;:...&amp;#x201D; ( . 13), a palavra destacada &amp;#x00E9; exemplo de uma
+&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>express&amp;#x00E3;o liter&amp;#x00E1;ria.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>express&amp;#x00E3;o regional.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>linguagem cient&amp;#x00ED;fica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>linguagem informal.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+&amp;#x003C;/style&amp;#x003E;</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
