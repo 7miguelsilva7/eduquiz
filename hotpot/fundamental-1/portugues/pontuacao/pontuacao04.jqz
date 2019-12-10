@@ -161,8 +161,8 @@ No final da hist&amp;#x00F3;ria,
 <exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
 <keypad-characters></keypad-characters>
 <times-up>Your time is over!</times-up>
-<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
-<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
 <contents-caption>Index</contents-caption>
 <include-next-ex>0</include-next-ex>
 <include-contents>1</include-contents>
@@ -184,13 +184,73 @@ No final da hist&amp;#x00F3;ria,
 <user-string-1>one</user-string-1>
 <user-string-2>two</user-string-2>
 <user-string-3>three</user-string-3>
-<header-code>&amp;#x003C;style&amp;#x003E;
+<header-code>&amp;#x003C;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;
+&amp;#x003C;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+&amp;#x003C;script src=&quot;https://code.jquery.com/jquery-3.4.1.slim.min.js&quot; integrity=&quot;sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+&amp;#x003C;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+
+
+
+
+&amp;#x003C;style&amp;#x003E;
 .QuestionText {
  line-height: 25px;
 }
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ height: auto;
+} 
+}
+
 &amp;#x003C;/style&amp;#x003E;
+
 &amp;#x003C;center&amp;#x003E;
-&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
 &amp;#x003C;/center&amp;#x003E;
 &amp;#x003C;/p&amp;#x003E;
 </header-code>
