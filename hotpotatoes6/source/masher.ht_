@@ -98,8 +98,12 @@ a:hover{
 <div class="IndexDiv">
 <ul class="Index">
 
+<<<<<<< HEAD
 [BeginIndexItem]<li>
 <a href="[strIndexItemURL]">[strIndexItemTitle]
+=======
+[BeginIndexItem]<li><a href="[strIndexItemURL]">[strIndexItemTitle]
+>>>>>>> 24ca0033850fcdc0dcd1580610ded633d305d107
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>[EndIndexItem]
 
 </ul>

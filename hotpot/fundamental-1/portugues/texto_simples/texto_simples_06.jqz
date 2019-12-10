@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 06</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 06</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(SAERJ). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O Galo e a Pedra Preciosa&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Esopo
+
+
+Um Galo, que procurava no terreiro, alimento para ele e suas galinhas, acaba por encontrar uma pedra preciosa de grande beleza e valor. Mas, depois de observ&amp;#x00E1;-la por um instante, comenta desolado:
+
+&amp;#x2014; Se ao inv&amp;#x00E9;s de mim, teu dono tivesse te encontrado, ele decerto n&amp;#x00E3;o iria se conter diante de tamanha alegria, e &amp;#x00E9; quase certo que iria te colocar em lugar digno de adora&amp;#x00E7;&amp;#x00E3;o. No entanto, eu te achei e de nada me serves. Antes disso, preferia ter encontrado um simples gr&amp;#x00E3;o de milho, a que todas as j&amp;#x00F3;ias do Mundo!
+
+
+Moral da Hist&amp;#x00F3;ria: A necessidade de cada um &amp;#x00E9; o que determina o real valor das coisas. www.sitededicas.com.br
+
+
+&amp;#x003C;b&amp;#x003E;O tema desse texto &amp;#x00E9;:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a beleza e o valor da pedra preciosa</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a rela&amp;#x00E7;&amp;#x00E3;o entre valor e necessidade</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o alimento preferido de galos e galinhas</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o encontro do galo com a pedra.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Prova Brasil). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Sobrenome&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Como voc&amp;#x00EA;s sabem Frankenstein foi feito com peda&amp;#x00E7;os de pessoas diferentes: a perna era de uma, o bra&amp;#x00E7;o de outra, a cabe&amp;#x00E7;a de uma terceira e assim por diante.
+
+Al&amp;#x00E9;m de o resultado ter sido um desastre houve um grave problema na hora em que Frankenstein foi tirar carteira de identidade.
+
+Como dar identidade a quem era uma mistura de v&amp;#x00E1;rias pessoas?
+
+A coisa s&amp;#x00F3; se resolveu quando algu&amp;#x00E9;m lembrou que num condom&amp;#x00ED;nio cada apartamento &amp;#x00E9; de um dono diferente.
+
+Foi assim que Frankenstein Condom&amp;#x00ED;nio ganhou nome e sobrenome como toda gente.
+
+PAES, Jos&amp;#x00E9; Paulo. L&amp;#x00E9; com Cr&amp;#x00E9;. S&amp;#x00E3;o Paulo: &amp;#x00C1;tica, 1996.
+
+&amp;#x003C;b&amp;#x003E;O assunto do texto &amp;#x00E9; como:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>as pessoas resolvem seus problemas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as pessoas tiram carteira de identidade.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o condom&amp;#x00ED;nio de um pr&amp;#x00E9;dio &amp;#x00E9; formado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o Frankenstein ganhou um sobrenome.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SPAECE). Leia o texto abaixo responda:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Mata Atl&amp;#x00E2;ntica&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+A floresta densa e &amp;#x00FA;mida que voc&amp;#x00EA; v&amp;#x00EA;, quando vai a muitas de suas praias preferidas &amp;#x00E9; a Mata Atl&amp;#x00E2;ntica.
+
+Quando o Brasil foi descoberto, ela margeava todo o litoral, desde o Nordeste at&amp;#x00E9; o Sul do pa&amp;#x00ED;s.
+
+Hoje, restam apenas 7% da vegeta&amp;#x00E7;&amp;#x00E3;o, abrigo de mais de 20 mil esp&amp;#x00E9;cies de plantas, 261 esp&amp;#x00E9;cies de mam&amp;#x00ED;feros, 340 de anf&amp;#x00ED;bios, 192 de r&amp;#x00E9;pteis e 1020 de p&amp;#x00E1;ssaros. Boa parte dessas esp&amp;#x00E9;cies s&amp;#x00F3; existe na Mata Atl&amp;#x00E2;ntica.
+
+Nova Escola. mar. 2009.
+
+
+&amp;#x003C;b&amp;#x003E;Qual &amp;#x00E9; o assunto desse texto?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A constitui&amp;#x00E7;&amp;#x00E3;o da Mata Atl&amp;#x00E2;ntica.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A extens&amp;#x00E3;o do litoral brasileiro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O desaparecimento da floresta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O descobrimento do Brasil.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Elevador cai do 4&amp;#x00BA; andar e fere 8 em S&amp;#x00E3;o Carlos &amp;#x2013; SP&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um elevador despencou ontem do 4&amp;#x00BA;. Andar de um edif&amp;#x00ED;cio em S&amp;#x00E3;o Carlos, no interior paulista, com 11 pessoas dentro. O Corpo de Bombeiros socorreu dez v&amp;#x00ED;timas do acidente, sendo que cinco foram levadas &amp;#x00E0; Santa Casa da cidade, mas apenas com ferimentos leves. Outras tr&amp;#x00EA;s pessoas tiveram escoria&amp;#x00E7;&amp;#x00F5;es. &amp;#x2015; &amp;#x201C;O elevador, que tinha sa&amp;#x00ED;do do 7&amp;#x00BA;. andar, tem capacidade para seis pessoas, cinco a menos que a lota&amp;#x00E7;&amp;#x00E3;o no momento do acidente.&amp;#x201D;
+
+Funcion&amp;#x00E1;rios da Pol&amp;#x00ED;cia Cient&amp;#x00ED;fica do munic&amp;#x00ED;pio fizeram hoje a vistoria do elevador do Edif&amp;#x00ED;cio Ana Paula, no bairro Vila Nery. Moradores j&amp;#x00E1; reclamavam a substitui&amp;#x00E7;&amp;#x00E3;o do antigo elevador e pagaram nos &amp;#x00FA;ltimos meses uma taxa de condom&amp;#x00ED;nio para que fosse feita a troca. A Pol&amp;#x00ED;cia Cient&amp;#x00ED;fica investiga se a causa do acidente foi mesmo o excesso de pessoas.
+
+Ag&amp;#x00EA;ncia Estado. Dispon&amp;#x00ED;vel em: http://www.globo.com (P050017A9_SUP)
+
+
+&amp;#x003C;b&amp;#x003E;Qual &amp;#x00E9; o assunto desse texto?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Uma briga no elevador.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Uma morte dentro do elevador.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Um acidente com um elevador.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Um inc&amp;#x00EA;ndio no elevador.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+&amp;#x003C;/style&amp;#x003E;
+&amp;#x003C;center&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; width=&quot;148&quot; height=&quot;72&quot;&amp;#x003E;
+&amp;#x003C;/center&amp;#x003E;
+&amp;#x003C;/p&amp;#x003E;
+</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
