@@ -6,12 +6,12 @@
     <dc:creator>Miguel Silva</dc:creator>
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
-    <dc:title>FUND. I - DISCIPLINA - CATEGORIA</dc:title>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - VOCABUL&amp;#x00C1;RIO 02</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>FUND. I - DISCIPLINA - CATEGORIA</title>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - VOCABUL&amp;#x00C1;RIO 02</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -22,7 +22,44 @@
 
 </reading>
 
-<questions><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+<questions><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;O SOBE E DESCE DO TERM&amp;#x00D4;METRO&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+
+Frio e calor. Seca e chuva. Geada e vento. Loucuras do tempo! N&amp;#x00E3;o h&amp;#x00E1; nada mais comum do que reclamar do tempo:
+
+&amp;#x2014; Essa chuva n&amp;#x00E3;o p&amp;#x00E1;ra?
+
+&amp;#x2014; Nossa, como est&amp;#x00E1; frio!
+
+&amp;#x2014; N&amp;#x00E3;o ag&amp;#x00FC;ento mais esse calor.
+
+
+Essas observa&amp;#x00E7;&amp;#x00F5;es cotidianas s&amp;#x00E3;o analisadas por estudiosos do tempo para definir o clima das diferentes localidades. Mas o que &amp;#x00E9; clima? Quando analisamos as varia&amp;#x00E7;&amp;#x00F5;es da temperatura e umidade, no per&amp;#x00ED;odo de pelo menos um ano, estamos interessados em definir o clima da regi&amp;#x00E3;o: se &amp;#x00E9; mais quente, mais frio, &amp;#x00FA;mido ou seco.
+
+(Fonte: Adaptado do Atlas Geogr&amp;#x00E1;fico Melhoramentos, p&amp;#x00E1;g. 69, n. 1.)
+
+O texto acima diz que &amp;#x00E9; preciso analisar as varia&amp;#x00E7;&amp;#x00F5;es da temperatura e umidade, no per&amp;#x00ED;odo de pelo menos um ano para definirmos o clima de uma regi&amp;#x00E3;o. A palavra &apos;&amp;#x003C;B&amp;#x003E;&amp;#x003C;U&amp;#x003E;umidade&amp;#x2019;&amp;#x003C;/U&amp;#x003E;&amp;#x003C;/B&amp;#x003E; refere-se:
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x00E0; quantidade de chuva que caiu neste per&amp;#x00ED;odo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ao frio que faz na regi&amp;#x00E3;o em estudo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x00E0; quantidade de rios que a regi&amp;#x00E3;o possui.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ao calor, que causa muito suor nas pessoas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;CENTER&amp;#x003E;&amp;#x003C;B&amp;#x003E;O crescimento do cabelo&amp;#x003C;/B&amp;#x003E;&amp;#x003C;/CENTER&amp;#x003E;
+
+Quem n&amp;#x00E3;o curte um corte de cabelo estiloso para dar uma turbinada no visual?
+
+Nosso cabelo, assim como as unhas, nunca param de crescer. Por isso podemos cort&amp;#x00E1;-lo de v&amp;#x00E1;rias formas sem correr o risco de ficar com a cabe&amp;#x00E7;a pelada.
+
+O cabelo &amp;#x00E9; um fio produzido por uma gl&amp;#x00E2;ndula que fica abaixo da pele. O pelo brota no fol&amp;#x00ED;culo, que &amp;#x00E9; uma esp&amp;#x00E9;cie de tubo no qual as c&amp;#x00E9;lulas produzem prote&amp;#x00ED;nas e queratina.
+
+Essas subst&amp;#x00E2;ncias se acumulam em seu interior e s&amp;#x00E3;o empurradas pra cima, endurecem e assumem a forma de um fio.
+
+Existem cabelos de todos os tipos: lisos, crespos, amarelos, vermelhos etc. A cor e a textura s&amp;#x00E3;o determinadas por fatores gen&amp;#x00E9;ticos.
+
+Jornal Estado de Minas, p. 8, 12 jan. 2008. *Adaptado: Reforma Ortogr&amp;#x00E1;fica.
+
+
+No trecho &amp;#x201C;&amp;#x003C;B&amp;#x003E;Essas subst&amp;#x00E2;ncias&amp;#x003C;/B&amp;#x003E; se acumulam em seu interior e s&amp;#x00E3;o empurradas pra cima...&amp;#x201D;, a express&amp;#x00E3;o destacada substitui
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a prote&amp;#x00ED;na e a queratina.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as gl&amp;#x00E2;ndulas e a pele.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o cabelo e a unha.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>os amarelos e os vermelhos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
