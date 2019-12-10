@@ -149,6 +149,7 @@ No 3&amp;#x00BA; quadrinho, a express&amp;#x00E3;o da personagem M&amp;#x00F4;ni
 @media (max-width: 768px) { 
 .t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
  min-width:100%!important;
+ max-width:100%;
  height: auto;
 } 
 }
