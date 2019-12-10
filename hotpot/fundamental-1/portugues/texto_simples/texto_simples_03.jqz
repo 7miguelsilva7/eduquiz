@@ -327,6 +327,7 @@ No trecho &amp;#x201C;Mas a fuinha tinha &amp;#x003C;b&amp;#x003E;&amp;#x00F3;ti
 @media (max-width: 768px) { 
 .t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
  min-width:100%!important;
+ max-width:100%;
  height: auto;
 } 
 }

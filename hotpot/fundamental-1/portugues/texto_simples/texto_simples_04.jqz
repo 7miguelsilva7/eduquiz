@@ -330,6 +330,7 @@ LOBATO, Monteiro. F&amp;#x00E1;bulas. S&amp;#x00E3;o Paulo: ed. Brasiliense, 199
 @media (max-width: 768px) { 
 .t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
  min-width:100%!important;
+ max-width:100%;
  height: auto;
 } 
 }

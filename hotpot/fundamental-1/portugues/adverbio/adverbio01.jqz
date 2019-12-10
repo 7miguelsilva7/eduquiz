@@ -302,6 +302,7 @@ No trecho &amp;#x201C;&amp;#x2019;O pr&amp;#x00F3;ximo passo &amp;#x00E9; tentar
 @media (max-width: 768px) { 
 .t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
  min-width:100%!important;
+ max-width:100%;
  height: auto;
 } 
 }

@@ -3,8 +3,8 @@
 <hotpot-jquiz-file>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <rdf:Description rdf:about="">
-    <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
     <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 08</dc:title>
   </rdf:Description>
@@ -269,6 +269,7 @@ http://www.orkut.com (adaptado)
 @media (max-width: 768px) { 
 .t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
  min-width:100%!important;
+ max-width:100%;
  height: auto;
 } 
 }
