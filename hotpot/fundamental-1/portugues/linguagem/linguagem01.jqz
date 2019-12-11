@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - LINGU&amp;#x00C1;GEM 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - LINGU&amp;#x00C1;GEM 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Feias, sujas e imbat&amp;#x00ED;veis (fragmento)&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+As baratas est&amp;#x00E3;o na Terra h&amp;#x00E1; mais de 200 milh&amp;#x00F5;es de anos, 
+sobrevivem tanto no deserto como nos polos e podem ficar at&amp;#x00E9; 
+30 dias sem comer. Vai encarar? 
+F&amp;#x00E9;rias, sol e praia s&amp;#x00E3;o alguns dos bons motivos para comemorar a
+
+chegada do ver&amp;#x00E3;o e achar que essa &amp;#x00E9; a melhor esta&amp;#x00E7;&amp;#x00E3;o do ano. E realmente 
+seria, se n&amp;#x00E3;o fosse por um &amp;#x00FA;nico detalhe: as baratas. Assim como 
+n&amp;#x00F3;s, elas tamb&amp;#x00E9;m ficam bem animadas com o calor. Aproveitam a acelera&amp;#x00E7;&amp;#x00E3;o 
+de seus processos bioqu&amp;#x00ED;micos para se reproduzirem mais r&amp;#x00E1;pido e, claro, 
+para passearem livremente por todos os c&amp;#x00F4;modos de nossas casas.
+
+Nessa &amp;#x00E9;poca do ano, as chances de dar de cara com a visitante 
+indesejada, ao acordar durante a noite para beber &amp;#x00E1;gua ou ir ao banheiro, 
+s&amp;#x00E3;o tr&amp;#x00EA;s vezes maiores.
+
+Revista Galileu. Rio de Janeiro: Globo, n&amp;#x00BA; 151, fevereiro de 2004, p. 26.
+
+A express&amp;#x00E3;o &quot;&amp;#x003C;b&amp;#x003E;Vai encarar?&amp;#x003C;/b&amp;#x003E;&quot; (l. 3) &amp;#x00E9; marca de linguagem</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>cient&amp;#x00ED;fica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>formal.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informal.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>regional.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia os textos abaixo.
+
+&amp;#x003C;b&amp;#x003E;MEU DI&amp;#x00C1;RIO&amp;#x003C;/b&amp;#x003E;
+
+7 de julho
+
+Pai &amp;#x00E9; um neg&amp;#x00F3;cio fogo, o meu, o do Toninho, do Mauro, do Joca, do Z&amp;#x00E9; Lu&amp;#x00ED;s e do Beto s&amp;#x00E3;o mais ou menos. O meu deixa jogar na rua, mas nada de chegar perto da avenida. O Toninho est&amp;#x00E1; terminantemente proibido de ir ao bar do Seu Porf&amp;#x00ED;rio. O do Beto &amp;#x00E9; bem bravo, s&amp;#x00F3; que nunca est&amp;#x00E1; em casa: por isso, o Beto &amp;#x00E9; o maior folgado e faz o que quer. Tamb&amp;#x00E9;m, quando o pai chega, mixou a brincadeira. O do Joca &amp;#x00E9; que nem o meu. O do Z&amp;#x00E9; Lu&amp;#x00ED;s deixa, mas &amp;#x00E9; obrigat&amp;#x00F3;rio voltar &amp;#x00E0;s seis em ponto e o do Mauro &amp;#x00E0;s vezes deixa tudo, outras d&amp;#x00E1; bronca que Deus me livre, tudo na tal l&amp;#x00ED;ngua estrangeira que ele inventou.
+
+AZEVEDO, Ricardo. Nossa rua tem um problema. S&amp;#x00E3;o Paulo: Paulinas, 1986.
+
+No texto, frases como:
+
+&quot;Pai &amp;#x00E9; um neg&amp;#x00F3;cio fogo...&quot;
+
+&quot;...o Beto &amp;#x00E9; o maior folgado...&quot;
+
+&quot;...mixou a brincadeira.&quot;
+
+Indicam um tipo de linguagem utilizada mais por</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>idosos</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>professores</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>crian&amp;#x00E7;as</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>cientistas</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PM-CAMA&amp;#x00C7;ARI). Leia os textos abaixo e responda.
+
+&amp;#x003C;b&amp;#x003E;Texto 1&amp;#x003C;/b&amp;#x003E;
+
+&amp;#x003C;img src=&quot;../../../img/8400e0f6dd72e3ff371914ce4b6a222deaeb8a38.svg&quot; class=&quot;t30&quot;&amp;#x003E;
+
+&amp;#x003C;b&amp;#x003E;Texto 2&amp;#x003C;/b&amp;#x003E;
+
+O que &amp;#x00E9; bullying?
+
+Bullying &amp;#x00E9; uma situa&amp;#x00E7;&amp;#x00E3;o que se caracteriza por agress&amp;#x00F5;es intencionais, verbais ou f&amp;#x00ED;sicas, feitas de maneira repetitiva, por um ou mais alunos contra um ou mais colegas. O termo bullying tem origem na palavra inglessa bully, que significa valent&amp;#x00E3;o, brig&amp;#x00E3;o. Mesmo sem uma denomina&amp;#x00E7;&amp;#x00E3;o em portugu&amp;#x00EA;s, &amp;#x00E9; entendido como amea&amp;#x00E7;a, tirania, opress&amp;#x00E3;o, intimida&amp;#x00E7;&amp;#x00E3;o, humilha&amp;#x00E7;&amp;#x00E3;o e maltrato.
+
+A express&amp;#x00E3;o &amp;#x201C;&amp;#x003C;b&amp;#x003E;valent&amp;#x00E3;o&amp;#x003C;/b&amp;#x003E;&amp;#x201D; &amp;#x00E9; marca da linguagem
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>cientifica</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>formal</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informal</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>regional</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SPAECE). Leia o texto abaixo.
+
+Voc&amp;#x00EA; sabia que cheirinho de terra molhada &amp;#x00E9; obra de bact&amp;#x00E9;rias?
+
+Subst&amp;#x00E2;ncia produzida por um tipo de micro-organismo, em contato com a &amp;#x00E1;gua, gera esse aroma.
+
+O dia est&amp;#x00E1; quente e, de repente, cai aquela chuva para refrescar. Bastam as primeiras gotas tocarem o solo para sentirmos aquele agrad&amp;#x00E1;vel cheirinho de terra molhada. Um cientista diria: &amp;#x201C;Huumm, como &amp;#x00E9; bom esse cheirinho de... Bact&amp;#x00E9;rias!&amp;#x201D;. &amp;#x00C9; isso a&amp;#x00ED;! O aroma que sentimos vem desses seres microsc&amp;#x00F3;picos, que podem ser muito &amp;#x00FA;teis para humanos e at&amp;#x00E9; para os... Camelos!
+
+Em geral, associamos bact&amp;#x00E9;rias a doen&amp;#x00E7;as, mas alguns desses seres s&amp;#x00E3;o inofensivos, pode crer. Esse &amp;#x00E9; o caso da Streptomyces coelicolor, bact&amp;#x00E9;ria que vive no solo e fabrica uma subst&amp;#x00E2;ncia, [...] que nos faz perceber o cheirinho de terra molhada.
+
+Al&amp;#x00E9;m de ser excelente produtora de antibi&amp;#x00F3;ticos &amp;#x2013; medicamentos indicados para combater algumas doen&amp;#x00E7;as de origem bacteriana &amp;#x2013;, essa bact&amp;#x00E9;ria &amp;#x00E9;, digamos, uma aliada dos camelos. O odor caracter&amp;#x00ED;stico que elas produzem em raz&amp;#x00E3;o da umidade ajuda os camelos a encontrarem &amp;#x00E1;gua no deserto. Claro que para sentir o cheirinho produzido pelas bact&amp;#x00E9;rias em ambiente t&amp;#x00E3;o seco os camelos precisam contar com um superolfato. E contam mesmo! Gra&amp;#x00E7;as a esse sentido agu&amp;#x00E7;ado, s&amp;#x00E3;o capazes de encontrar &amp;#x00E1;gua a mais de oitenta quil&amp;#x00F4;metros de dist&amp;#x00E2;ncia.
+
+Isso &amp;#x00E9; que &amp;#x00E9; faro! [...]
+
+SILVA, Andreza Moura Pinheiro. Dispon&amp;#x00ED;vel em: http://cienciahoje.uol.com.br/147532 Acesso em: 14 jul. 2009.
+
+No trecho &amp;#x201C;Esse &amp;#x00E9; o caso da &amp;#x003C;b&amp;#x003E;Streptomyces coelicolor&amp;#x003C;/b&amp;#x003E;,...&amp;#x201D; ( . 7), a express&amp;#x00E3;o destacada &amp;#x00E9; exemplo de linguagem</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>cientifica.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>culta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informal.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>t&amp;#x00E9;cnica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;
+&amp;#x003C;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+&amp;#x003C;script src=&quot;https://code.jquery.com/jquery-3.4.1.slim.min.js&quot; integrity=&quot;sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+&amp;#x003C;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+
+
+
+
+&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ max-width:100%;
+ height: auto;
+} 
+}
+
+&amp;#x003C;/style&amp;#x003E;
+
+&amp;#x003C;center&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
+&amp;#x003C;/center&amp;#x003E;
+&amp;#x003C;/p&amp;#x003E;
+</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
