@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 17</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 17</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;B&amp;#x003E;Receita de espantar a tristeza&amp;#x003C;/B&amp;#x003E;
+
+
+Fa&amp;#x00E7;a uma careta
+
+E mande a tristeza
+
+Pra longe, pro outro lado
+
+Do mar ou da lua
+
+
+V&amp;#x00E1; para o meio da rua
+
+E plante bananeira
+
+Fa&amp;#x00E7;a alguma besteira
+
+
+Depois estique os bra&amp;#x00E7;os
+
+Apanhe a primeira estrela
+
+E procure o melhor amigo
+
+Para um longo e apertado abra&amp;#x00E7;o
+
+
+Roseana Murray. Receitas de olhar. S&amp;#x00E3;o Paulo: FTD, 1997.
+
+
+Os versos do poema que expressam o significado da express&amp;#x00E3;o &amp;#x201C;&amp;#x003C;B&amp;#x003E;espantar a tristeza&amp;#x003C;/B&amp;#x003E;&amp;#x201D;, presente no t&amp;#x00ED;tulo do texto, &amp;#x00E9;
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x201C;V&amp;#x00E1; para o meio da rua E plante bananeira&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;Depois estique os bra&amp;#x00E7;os Apanhe a primeira estrela&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;E mande a tristeza Pra longe, pro outro lado&amp;#x201D;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;E procure o melhor amigo Para um longo e apertado abra&amp;#x00E7;o&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>O texto abaixo &amp;#x00E9;:
+
+&amp;#x003C;img src=&quot;../../../img/44af3ef0e9d499fb743d69766fc940d04dcbb9e5.svg&quot; class=&quot;t40&quot; &amp;#x003E;
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma poesia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma receita.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um cartum.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma m&amp;#x00FA;sica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROMOVER). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Identidade&amp;#x003C;/b&amp;#x003E;
+
+&amp;#x00C0;s vezes nem eu mesmo
+
+Sei quem sou.
+
+&amp;#x00C0;s vezes sou
+
+&amp;#x201C;o meu queridinho&amp;#x201D;,
+
+&amp;#x00C0;s vezes sou
+
+&amp;#x201C;moleque malcriado&amp;#x201D;.
+
+Para mim
+
+Tem vezes que sou rei,
+
+Her&amp;#x00F3;i voador,
+
+Caub&amp;#x00F3;i lutador, jogador campe&amp;#x00E3;o.
+
+&amp;#x00C0;s vezes sou pulga,
+
+Sou mosca tamb&amp;#x00E9;m, Que voa e se esconde
+
+De medo e vergonha.
+
+&amp;#x00C0;s vezes eu sou H&amp;#x00E9;rcules,
+
+Sans&amp;#x00E3;o vencedor,
+
+Peito de a&amp;#x00E7;o,
+
+Goleador!
+
+Mas o que importa
+
+O que pensam de mim?
+
+Eu sou quem sou,
+
+Eu sou eu,
+
+Sou assim, sou menino.
+
+
+
+Bandeira, Pedro. Cavalgando o Arco-&amp;#x00CD;ris. S&amp;#x00E3;o Paulo, Moderna, 2002.
+
+Esse texto &amp;#x00E9;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>um an&amp;#x00FA;ncio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um poema.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma f&amp;#x00E1;bula.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma piada.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+
+&amp;#x003C;b&amp;#x003E;FADA FEITICEIRA&amp;#x003C;/b&amp;#x003E;
+
+Geralda
+
+&amp;#x00C9; uma fada cozinheira
+
+Que quando entra na cozinha
+
+At&amp;#x00E9; parece feiticeira.
+
+&amp;#x00C9; que seus
+
+molhos s&amp;#x00E3;o pecados
+
+As suas massas s&amp;#x00E3;o feiti&amp;#x00E7;os
+
+As suas carnes s&amp;#x00E3;o caprichos
+
+Quitutes da m&amp;#x00E3;e brasileira.
+
+Seus doces
+
+Seus bons-bocados, seus quindins
+
+Suas pamonhas, seus bombons
+
+Suas pa&amp;#x00E7;ocas, seus pudins.
+
+Quando ela faz a sobremesa
+
+&amp;#x00C9; sempre o prato mais gostoso
+
+Vem um perfume saboroso
+
+Que todo mundo vai querer
+
+Pegar
+
+   Sentir
+
+     Mexer
+
+        Cheirar
+
+           Provar
+
+             Lamber
+
+                Morder
+
+                   Comer
+
+
+Ricardo Azevedo. A casa do meu av&amp;#x00F4;. S&amp;#x00E3;o Paulo: &amp;#x00C1;tica, 2003.
+
+Os versos 17 a 24, constru&amp;#x00ED;dos por meio de verbos, expressam</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>os passos a serem seguidos por aqueles que desejam cozinhar bem.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>os desejos das pessoas ao sentirem o perfume da sobremesa de Geralda.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as atitudes adotadas pela fada feiticeira ao preparar seus feiti&amp;#x00E7;os.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as instru&amp;#x00E7;&amp;#x00F5;es para prepara&amp;#x00E7;&amp;#x00E3;o dos quitutes da m&amp;#x00E3;e brasileira.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Guiando a Boiada&amp;#x003C;/b&amp;#x003E;
+
+Boi, boiada, boiadeiro,
+
+Boiadeiro, boi, boiada,
+
+Vai correndo pela estrada,
+
+Levantando o p&amp;#x00F3; do ch&amp;#x00E3;o.
+
+Vai tangida pelo medo,
+
+Vai tangida pela morte,
+
+Vai tangida pela sorte,
+
+Como o povo pela rua...
+
+N&amp;#x00E3;o sabe para onde vai
+
+Mas a coisa mais segura,
+
+&amp;#x00C9; o caminho derradeiro.
+
+Boi, boiada, boiadeiro,
+
+Seguindo na estrada escura.
+
+
+
+Ruth Rocha. Boi, boiada, boiadeiro. S&amp;#x00E3;o Paulo: Quinteto Editorial, 1987.
+
+Essa hist&amp;#x00F3;ria se passa</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>na estrada.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>na rua.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>no frigor&amp;#x00ED;fico.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>no s&amp;#x00ED;tio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+
+&amp;#x003C;b&amp;#x003E;Qualquer vida &amp;#x00E9; muita dentro da floresta&amp;#x003C;/b&amp;#x003E;
+
+Se a gente olha de cima, parece tudo parado. 
+Mas por dentro &amp;#x00E9; diferente. 
+
+A floresta est&amp;#x00E1; sempre em movimento. 
+
+H&amp;#x00E1; uma vida dentro dela que se transforma
+
+
+
+sem parar. 
+
+Vem o vento. 
+
+Vem a chuva. 
+
+Caem as folhas. 
+
+E nascem novas folhas.
+
+
+
+E os frutos s&amp;#x00E3;o alimento. 
+
+Os p&amp;#x00E1;ssaros deixam cair as sementes. 
+
+Das sementes nascem novas &amp;#x00E1;rvores. 
+
+As luzes dos vaga-lumes s&amp;#x00E3;o estrelas na
+
+
+
+terra. 
+
+E com o sol vem o dia. 
+
+Esquenta a mata. 
+
+Ilumina as folhas. 
+
+Tudo tem cor e movimento.
+
+&amp;#x00CD;NDIOS TICUNA. Qualquer Vida &amp;#x00C9; Muita Dentro da Floresta. In: O Livro das &amp;#x00C1;rvores. 2. ed. Organiza&amp;#x00E7;&amp;#x00E3;o Geral dos Professores Ticuna Bil&amp;#x00ED;ngues, 1998, p. 48
+
+A ideia central do texto &amp;#x00E9;:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a chuva na floresta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a import&amp;#x00E2;ncia do Sol.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a vida na floresta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o movimento das &amp;#x00E1;guas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Qualquer vida &amp;#x00E9; muita dentro da floresta&amp;#x003C;/b&amp;#x003E;
+
+Se a gente olha de cima, parece tudo parado. 
+
+Mas por dentro &amp;#x00E9; diferente. 
+
+A floresta est&amp;#x00E1; sempre em movimento. 
+
+H&amp;#x00E1; uma vida dentro dela que se transforma
+
+
+
+sem parar. 
+
+Vem o vento. 
+
+Vem a chuva. 
+
+Caem as folhas. 
+
+E nascem novas folhas.
+
+
+
+Das flores saem os frutos. 
+
+E os frutos s&amp;#x00E3;o alimento. 
+
+Os p&amp;#x00E1;ssaros deixam cair as sementes. 
+
+Das sementes nascem novas &amp;#x00E1;rvores. 
+
+As luzes dos vaga-lumes s&amp;#x00E3;o estrelas na
+
+
+
+terra. 
+
+E com o sol vem o dia. 
+
+Esquenta a mata. 
+
+Ilumina as folhas. 
+
+Tudo tem cor e movimento.
+
+
+&amp;#x00CD;NDIOS TICUNA. Qualquer Vida &amp;#x00C9; Muita Dentro da Floresta. In: O Livro das &amp;#x00C1;rvores. 2. ed. Organiza&amp;#x00E7;&amp;#x00E3;o Geral dos Professores Ticuna Bil&amp;#x00ED;ngues, 1998, p. 48
+
+
+ue diz o trecho:
+
+&amp;#x003C;i&amp;#x003E;&quot;Esquenta a mata. 
+
+Ilumina as folhas. 
+
+Tudo tem cor e movimento.&quot;&amp;#x003C;/i&amp;#x003E;
+
+Acontece porque</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>aparecem estrelas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>brotam flores.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>chega o sol</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>vem o vento.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o poema abaixo e responda &amp;#x00E0; quest&amp;#x00E3;o.
+
+
+No &amp;#x00FA;ltimo andar &amp;#x00E9; mais bonito:
+do &amp;#x00FA;ltimo andar se v&amp;#x00EA; o mar.
+&amp;#x00C9; l&amp;#x00E1; que eu quero morar.
+
+O &amp;#x00FA;ltimo andar &amp;#x00E9; muito longe:
+custa-se muito a chegar.
+Mas &amp;#x00E9; l&amp;#x00E1; que eu quero morar.
+
+Todo o c&amp;#x00E9;u fica a noite inteira
+sobre o &amp;#x00FA;ltimo andar
+&amp;#x00C9; l&amp;#x00E1; que eu quero morar.
+
+Quando faz lua no terra&amp;#x00E7;o
+fica todo o luar.
+&amp;#x00C9; l&amp;#x00E1; que eu quero morar.
+
+Os passarinhos l&amp;#x00E1; se escondem
+para ningu&amp;#x00E9;m os maltratar:
+no &amp;#x00FA;ltimo andar.
+
+De l&amp;#x00E1; se avista o mundo inteiro:
+tudo parece perto, no ar.
+&amp;#x00C9; l&amp;#x00E1; que eu quero morar:
+no &amp;#x00FA;ltimo andar.
+
+
+
+MEIRELES, Cec&amp;#x00ED;lia. Ou isto ou aquilo. Rio de Janeiro. Civiliza&amp;#x00E7;&amp;#x00E3;o Brasileira. 1981, p. 85.
+
+&amp;#x201C;&amp;#x003C;b&amp;#x003E;Os passarinhos l&amp;#x00E1; se escondem&amp;#x003C;/b&amp;#x003E;&amp;#x201D;. Nesse poema, onde &amp;#x00E9; o l&amp;#x00E1;?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>C&amp;#x00E9;u</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mundo inteiro</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Terra&amp;#x00E7;o</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x00DA;ltimo andar.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROMOVER). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;O PATO&amp;#x003C;/b&amp;#x003E;
+
+L&amp;#x00E1; vem o pato
+
+Pata aqui, pata acol&amp;#x00E1;
+
+L&amp;#x00E1; vem o pato
+
+Para ver o que &amp;#x00E9; que h&amp;#x00E1;.
+
+O pato pateta
+
+Pintou o caneco
+
+Surrou a galinha
+
+Bateu no marreco
+
+Pulou do poleiro
+
+No p&amp;#x00E9; do cavalo
+
+Levou um coice
+
+Criou um galo
+
+Comeu um peda&amp;#x00E7;o
+
+De jenipapo
+
+Ficou engasgado
+
+Com dor no papo
+
+Caiu no po&amp;#x00E7;o
+
+Quebrou a tigela
+
+Tantas fez o mo&amp;#x00E7;o
+
+Que foi pra panela.
+
+
+
+MORAES, Vin&amp;#x00ED;cius de. A arca de No&amp;#x00E9;: Poemas infantis. S&amp;#x00E3;o Paulo: Companhia das Letrinhas, 1991.
+
+No trecho &amp;#x201C;Tantas fez o mo&amp;#x00E7;o ...&amp;#x201D;, a palavra grifada se refere</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;
+&amp;#x003C;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+&amp;#x003C;script src=&quot;https://code.jquery.com/jquery-3.4.1.slim.min.js&quot; integrity=&quot;sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+&amp;#x003C;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+
+
+
+
+&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ max-width:100%;
+ height: auto;
+} 
+}
+
+&amp;#x003C;/style&amp;#x003E;
+
+&amp;#x003C;center&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
+&amp;#x003C;/center&amp;#x003E;
+&amp;#x003C;/p&amp;#x003E;
+</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
