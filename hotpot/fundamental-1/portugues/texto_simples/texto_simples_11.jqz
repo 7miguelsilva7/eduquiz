@@ -3,8 +3,8 @@
 <hotpot-jquiz-file>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <rdf:Description rdf:about="">
-    <dc:creator>Miguel Silva</dc:creator>
     <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
     <dc:creator>Alexandre</dc:creator>
     <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 11</dc:title>
   </rdf:Description>
@@ -22,7 +22,7 @@
 
 </reading>
 
-<questions><question-record><question>&amp;#x003C;center&amp;#x003C;img src=&quot;../../../img/00cd6c30c31ac819029011d2d7ddd7d6c222b71c.svg&quot; class=&quot;t30&quot;&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+<questions><question-record><question>&amp;#x003C;center&amp;#x003E;&amp;#x003C;img src=&quot;../../../img/00cd6c30c31ac819029011d2d7ddd7d6c222b71c.svg&quot; class=&quot;t30&quot;&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
 
 Na tabela da Copa do Mundo 2010, o pa&amp;#x00ED;s do grupo &amp;#x003C;b&amp;#x003E;G&amp;#x003C;/b&amp;#x003E; que tem mais vit&amp;#x00F3;rias &amp;#x00E9;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Brasil.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Portugal.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Costa do Marfim.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Cor&amp;#x00E9;ia do Norte.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o quadro abaixo.
 
