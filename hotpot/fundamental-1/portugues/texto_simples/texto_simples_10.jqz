@@ -147,7 +147,7 @@ Sa&amp;#x00FA;de. Abril, nov. 2007.
 
 &amp;#x003C;b&amp;#x003E;O tema do cartaz acima alerta para os cuidados que as pessoas devem ter com os animais quanto a sua&amp;#x003C;/b&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>identifica&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>alimenta&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>reprodu&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>vacina&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x003C;img src=&quot;../../../img/27327fffe6e43a890f9d3700e12035378a0db5d0.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t50&quot;&amp;#x003E;
 &amp;#x003C;b&amp;#x003E;O objetivo do texto &amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
-&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>mostrar a import&amp;#x00E2;ncia dos livros.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>divulgar uma feira de livros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>explicar como s&amp;#x00E3;o feitos os livros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>mostrar a import&amp;#x00E2;ncia dos livros.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>divulgar uma feira de livros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>explicar como s&amp;#x00E3;o feitos os livros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
 </data>
 
 <hotpot-config-file>
@@ -196,7 +196,7 @@ Sa&amp;#x00FA;de. Abril, nov. 2007.
 <graphic-url></graphic-url>
 <font-face>Arial,Geneva,sans-serif</font-face>
 <font-size>100%</font-size>
-<page-bg-color>#EBEBEB</page-bg-color>
+<page-bg-color>#f8f9fa</page-bg-color>
 <title-color>#000000</title-color>
 <ex-bg-color>#FFFFFF</ex-bg-color>
 <text-color>#000000</text-color>
@@ -276,7 +276,7 @@ Sa&amp;#x00FA;de. Abril, nov. 2007.
 &amp;#x003C;/style&amp;#x003E;
 
 &amp;#x003C;center&amp;#x003E;
-&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot; width=&quot;185px&quot;&amp;#x003E;
 &amp;#x003C;/center&amp;#x003E;
 &amp;#x003C;/p&amp;#x003E;
 </header-code>

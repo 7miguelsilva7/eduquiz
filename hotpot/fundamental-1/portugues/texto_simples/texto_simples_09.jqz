@@ -314,7 +314,7 @@ O cachorro entra da rua e senta entre os dois pregui&amp;#x00E7;osos.
 <graphic-url></graphic-url>
 <font-face>Arial,Geneva,sans-serif</font-face>
 <font-size>100%</font-size>
-<page-bg-color>#EBEBEB</page-bg-color>
+<page-bg-color>#f8f9fa</page-bg-color>
 <title-color>#000000</title-color>
 <ex-bg-color>#FFFFFF</ex-bg-color>
 <text-color>#000000</text-color>
@@ -394,7 +394,7 @@ O cachorro entra da rua e senta entre os dois pregui&amp;#x00E7;osos.
 &amp;#x003C;/style&amp;#x003E;
 
 &amp;#x003C;center&amp;#x003E;
-&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot; width=&quot;185px&quot;&amp;#x003E;
 &amp;#x003C;/center&amp;#x003E;
 &amp;#x003C;/p&amp;#x003E;
 </header-code>
