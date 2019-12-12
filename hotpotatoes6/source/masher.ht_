@@ -6,7 +6,8 @@
 <head>
 
 <center>
-<img width="85px" src="../../../img/aet_logo_2017.png" alt="Articuladores de Educação Tecnológica" class="img-fluid">&nbsp;&nbsp;<img src="../../../img/eduquiz_logo.png" alt="Eduquiz" class="img-fluid">
+<img width="85px" src="../../../img/aet_logo_2017.png" alt="Articuladores de Educação Tecnológica" class="img-fluid">&nbsp;&nbsp;
+<a href="../../../index.htm"><img src="../../../img/eduquiz_logo.png" alt="Eduquiz" class="img-fluid"></a>
 </center>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
