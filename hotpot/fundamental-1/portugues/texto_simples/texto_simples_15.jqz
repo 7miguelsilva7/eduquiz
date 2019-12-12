@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 15</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 15</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(SAEPE). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Covardia&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Passeavam dois amigos numa floresta, quando apareceu um urso feroz e se lan&amp;#x00E7;ou sobre eles.
+
+Um deles trepou numa &amp;#x00E1;rvore e escondeu-se, enquanto o outro ficava no caminho. Deixando-se cair ao solo, fingiu-se morto.
+
+O urso aproximou-se e cheirou o homem, mas como este retinha a respira&amp;#x00E7;&amp;#x00E3;o, julgou-o morto e afastou-se.
+
+Quando a fera estava longe, o outro desceu da &amp;#x00E1;rvore e perguntou, a gracejar, ao companheiro:
+
+&amp;#x2014; Que te disse o urso ao ouvido?
+
+&amp;#x2014; Disse-me que aquele que abandona o seu amigo no perigo &amp;#x00E9; um covarde.
+
+
+TAHAN, Malba. Lendas do c&amp;#x00E9;u e da terra. 23 ed. Rio de Janeiro: Record, 1998.
+
+
+&amp;#x003C;b&amp;#x003E;O amigo que estava na &amp;#x00E1;rvore desceu porque:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>observou do alto um lugar melhor para esconder-se.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>achou melhor tamb&amp;#x00E9;m fingir-se de morto.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>queria ajudar o amigo a livrar-se do urso.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>viu que o urso j&amp;#x00E1; estava distante.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>O texto abaixo &amp;#x00E9;:
+
+&amp;#x003C;img src=&quot;../../../img/44af3ef0e9d499fb743d69766fc940d04dcbb9e5.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t60&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma poesia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma receita.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um cartum.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma m&amp;#x00FA;sica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/afc5f470592e4e33a9b8e984d11ba146e1de3179.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t50&quot;&amp;#x003E;
+
+(http://www.sergeicartoons.com/Cartoons/Ambiente/corte-de-arvores.htm)
+
+&amp;#x003C;b&amp;#x003E;O que h&amp;#x00E1; de comum entre as a&amp;#x00E7;&amp;#x00F5;es realizadas pelos personagens do cartoon?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>os dois est&amp;#x00E3;o trabalhando.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ambos est&amp;#x00E3;o se divertindo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>os personagens compraram uma casa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ambos os personagens est&amp;#x00E3;o ocupados em destruir a casa do outro.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A Raposa e o Canc&amp;#x00E3;o&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Passara a manh&amp;#x00E3; chovendo, e o Canc&amp;#x00E3;o todo molhado, sem poder voar, estava tristemente pousado &amp;#x00E0; beira de uma estrada. Veio a raposa e levou-o na boca para os filhinhos. Mas o caminho era longo e o sol ardente. Mestre Canc&amp;#x00E3;o enxugou e come&amp;#x00E7;ou a cuidar do meio de escapar &amp;#x00E0; raposa. Passam perto de um povoado. Uns meninos que brincavam come&amp;#x00E7;am a dirigir desaforos &amp;#x00E0; astuciosa ca&amp;#x00E7;adora. Vai o Canc&amp;#x00E3;o e fala:
+
+&amp;#x2014; Comadre raposa, isto &amp;#x00E9; um desaforo! Eu se fosse voc&amp;#x00EA; n&amp;#x00E3;o ag&amp;#x00FC;entava! Pas&amp;#x00AD;sava uma descompostura!...
+
+A raposa abre a boca num improp&amp;#x00E9;rio terr&amp;#x00ED;vel contra a crian&amp;#x00E7;ada. O Canc&amp;#x00E3;o voa, pousa triunfantemente num galho e ajuda a vai&amp;#x00E1;-la...
+
+
+CASCUDO, Lu&amp;#x00ED;s C&amp;#x00E2;mara. Contos tradicionais do Brasil. 16&amp;#x00AA; ed. Rio de Janeiro: Ediouro, 2001.
+
+
+&amp;#x003C;b&amp;#x003E;No final da hist&amp;#x00F3;ria, a raposa foi:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>corajosa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>cuidadosa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>esperta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ing&amp;#x00EA;nua.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O galo cantor&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Era uma vez, um galo conhecido por sua arrog&amp;#x00E2;ncia. Costumava demonstrar for&amp;#x00E7;a ao raiar do sol , quando cantava bem alto, de modo a superar, no timbre e no tempo, o canto dos companheiros. Erguia a crista, estufava o peito e permanecia assim por horas. As galinhas olhavam compreensivas, apesar de um tanto entediadas com a repeti&amp;#x00E7;&amp;#x00E3;o di&amp;#x00E1;ria do presun&amp;#x00E7;oso rito.
+
+Certo dia, chovia muito. O galo estufou o peito, ergueu a crista e cantou como sempre. Os outros galos se calaram.
+
+N&amp;#x00E3;o demorou, e a garganta do arrogante cantor se inflamou gravemente. Ele encolheu, ficou muito gripado e, afinal, teve uma forte pneumonia que emudeceu suas cordas vocais. N&amp;#x00E3;o pode mais cantar.
+
+Um gamb&amp;#x00E1;, que sempre passava por ali, comentou:
+
+&amp;#x2014; Era s&amp;#x00F3; voz o grande galo? Nada aprendeu nesse tempo de dom&amp;#x00ED;nio? As galinhas se calaram.
+
+.
+
+Moral da Hist&amp;#x00F3;ria: A arrog&amp;#x00E2;ncia &amp;#x00E9; amiga da estupidez.
+
+
+ANDRADE, Rachel Gazolla de. F&amp;#x00E1;bulas nuas e cruas. S&amp;#x00E3;o Paulo: Par&amp;#x00E1;bola Editorial, 2005. p. 11. (P050533A9_SUP)
+
+
+Nesse texto, a frase &amp;#x003C;b&amp;#x003E;&amp;#x2015; &amp;#x201C;Era s&amp;#x00F3; voz o grande galo?&amp;#x201D;&amp;#x003C;/b&amp;#x003E; foi dita:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>pelo cantor.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>desafiou o le&amp;#x00E3;o para uma luta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>foi derrotado por uma aranha.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SADEAM). Leia o texto abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O Le&amp;#x00E3;o e o Inseto&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um Inseto se aproximou de um Le&amp;#x00E3;o e disse sussurrando em seu ouvido: &amp;#x201C;N&amp;#x00E3;o tenho nenhum medo de voc&amp;#x00EA;, nem acho voc&amp;#x00EA; mais forte que eu. Se voc&amp;#x00EA; duvida disso, eu o desafio para uma luta, e, assim, veremos quem ser&amp;#x00E1; o vencedor.&amp;#x201D;
+
+E voando rapidamente sobre o Le&amp;#x00E3;o, deu-lhe uma ferroada no nariz. O Le&amp;#x00E3;o, tentando peg&amp;#x00E1;-lo com as garras, apenas atingia a si mesmo, ficando, assim, bastante ferido.
+
+Desse modo, o Inseto venceu o Le&amp;#x00E3;o, e entoando o mais alto que podia uma can&amp;#x00E7;&amp;#x00E3;o que simbolizava sua vit&amp;#x00F3;ria sobre o Rei dos animais, foi embora relatar seu feito para o mundo.
+
+Mas, na &amp;#x00E2;nsia de voar para longe e rapidamente espalhar a not&amp;#x00ED;cia, acabou preso numa teia de aranha.
+
+Ent&amp;#x00E3;o se lamentou dizendo: &amp;#x201C;Ai de mim, eu que sou capaz de vencer a maior das feras, fui vencido por uma simples Aranha.&amp;#x201D;
+
+Moral da Hist&amp;#x00F3;ria: O menor dos nossos inimigos &amp;#x00E9; frequentemente o mais perigoso.
+
+ESOPO. Dispon&amp;#x00ED;vel em: http://sitededicas.uol.com.br.
+
+Acesso em: 24 mar. 2010.
+
+
+&amp;#x003C;b&amp;#x003E;No final dessa hist&amp;#x00F3;ria, o inseto&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>comemorou a vit&amp;#x00F3;ria com os animais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>desafiou o le&amp;#x00E3;o para uma luta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>foi derrotado por uma aranha.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>fugiu da luta voando rapidamente.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O LOBO DESATENTO&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Certa noite, um lobo andava pela floresta em busca de comida. E j&amp;#x00E1; estava empenhado nessa tarefa havia um bom tempo, sem qualquer resultado pr&amp;#x00E1;tico, quando sentiu no ar o cheiro de carneiros. &amp;#x201C;At&amp;#x00E9; que enfim!&amp;#x201D;, foi o pensamento que lhe veio &amp;#x00E0; cabe&amp;#x00E7;a de imediato, e ent&amp;#x00E3;o, imaginando o que de bom poderia encontrar mais adiante para aplacar a fome que sentia, ele caminhou rapidamente na dire&amp;#x00E7;&amp;#x00E3;o que o seu faro indicava.
+
+Logo &amp;#x00E0; frente, as &amp;#x00E1;rvores davam lugar a uma grande &amp;#x00E1;rea coberta de relva, e era nesse peda&amp;#x00E7;o de ch&amp;#x00E3;o que os carneiros descansavam protegidos por um c&amp;#x00E3;o. O lobo n&amp;#x00E3;o se preocupou com isso. O que fez foi sair andando passo a passo, o mais devagar que podia, procurando se aproximar do ponto que ficava mais distante do vigia, onde algumas das poss&amp;#x00ED;veis presas dormiam sossegadas.
+
+E j&amp;#x00E1; estava quase l&amp;#x00E1;, quando uma de suas patas traseiras descuidou-se um momento e pisou em um peda&amp;#x00E7;o de t&amp;#x00E1;bua j&amp;#x00E1; meio apodrecido. Esta rangeu sob o peso do animal, e o barulho que fez soou t&amp;#x00E3;o alto em meio ao sil&amp;#x00EA;ncio da noite que acordou o c&amp;#x00E3;o de guarda, fazendo-o sair na mesma hora em persegui&amp;#x00E7;&amp;#x00E3;o ao lobo desastrado. Que por sua vez, coitado, n&amp;#x00E3;o teve outra coisa a fazer sen&amp;#x00E3;o fugir em desabalada carreira, esfomeado e sem alimento.
+
+Moral da hist&amp;#x00F3;ria: Quem n&amp;#x00E3;o presta aten&amp;#x00E7;&amp;#x00E3;o no que faz, algum dia vai acabar se metendo em apuros.
+
+Dispon&amp;#x00ED;vel em: http://www.fernandodannemann.recantodasletras.com.br. Acesso em: 5 abr. 2010.
+
+
+&amp;#x003C;b&amp;#x003E;De acordo com esse texto, o lobo aproximava-se dos carneiros o mais devagar que podia, porque&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>estava com as patas presas a uma t&amp;#x00E1;bua apodrecida.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>estava fraco por ter ficado muitos dias sem comer.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>havia muitas &amp;#x00E1;rvores no caminho e ele podia cair.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>queria pegar um carneiro sem ser visto pelo c&amp;#x00E3;o vigia.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O MACACO E A VELHA&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Havia uma velha, muito velha, chamada Marocas. Ela possu&amp;#x00ED;a um lindo bananal.
+
+Mas a coitadinha da velha comia poucas bananas, pois havia um macaco que lhe roubava todas.
+
+Um dia, Marocas, cansada de ser roubada, teve uma ideia. Comprou no armaz&amp;#x00E9;m v&amp;#x00E1;rios quilos de alcatr&amp;#x00E3;o e com ele fez um boneco. Colocou-o num grande tabuleiro e o levou para o meio do bananal, pensando em dar uma li&amp;#x00E7;&amp;#x00E3;o no macaco.
+
+Logo que Marocas voltou para casa, l&amp;#x00E1; veio o macaco Sim&amp;#x00E3;o de mansinho.
+
+Quando avistou o boneco, zangou-se pensando que ele lhe roubava as bananas.
+
+O macaco, muito zangado, deu-lhe uns sopapos, ficando com a m&amp;#x00E3;o grudada no alcatr&amp;#x00E3;o. Deu-lhe um pontap&amp;#x00E9;. Ficou preso no boneco tamb&amp;#x00E9;m o seu p&amp;#x00E9;. O macaco deu, ent&amp;#x00E3;o, uma cabe&amp;#x00E7;ada e ficou todinho grudado.
+
+Marocas, saindo do barraco, pegou o chicote e surrou o macaco e s&amp;#x00F3; parou, quando Sim&amp;#x00E3;o, dando tr&amp;#x00EA;s pulos, desgrudou-se do alcatr&amp;#x00E3;o e fugiu. Certa manh&amp;#x00E3;, Sim&amp;#x00E3;o teve uma ideia para se vingar da velha Marocas. Ele entrou numa pele de le&amp;#x00E3;o que encontrou na floresta. Pulou o muro da cada da velha e escondeu-se no bananal.
+
+Quando a velha apareceu, Sim&amp;#x00E3;o soltou um urro terr&amp;#x00ED;vel e deu-lhe um bote. A velha gritou e tentou fugir, mas, naquele alvoro&amp;#x00E7;o, caiu bem no fundo do po&amp;#x00E7;o que havia no quintal.
+
+O macaco, vendo o perigo que ela corria, ficou muito triste, pois queria assust&amp;#x00E1;-la, mas n&amp;#x00E3;o mat&amp;#x00E1;-la. Saiu bem r&amp;#x00E1;pido de dentro da pele e, olhando em volta, subiu num p&amp;#x00E9; de jamel&amp;#x00E3;o, pegou num galho bem grosso e espichou bem o rabo at&amp;#x00E9; o fundo do po&amp;#x00E7;o.
+
+Os gritos chamaram a aten&amp;#x00E7;&amp;#x00E3;o dos vizinhos que, chegando ao bananal, surpreenderam-se com a cena.
+
+O macaco fazendo for&amp;#x00E7;a, trazendo Marocas dependurada no seu rabo. Depois desse dia, as coisas mudaram, Marocas e o macaco ficaram amigos. Era uma beleza! Ela, em vez de pancadas, dava-lhe bananas e doces.
+
+CAPPELLI, Alba; DIAS, Dora. O macaco e a velha. Cole&amp;#x00E7;&amp;#x00E3;o Lua de Papel. FTD. &amp;#x201C;Adaptado: Reforma ortogr&amp;#x00E1;fica.
+
+
+&amp;#x003C;b&amp;#x003E;O que deu in&amp;#x00ED;cio &amp;#x00E0; briga entre Marocas e o macaco?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A li&amp;#x00E7;&amp;#x00E3;o que Marocas deu no macaco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A surra de chicote que o macaco levou.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O boneco roubar as bananas do macaco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O macaco comer as bananas da Marocas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAEPE). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Conto de todas as cores&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Eu j&amp;#x00E1; escrevi um conto azul, v&amp;#x00E1;rios at&amp;#x00E9;. Mas este &amp;#x00E9; um conto de todas as cores.
+
+Porque era uma vez um menino azul, uma menina verde, um negrinho dourado e um cachorro com todos os tons e entretons do arco-&amp;#x00ED;ris.
+
+At&amp;#x00E9; que apareceu uma Comiss&amp;#x00E3;o de Doutores &amp;#x2013; os quais, por mais que esfregassem os nossos quatro amigos, viram que n&amp;#x00E3;o adiantava. E perguntaram se aquilo era de nascen&amp;#x00E7;a ou se...
+
+&amp;#x2014; Mas n&amp;#x00F3;s n&amp;#x00E3;o nascemos &amp;#x2013; interrompeu o cachorro. &amp;#x2013; N&amp;#x00F3;s fomos inventados!
+
+QUINTANA, M&amp;#x00E1;rio. A vaca e o hipogrifo. 3 ed. Porto Alegre, L&amp;#x0026;P, 1979.
+
+
+&amp;#x003C;b&amp;#x003E;Nesse texto, o narrador &amp;#x00E9; um&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>cachorro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>doutor.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>escritor.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>menino.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAEPE). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O Fazendeiro, seu Filho e o Burro&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um fazendeiro e seu filho viajavam para o mercado, levando consigo um burro. Na estrada, encontraram umas mo&amp;#x00E7;as que riram e zombaram deles:
+
+&amp;#x2013; J&amp;#x00E1; viram que bobos? Andando a p&amp;#x00E9;, quando deviam montar no burro?
+
+O fazendeiro, ent&amp;#x00E3;o, ordenou ao filho:
+
+&amp;#x2013; Monte no burro, pois n&amp;#x00E3;o devemos parecer rid&amp;#x00ED;culos.
+
+O filho assim o fez. Da&amp;#x00ED; a pouco, passaram por uma aldeia (...) e uns velhos que comentaram:
+
+&amp;#x2013; Ali vai um exemplo da gera&amp;#x00E7;&amp;#x00E3;o moderna: o rapaz, muito bem refestelado no animal, enquanto o velho pai caminha, com suas pernas fatigadas.
+
+&amp;#x2013; Talvez eles tenham raz&amp;#x00E3;o, meu filho, disse o pai. Ficaria melhor se eu montasse e voc&amp;#x00EA; fosse a p&amp;#x00E9;.
+
+Trocaram ent&amp;#x00E3;o as posi&amp;#x00E7;&amp;#x00F5;es.
+
+Alguns quil&amp;#x00F4;metros adiante, encontraram camponesas, as quais disseram:
+
+&amp;#x2013; A crueldade de alguns pais para com os filhos &amp;#x00E9; tremenda! Aquele pregui&amp;#x00E7;oso, muito bem instalado no burro, enquanto o pobre filho gasta as pernas.
+
+&amp;#x2013; Suba na garupa, meu filho. N&amp;#x00E3;o quero parecer cruel, pediu o pai.
+
+Assim, ambos montados no burro, entraram no mercado da cidade.
+
+&amp;#x2013; Oh!! Gritaram outros fazendeiros que se encontravam l&amp;#x00E1;. Pobre burro, maltratado, carregando uma dupla carga! N&amp;#x00E3;o se trata um animal desta maneira. (...) Deviam carregar o burro &amp;#x00E0;s costas, em vez de este carreg&amp;#x00E1;-los.
+
+O fazendeiro e o filho saltaram do animal e carregaram-no. Quando atravessavam uma ponte, o burro, que n&amp;#x00E3;o estava se sentindo confort&amp;#x00E1;vel, come&amp;#x00E7;ou a escoicear com tanta energia que os dois ca&amp;#x00ED;ram na &amp;#x00E1;gua.
+
+
+F&amp;#x00E1;bulas de Esopo. www.clubedobebe.com.br
+
+
+&amp;#x003C;b&amp;#x003E;O problema que d&amp;#x00E1; origem &amp;#x00E0; essa hist&amp;#x00F3;ria &amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>o fazendeiro e seu filho queriam agradar a todas as pessoas e n&amp;#x00E3;o conseguiam.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o fazendeiro e seu filho precisavam chegar rapidamente ao Mercado da Cidade.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o burro estava muito cansado de caminhar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o burro estava sendo muito maltratado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#EBEBEB</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;
+&amp;#x003C;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+&amp;#x003C;script src=&quot;https://code.jquery.com/jquery-3.4.1.slim.min.js&quot; integrity=&quot;sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+&amp;#x003C;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+
+
+
+
+&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ max-width:100%;
+ height: auto;
+} 
+}
+
+&amp;#x003C;/style&amp;#x003E;
+
+&amp;#x003C;center&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot;&amp;#x003E;
+&amp;#x003C;/center&amp;#x003E;
+&amp;#x003C;/p&amp;#x003E;
+</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
