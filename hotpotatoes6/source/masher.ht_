@@ -1,22 +1,18 @@
-<?xml version="1.0"?>
-       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
-       <html xmlns="http://www.w3.org/1999/xhtml"
-             xml:lang="en">
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:title" content="EduQuiz | Atividades Educativas" />
+    <meta property="og:image" content="http://aetj.info/eduquiz/img/eduquiz_logo.png"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-<head>
-<br>
-<center>
-<img src="../../../img/aet_logo_2017.png" width="85px" alt="Articuladores de Educação Tecnológica" class="img-fluid">&nbsp;&nbsp;
-<a href="../../../index.htm"><img src="../../../img/eduquiz_logo.png" width="185px" alt="Eduquiz" class="img-fluid"></a>
-</center>
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<div class="container-fluid">
+ <div class="row topo">
+  <img src="../../../img/aet_logo_2017.png" alt="Articuladores de Educação Tecnológica" width="88px">&nbsp;&nbsp;<a href="../../../index.htm"><img src="../../../img/eduquiz_logo.png" alt="Eduquiz" width="185px"></a>
+ </div>
+</div>
 
 <title>
 [strPlainIndexTitle]
@@ -38,6 +34,13 @@ body{
 	padding-left: 5%;
 	padding-right: 5%;
 	font-size: [strFontSize];
+}
+
+.topo {
+ margin: 5px 0;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
 }
 
 div.Titles{
@@ -108,5 +111,10 @@ a:hover{
 </div>
 
 
-
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>	
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
 </body></html>

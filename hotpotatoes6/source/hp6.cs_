@@ -418,6 +418,7 @@ textarea{
 	text-align: left;
 	margin: 0px;
 	font-size: 100%;
+ 	line-height: 25px;
 }
 
 .Answer{
@@ -441,6 +442,7 @@ textarea{
 ol.QuizQuestions{
 	text-align: left;
 	list-style-type: none;
+	padding: 0 10px 0 18px;
 }
 
 li.QuizQuestion{
@@ -602,4 +604,60 @@ div.CardStyle {
 .rtl{
 	text-align: right;
 	font-size: 140%;
+}
+
+.topo {
+ margin: 5px 0;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+}
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ max-width:100%;
+ height: auto;
+} 
 }
