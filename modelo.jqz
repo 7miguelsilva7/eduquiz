@@ -63,7 +63,7 @@
 <times-up>Your time is over!</times-up>
 <next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
 <back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
-<contents-caption>Index</contents-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
 <include-next-ex>0</include-next-ex>
 <include-contents>1</include-contents>
 <include-back>0</include-back>
@@ -77,7 +77,7 @@
 <text-color>#000000</text-color>
 <link-color>#0000FF</link-color>
 <vlink-color>#0000CC</vlink-color>
-<nav-bar-color>#4DA847</nav-bar-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
 <formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
 <email>you@yourserver.com</email>
 <name-please>Please enter your name:</name-please>
