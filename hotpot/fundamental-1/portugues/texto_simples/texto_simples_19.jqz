@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 19</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 19</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(PAEBES). Leia o texto abaixo e responda.
+
+
+&amp;#x003C;B&amp;#x003E;LI&amp;#x00C7;&amp;#x00C3;O QUE SE APRENDE CEDO&amp;#x003C;/B&amp;#x003E;
+
+Dia 14 de mar&amp;#x00E7;o, segunda-feira, &amp;#x00E9; comemorado o Dia Internacional do Consumidor.
+
+Talvez voc&amp;#x00EA; ache que essa informa&amp;#x00E7;&amp;#x00E3;o n&amp;#x00E3;o tenha muito a ver com voc&amp;#x00EA;, que ainda n&amp;#x00E3;o &amp;#x00E9; adulto e n&amp;#x00E3;o tem um sal&amp;#x00E1;rio todo m&amp;#x00EA;s. Egano seu. Mesmo quando se compra s&amp;#x00F3; um chocolate na padaria da esquina, essa atitude vem acompanhada de direitos e deveres &amp;#x2013; tanto de quem compra quanto de quem vende &amp;#x2013; e que, muitas vezes, a gente nem se d&amp;#x00E1; conta.
+
+E, se voc&amp;#x00EA; reparar bem, vai notar que boa parte das propagandas &amp;#x00E9; voltada para o p&amp;#x00FA;blico infantil &amp;#x2013; ou seja, existem muitos produtos nas prateleiras das lojas esperando que voc&amp;#x00EA;, consumidor mirim, os leve para casa. Isso pode ser perigoso, porque n&amp;#x00E3;o &amp;#x00E9; dif&amp;#x00ED;cil chegar a um ponto em que se quer tudo o que &amp;#x00E9; oferecido. Para fazer crian&amp;#x00E7;as e adolescentes consumidores respons&amp;#x00E1;veis, agora e no futuro, nada melhor que a informa&amp;#x00E7;&amp;#x00E3;o.
+
+LENOIR, Carolina. Estado de Minas, Guril&amp;#x00E2;ndia. 13 mar. 2010. p.4.
+
+
+Esse texto foi escrito para
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>vendedores.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>professores.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>crian&amp;#x00E7;as.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SPAECE). Leia o texto abaixo:
+
+&amp;#x003C;B&amp;#x003E;Coisas da idade&amp;#x003C;/B&amp;#x003E;
+
+
+Acne, infelizmente, tem tudo a ver com a fase pela qual voc&amp;#x00EA; est&amp;#x00E1; passando (e em alguns casos, ela segue na idade adulta). Nessa fase da puberdade, os horm&amp;#x00F4;nios deixam a pele mais oleosa e, caso n&amp;#x00E3;o tome algumas provid&amp;#x00EA;ncias, espinhas e cravos v&amp;#x00E3;o pipocar no seu rosto.
+
+Al&amp;#x00E9;m da higiene, comer bem (menos doces, frituras e refrigerantes, mais frutas e verduras) ajuda a pele a ficar mais bonita, embora a rela&amp;#x00E7;&amp;#x00E3;o entre o consumo de alimentos como chocolate e o aumento da acne n&amp;#x00E3;o tenha sido comprovada pelos cientistas. Apesar dos cuidados, uma ou outra espinha sempre aparece, n&amp;#x00E3;o tem jeito. Da&amp;#x00ED;, a dica &amp;#x00E9; escond&amp;#x00EA;-la com a maquiagem. Ah, e nada de ficar cutucando o rosto, o que &amp;#x00E9; muito comum nessa fase de tantas transforma&amp;#x00E7;&amp;#x00F5;es.
+
+O ideal &amp;#x00E9; que voc&amp;#x00EA; n&amp;#x00E3;o espere cravos e espinhas aparecerem para cuidar da pele.
+
+Quando se fala de acne, preven&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; &amp;#x201C;a&amp;#x201D; palavra!
+
+                                               Witch. S&amp;#x00E3;o Paulo: Abril, n. 86, p. 11.
+
+
+Esse texto foi escrito para
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>idosos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>crian&amp;#x00E7;as.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>adultos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>adolescentes.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto.
+
+&amp;#x003C;img src=&quot;../../../img/587f89bba3052c519a074cbcd083e8f7b47eecc7.jpg&quot; class=&quot;t40&quot;&amp;#x003E;
+
+                                                    Fonte: (https://www.dicio.com.br/arara/)
+
+ Esse texto tem a finalidade de:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Explicar o conceito de uma esp&amp;#x00E9;cie de ave.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Divulgar uma esp&amp;#x00E9;cie de ave.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Narrar um fato sobre a arara.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Entreter o leitor acerca de informa&amp;#x00E7;&amp;#x00F5;es sobre a arara.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo e responda.
+
+
+Como &amp;#x00E9; produzido o giz de lousa?
+
+Ele &amp;#x00E9; feito a partir da mistura de gesso e &amp;#x00E1;gua. Para se obter giz colorido, adiciona-se tinta &amp;#x00E0; mistura. Essa massa &amp;#x00E9; colocada em moldes que d&amp;#x00E3;o forma ao giz.
+
+Ap&amp;#x00F3;s alguns minutos, ele endurece e &amp;#x00E9; retirado para passar pelo processo de secagem, que pode ser feito ao sol ou em m&amp;#x00E1;quinas especiais. Depois, o giz &amp;#x00E9; embalado e est&amp;#x00E1; pronto para ser vendido.
+
+                                               CRISTIANINI, Maria Carolina. Recreio, S&amp;#x00E3;o Paulo: Abril, ano 9, n. 464, 29 jan. 2009.
+
+
+O objetivo desse texto &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>advertir.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informar.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>orientar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>vender.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Perigos do sol
+
+Quando a gente se exp&amp;#x00F5;e ao sol forte, alguns tipos de raios solares atingem a superf&amp;#x00ED;cie da pele e podem causar queimaduras. A&amp;#x00ED; a pele descasca. Se eles atingirem camadas mais profundas, a queimadura pode ser perigosa e sentimos ard&amp;#x00EA;ncia e dor.
+
+Recreio. n. 343, out. 2006.
+
+Esse texto serve para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>um an&amp;#x00FA;ncio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um poema.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma carta.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma not&amp;#x00ED;cia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Perigos do sol&amp;#x003C;b&amp;#x003E;
+
+Quando a gente se exp&amp;#x00F5;e ao sol forte, alguns tipos de raios solares atingem a superf&amp;#x00ED;cie da pele e podem causar queimaduras. A&amp;#x00ED; a pele descasca. Se eles atingirem camadas mais profundas, a queimadura pode ser perigosa e sentimos ard&amp;#x00EA;ncia e dor.
+
+Recreio. n. 343, out. 2006.
+
+Esse texto serve para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>anunciar um novo rem&amp;#x00E9;dio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>descrever um dia de sol forte.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ensinar um tratamento m&amp;#x00E9;dico.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informar sobre queimaduras.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x003C;b&amp;#x003E;Pequenas e poderosas&amp;#x003C;/b&amp;#x003E;
+
+
+Bonitinhas e delicadas, as joaninhas s&amp;#x00E3;o um dos poucos insetos de que quase todo mundo gosta. Para muitas pessoas, representam at&amp;#x00E9; um sinal de boa sorte, por isso, s&amp;#x00E3;o sempre muito bem-vindas nos jardins.
+
+Na verdade, elas s&amp;#x00F3; conquistaram esse carinho porque realmente ajudam as planta&amp;#x00E7;&amp;#x00F5;es. &amp;#x00C9; que as joaninhas se alimentam de pulg&amp;#x00F5;es, &amp;#x00E1;caros, cochonilhas e outros bichos que comem e destroem vegetais. Assim, enquanto almo&amp;#x00E7;am, elas acabam salvando a vida das plantas. [...]
+
+Nem todas as joaninhas t&amp;#x00EA;m a carapa&amp;#x00E7;a vermelha com pintinhas pretas.
+
+H&amp;#x00E1; cerca de 5.000 esp&amp;#x00E9;cies desse inseto espalhadas pela Am&amp;#x00E9;rica, Europa, &amp;#x00C1;sia e Oceania. Elas podem ser vermelhas, amarelas, cinzentas, pretas ou de outras cores. Algumas t&amp;#x00EA;m pintas e outras n&amp;#x00E3;o.
+
+CORDEIRO, Bellah Leite. Recreio, ano I, n. 8, 4 maio 2000.
+
+
+Esse texto serve para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>alertar as pessoas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>divertir as pessoas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ensinar a cuidar de insetos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informar sobre um inseto.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Perigos do sol&amp;#x003C;/b&amp;#x003E;
+
+Quando a gente se exp&amp;#x00F5;e ao sol forte, alguns tipos de raios solares atingem a superf&amp;#x00ED;cie da pele e podem causar queimaduras. A&amp;#x00ED; a pele descasca. Se eles atingirem camadas mais profundas, a queimadura pode ser perigosa e sentimos ard&amp;#x00EA;ncia e dor.
+
+Recreio. n. 343, out. 2006.
+
+Esse texto serve para</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>anunciar um novo rem&amp;#x00E9;dio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>descrever um dia de sol forte.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ensinar um tratamento m&amp;#x00E9;dico.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informar sobre queimaduras.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Como aprender a tabuada de multiplicar&amp;#x003C;/b&amp;#x003E;
+
+Se voc&amp;#x00EA; est&amp;#x00E1; aprendendo a tabuada, estuda e estuda e tem sempre alguma coisa que voc&amp;#x00EA; n&amp;#x00E3;o sabe, fa&amp;#x00E7;a o seguinte truque:
+
+1) Escreva num papel grande toda a tabuada de multiplicar. A&amp;#x00ED; voc&amp;#x00EA; vai pensar nos c&amp;#x00E1;lculos mais f&amp;#x00E1;ceis, por exemplo: Voc&amp;#x00EA; sabe todos os n&amp;#x00FA;meros vezes 1, n&amp;#x00E3;o sabe?
+
+Ent&amp;#x00E3;o risque estes c&amp;#x00E1;lculos da sua tabuada: 2x1, 3x1, 4x1 e assim por diante.
+
+2) Voc&amp;#x00EA; tamb&amp;#x00E9;m sabe a tabuada do 2, n&amp;#x00E3;o sabe? Ent&amp;#x00E3;o risque toda a tabuada do 2.
+
+3) Risque toda a tabuada do 10. Essa &amp;#x00E9; muito f&amp;#x00E1;cil.
+
+4) Qual &amp;#x00E9; a outra tabuada f&amp;#x00E1;cil?
+
+5) Continue fazendo assim, at&amp;#x00E9; que v&amp;#x00E3;o sobrar poucos c&amp;#x00E1;lculos, que s&amp;#x00E3;o os mais dif&amp;#x00ED;ceis, como 7x8.
+
+A&amp;#x00ED; voc&amp;#x00EA; decora s&amp;#x00F3; esses n&amp;#x00FA;meros.
+
+N&amp;#x00E3;o &amp;#x00E9; f&amp;#x00E1;cil?
+
+Almanaque Ruth Rocha. p. 59. Adaptado.
+
+Esse texto serve para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>anunciar livros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>dar instru&amp;#x00E7;&amp;#x00F5;es.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>divertir crian&amp;#x00E7;as.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>riscar n&amp;#x00FA;meros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SADEAM). Leia o texto abaixo:
+
+&amp;#x003C;b&amp;#x003E;Animais t&amp;#x00EA;m sentimentos?&amp;#x003C;/b&amp;#x003E;
+
+Experi&amp;#x00EA;ncias e observa&amp;#x00E7;&amp;#x00F5;es feitas por especialistas mostram que &amp;#x00E9; poss&amp;#x00ED;vel que bichos sintam alegria, tristeza, raiva ou ci&amp;#x00FA;me, como n&amp;#x00F3;s. Eles n&amp;#x00E3;o falam, mas parecem demonstrar sentimentos em certas a&amp;#x00E7;&amp;#x00F5;es. H&amp;#x00E1; casos de elefantes que emitem sons diante de ossos de parentes mortos, como se estivessem se lamentando, e de b&amp;#x00FA;falos que deslizam no gelo, aparentemente s&amp;#x00F3; por divers&amp;#x00E3;o. Os c&amp;#x00E3;es, que convivem de perto com os humanos, conseguem expressar muitas emo&amp;#x00E7;&amp;#x00F5;es, como medo e alegria.
+
+CRISTIANINI, Maria Carolina. Recreio. S&amp;#x00E3;o Paulo:
+
+Abril, ano 9, n. 464, jan. 2009.
+
+Qual a finalidade desse texto?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Informar sobre uma experi&amp;#x00EA;ncia cient&amp;#x00ED;fica.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ensinar a cuidar de bichos e animais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Descrever as brincadeiras dos b&amp;#x00FA;falos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Convencer os humanos a criarem c&amp;#x00E3;es.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#4DA847</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;
+&amp;#x003C;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+&amp;#x003C;script src=&quot;https://code.jquery.com/jquery-3.4.1.slim.min.js&quot; integrity=&quot;sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+&amp;#x003C;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;
+
+
+
+
+
+&amp;#x003C;style&amp;#x003E;
+.QuestionText {
+ line-height: 25px;
+}
+
+.t100{
+ min-width:100%;
+ height: auto;
+} 
+.t90{
+ min-width:90%;
+ height: auto;
+} 
+.t80{
+ min-width:80%;
+ height: auto;
+} 
+.t70{
+ min-width:70%;
+ height: auto;
+} 
+.t60{
+ min-width:60%;
+ height: auto;
+} 
+.t50{
+ min-width:50%;
+ height: auto;
+} 
+.t40{
+ min-width:40%;
+ height: auto;
+} 
+.t30{
+ min-width:30%;
+ height: auto;
+} 
+.t20{
+ min-width:20%;
+ height: auto;
+}
+.t10{
+ min-width:10%;
+ height: auto;
+} 
+
+@media (max-width: 768px) { 
+.t100, .t90, .t80, .t70,.t60, .t50, .t40, .t30, .t20, .t10{
+ min-width:100%!important;
+ max-width:100%;
+ height: auto;
+} 
+}
+
+&amp;#x003C;/style&amp;#x003E;
+
+&amp;#x003C;center&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/aet_logo_2017.png&quot; alt=&quot;Articuladores de Educa&amp;#x00E7;&amp;#x00E3;o Tecnol&amp;#x00F3;gica&quot; class=&quot;img-fluid&quot; width=&quot;88px&quot;&amp;#x003E;&amp;#x0026;nbsp;&amp;#x0026;nbsp;&amp;#x003C;img src=&quot;../../../img/eduquiz_logo.png&quot; alt=&quot;Eduquiz&quot; class=&quot;img-fluid&quot; width=&quot;185px&quot;&amp;#x003E;
+&amp;#x003C;/center&amp;#x003E;
+&amp;#x003C;/p&amp;#x003E;
+</header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
