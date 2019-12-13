@@ -65,8 +65,9 @@ div.IndexDiv{
 	padding: 2em;
 	border-style: solid;
 	border-width: 1px;
+        border-color: #f5f5f5;
 	text-align: center;
-	width: 60%;
+	width: 100%;
 	background-color: [strExBGColor];
 	color: [strTextColor];
 	font-size: 100%;
