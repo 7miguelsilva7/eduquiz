@@ -107,7 +107,7 @@ a:hover{
 
 [BeginIndexItem]<li>
 <a href="[strIndexItemURL]">[strIndexItemTitle]
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>[EndIndexItem]
+</a></li>[EndIndexItem]
 
 </ul>
 </div>
