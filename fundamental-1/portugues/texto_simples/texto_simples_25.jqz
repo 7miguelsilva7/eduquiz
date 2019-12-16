@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 25</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 25</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Leia o texto abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A gralha vaidosa&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+J&amp;#x00FA;piter deu a not&amp;#x00ED;cia de que pretendia escolher um rei para os p&amp;#x00E1;ssaros e marcou uma data para que todos eles comparecessem diante de seu trono. O mais bonito seria declarado rei. Querendo arrumar-se o melhor poss&amp;#x00ED;vel, os p&amp;#x00E1;ssaros foram tomar banho e alisar as penas &amp;#x00E0;s margens de um arroio. A gralha tamb&amp;#x00E9;m estava l&amp;#x00E1; no meio dos outros, s&amp;#x00F3; que tinha certeza de que nunca ia ser a escolhida, porque suas penas eram muito feias.
+
+&amp;#x201C;Vamos dar um jeito&amp;#x201D;, pensou ela.
+
+Depois que os outros p&amp;#x00E1;ssaros foram embora, muitas penas ficaram ca&amp;#x00ED;das pelo ch&amp;#x00E3;o; a gralha recolheu as mais bonitas e prendeu em volta do corpo. O resultado foi deslumbrante: nenhum p&amp;#x00E1;ssaro era mais vistoso que ela. Quando o dia marcado chegou, os p&amp;#x00E1;ssaros se reuniram diante do trono de J&amp;#x00FA;piter; J&amp;#x00FA;piter examinou todo mundo e escolheu a gralha para rei. J&amp;#x00E1; ia fazer a declara&amp;#x00E7;&amp;#x00E3;o oficial quando todos os outros p&amp;#x00E1;ssaros avan&amp;#x00E7;aram para o futuro rei e arrancaram suas penas falsas uma a uma, mostrando a gralha exatamente como ela era.
+
+
+Moral: Belas penas n&amp;#x00E3;o fazem belos p&amp;#x00E1;ssaros.
+
+
+Fonte: http://www.metaforas.com.br/infantis/agralhavaidosa.htm
+
+
+&amp;#x003C;b&amp;#x003E;O problema da gralha vaidosa come&amp;#x00E7;ou quando ela:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Decidiu participar do concurso.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Teve as penas arrancadas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Apresentou-se diante de J&amp;#x00FA;piter.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Usou as penas que n&amp;#x00E3;o eram dela</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto e responda as quest&amp;#x00E3;o 04, 05 e 06.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O socorro&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Ele foi cavando, cavando, cavando, pois sua profiss&amp;#x00E3;o &amp;#x2013; coveiro &amp;#x2013; era cavar. Mas, de repente, na distra&amp;#x00E7;&amp;#x00E3;o do of&amp;#x00ED;cio que amava, percebeu que cavara demais. Tentou sair da cova e n&amp;#x00E3;o conseguiu. Levantou o olhar para cima e viu que, sozinho, n&amp;#x00E3;o conseguiria sair. Gritou. Ningu&amp;#x00E9;m atendeu. Gritou mais forte. Ningu&amp;#x00E9;m veio. Enrouqueceu de gritar, cansou de esbravejar, desistiu com a noite. Sentou-se no fundo da cova, desesperado. A noite chegou, subiu, fez-se o sil&amp;#x00EA;ncio das horas tardias. Bateu o frio da madrugada e, na noite escura, n&amp;#x00E3;o se ouvia um som humano, embora o cemit&amp;#x00E9;rio estivesse cheio de pipilos e coaxares naturais dos matos. S&amp;#x00F3; pouco depois da meia-noite &amp;#x00E9; que l&amp;#x00E1; vieram uns passos. Deitado no fundo da cova o coveiro gritou. Os passos se aproximaram. Uma cabe&amp;#x00E7;a &amp;#x00E9;bria apareceu l&amp;#x00E1; em cima, perguntou o que havia: &amp;#x2015; &amp;#x201C;O que &amp;#x00E9; que h&amp;#x00E1;?&amp;#x201D;.
+
+O coveiro ent&amp;#x00E3;o gritou desesperado: &amp;#x2015;Tire-me daqui, por favor. Estou com um frio terr&amp;#x00ED;vel!&amp;#x201D;. &amp;#x2015; Mas, coitado!&amp;#x201D; condoeu-se o b&amp;#x00EA;bado &amp;#x2015;Tem toda raz&amp;#x00E3;o de estar com frio. Algu&amp;#x00E9;m tirou a terra de cima de voc&amp;#x00EA;, meu pobre mortinho!&amp;#x201D; E pegando a p&amp;#x00E1;, encheu-a de terra e p&amp;#x00F4;s-se a cobri-lo cuidadosamente.
+
+Moral: Nos momentos graves &amp;#x00E9; preciso verificar muito bem a quem se apela.
+
+FERNANDES, Mill&amp;#x00F4;r. Dispon&amp;#x00ED;vel em http://citador.weblog.com.pt/arquivo/109176.html
+
+&amp;#x003C;b&amp;#x003E;O que faz esse texto ficar engra&amp;#x00E7;ado?&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>O b&amp;#x00EA;bado ter imaginado que o coveiro era um morto e jogar terra para cobri-lo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O coveiro ficar cavando e sentir frio durante a madrugada.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O homem ficar sentado no fundo enrouquecido de tanto gritar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O homem ter cavado demais e ficar preso no buraco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
