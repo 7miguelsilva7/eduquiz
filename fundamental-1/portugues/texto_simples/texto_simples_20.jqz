@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 20</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 20</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(SAEPE). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Clementina, a gata&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Clementina era uma gata de telhado, dessas gatas listradas. Vivia namorando, miando e tendo gatinhos. Mas era mais pra namoradeira do que pra mamadeira, quer dizer: n&amp;#x00E3;o cuidava muito bem dos fi lhotes. Vivia esquecendo de dar de mamar.
+
+Ainda bem que Boby cuidava! Boby tamb&amp;#x00E9;m era bass&amp;#x00EA;, da mesma ra&amp;#x00E7;a de Sua Av&amp;#x00F3;. Se voc&amp;#x00EA; n&amp;#x00E3;o leu a hist&amp;#x00F3;ria de Sua Av&amp;#x00F3;, bem feito, vai pensar que estou falando de pessoa de sua fam&amp;#x00ED;lia, Deus que me livre! &amp;#x00C9; que Sua Av&amp;#x00F3; era o nome de um cachorro que tive, quando era menina, da mesma ra&amp;#x00E7;a de Boby, que tive quando meus fi lhos eram meninos.
+
+Boby cuidava dos gatinhos de Clementina. S&amp;#x00F3; n&amp;#x00E3;o dava de mamar, por motivo de Boby ser macho. Mas m&amp;#x00E3;e como Boby nunca vi igual!
+
+Boby chamava Clementina de tr&amp;#x00EA;s em tr&amp;#x00EA;s horas, para a desalmada vir alimentar os gatinhos. Clementina, muito namoradeira, n&amp;#x00E3;o queria vir, fi cava requebrando em frente do port&amp;#x00E3;o, esquecida de que era uma senhora gata com obriga&amp;#x00E7;&amp;#x00F5;es familiares.
+
+ORTHOF, Sylvia. Os bichos que tive. Ed. Salamandra, 2006, p&amp;#x00E1;g. 61. Fragmento.
+
+
+&amp;#x003C;b&amp;#x003E;Quem conta essa hist&amp;#x00F3;ria &amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>o Boby.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o cachorro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a Clementina.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a narradora.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Jo&amp;#x00E3;o e o p&amp;#x00E9; de feij&amp;#x00E3;o&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+
+Era uma vez um menino chamado Jo&amp;#x00E3;o, que vivia com sua m&amp;#x00E3;e longe da cidade.
+
+Um dia, a m&amp;#x00E3;e de Jo&amp;#x00E3;o disse: &amp;#x201C;Jo&amp;#x00E3;ozinho, acabou a comida e o dinheiro. V&amp;#x00E1; at&amp;#x00E9; a cidade e venda nossa vaquinha&amp;#x201D;.
+
+Jo&amp;#x00E3;o foi e no caminho, encontrou um homem que o convenceu a trocar a vaquinha por sementes de feij&amp;#x00E3;o. &amp;#x201C;Com estas sementes de feij&amp;#x00E3;o jamais passar&amp;#x00E3;o fome.&amp;#x201D; Jo&amp;#x00E3;o acreditou e trouxe as sementes para casa.
+
+Quando a m&amp;#x00E3;e de Jo&amp;#x00E3;o viu as sementes, ficou furiosa. Jogou tudo pela janela. Na manh&amp;#x00E3; seguinte, Jo&amp;#x00E3;o levantou com muita fome e foi at&amp;#x00E9; o quintal. Ficou espantado quando viu uma enorme &amp;#x00E1;rvore que ia at&amp;#x00E9; o c&amp;#x00E9;u. Nem chamou sua m&amp;#x00E3;e. Decidiu subir pelo p&amp;#x00E9; de feij&amp;#x00E3;o at&amp;#x00E9; chegar &amp;#x00E0; copa.
+
+Ficou maravilhado ao encontrar um castelo nas nuvens e quis v&amp;#x00EA;-lo de perto, quando uma mulher enorme surgiu e o agarrou: &amp;#x201C;O que faz aqui menino? Ser&amp;#x00E1; meu escravo. Mas o gigante n&amp;#x00E3;o pode saber, por isso vou escond&amp;#x00EA;-lo. Se ele vir voc&amp;#x00EA;, com certeza vai com&amp;#x00EA;-lo.&amp;#x201D;.
+
+O gigante chegou e sentou-se &amp;#x00E0; mesa, comeu e depois ordenou a uma galinha prisioneira que pusesse um ovo de ouro e a uma harpa que tocasse uma bela melodia. Vendo que a mulher havia se esquecido dele, Jo&amp;#x00E3;o saiu do arm&amp;#x00E1;rio e, rapidamente, libertou a galinha e tamb&amp;#x00E9;m a harpa.
+
+Mas a galinha cacarejou e a harpa fez um som estridente despertando o gigante.
+
+Com a galinha debaixo do bra&amp;#x00E7;o e a harpa na outra m&amp;#x00E3;o Jo&amp;#x00E3;o deslizou pelo tronco do p&amp;#x00E9; de feij&amp;#x00E3;o, o qual cortou deixando o gigante preso nas alturas.
+
+Uma Hist&amp;#x00F3;ria para cada dia do ano. Ed. Brasileitura. p. 64.
+
+
+&amp;#x003C;b&amp;#x003E;A personagem principal dessa hist&amp;#x00F3;ria &amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>o gigante do castelo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o menino Jo&amp;#x00E3;o.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a m&amp;#x00E3;e de Jo&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a mulher enorme.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAVEAL).Leia o texto a seguir e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O pastor e seus carneiros&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um pastor levou seus carneiros para uma floresta de carvalhos. Sob uma enorme &amp;#x00E1;rvore cheia de frutos, ele estendeu seu casaco. Depois subiu para sacudi-la e assim os frutos cairiam. Mas os carneiros comeram indistintamente as bolotas e o casaco. Quando desceu, vendo o que tinha acontecido, o pastor exclamou:
+
+&amp;#x2015; Suas bestas, aos outros voc&amp;#x00EA;s d&amp;#x00E3;o sua l&amp;#x00E3; para abrig&amp;#x00E1;-los, a mim que lhes dou o sustento, voc&amp;#x00EA;s destroem at&amp;#x00E9; o casaco!
+
+Muita gente, sem se dar conta, serve a desconhecidos e faz mal aos que lhes s&amp;#x00E3;o pr&amp;#x00F3;ximos.
+
+(ESOPO 550 a.C. Fabulas de Esopo.Trad. Antonio Carlos Vianna. Porto Alegre: L&amp;#x0026;PM, 1997. p.157.)
+
+
+
+&amp;#x003C;b&amp;#x003E;O texto &amp;#x201C;O pastor e seus carneiros&amp;#x201D; &amp;#x00E9;&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma carta contando o que os carneiros fizeram com o casaco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma f&amp;#x00E1;bula que ensina uma li&amp;#x00E7;&amp;#x00E3;o de moral a partir de um fato.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma not&amp;#x00ED;cia de um fato que ocorreu com o pastor.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>um poema sobre a vida do pastor e seus carneiros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o conto de assombra&amp;#x00E7;&amp;#x00E3;o.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A prociss&amp;#x00E3;o e a missa das almas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Uma senhora muito curiosa morava perto da Igreja de Nossa Senhora da Concei&amp;#x00E7;&amp;#x00E3;o, em Ijaci. Muito antigamente, as pessoas costumavam acordar tarde da noite e ouvir a prociss&amp;#x00E3;o passando pelas ruas, mas ningu&amp;#x00E9;m abria janela ou porta, pois desconfiava-se de que seria mais uma das conhecidas prociss&amp;#x00F5;es das almas. O que tinham de fazer &amp;#x00E9; ficar rezando dentro de casa, at&amp;#x00E9; o cortejo passar. Essa senhora, por&amp;#x00E9;m, n&amp;#x00E3;o resistindo a tenta&amp;#x00E7;&amp;#x00E3;o, foi &amp;#x201C;dar uma espiada&amp;#x201D;, quando percebeu que uma dessas prociss&amp;#x00F5;es passava. Ao abrir a janela, uma das mulheres que acompanhava a multid&amp;#x00E3;o deu a ela uma vela acesa. Aquela senhora guardou a vela e, no dia seguinte, para eu espanto, percebeu que n&amp;#x00E3;o era vela, mas um osso humano. Uma senhora muito curiosa morava perto da Igreja de Nossa Senhora da Concei&amp;#x00E7;&amp;#x00E3;o, em Ijaci. Muito antigamente, as pessoas costumavam acordar tarde da noite e ouvir a prociss&amp;#x00E3;o passando pelas ruas, mas ningu&amp;#x00E9;m abria janela ou porta, pois desconfiava-se de que seria mais uma das conhecidas prociss&amp;#x00F5;es das almas. O que tinham de fazer &amp;#x00E9; ficar rezando dentro de casa, at&amp;#x00E9; o cortejo passar. Essa senhora, por&amp;#x00E9;m, n&amp;#x00E3;o resistindo a tenta&amp;#x00E7;&amp;#x00E3;o, foi &amp;#x201C;dar uma espiada&amp;#x201D;, quando percebeu que uma dessas prociss&amp;#x00F5;es passava. Ao abrir a janela, uma das mulheres que acompanhava a multid&amp;#x00E3;o deu a ela uma vela acesa. Aquela senhora guardou a vela e, no dia seguinte, para eu espanto, percebeu que n&amp;#x00E3;o era vela, mas um osso humano.
+
+Fonte: (http://danicrepuscular.blogspot.com/2011/05/adriano-messias-procissao-e-missa-das.html)
+
+&amp;#x003C;b&amp;#x003E;No contexto, o que gera o conflito no enredo &amp;#x00E9;:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>O acordar tarde da noite das pessoas e a reza delas dentro de casa at&amp;#x00E9; o cortejo passar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Uma mulher ter dado uma vela acesa &amp;#x00E0; senhora no momento em que a prociss&amp;#x00E3;o passava em frente da janela dela.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O espanto da senhora ao perceber que n&amp;#x00E3;o recebeu uma vela e sim um osso humano.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A curiosidade de uma senhora que, ao abrir a janela, percebeu uma prociss&amp;#x00E3;o a qual passava por ali.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A Costureira das Fadas&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Depois do jantar, o pr&amp;#x00ED;ncipe levou Narizinho &amp;#x00E0; casa da melhor costureira do reino. Era uma aranha de Paris, que sabia fazer vestidos lindos, lindos at&amp;#x00E9; n&amp;#x00E3;o poder mais! Ela mesma tecia a fazenda, ela mesma inventava as modas.
+
+&amp;#x2013; Dona Aranha &amp;#x2013; disse o pr&amp;#x00ED;ncipe &amp;#x2013; quero que fa&amp;#x00E7;a para esta ilustre dama o vestido mais bonito do mundo. Vou dar uma grande festa em sua honra e quero v&amp;#x00EA;-la deslumbrar a corte.
+
+Disse e retirou-se. Dona Aranha tomou da fita m&amp;#x00E9;trica e, ajudada por seis ara&amp;#x00AD;nhinhas muito espertas, principiou a tomar as medidas. Depois teceu depressa, de&amp;#x00AD;pressa, uma fazenda cor-de-rosa com estrelinhas douradas, a coisa mais linda que se possa imaginar. Teceu tamb&amp;#x00E9;m pe&amp;#x00E7;as de fita e pe&amp;#x00E7;as de renda e de entremeio &amp;#x2014; at&amp;#x00E9; carret&amp;#x00E9;is de linha de seda fabricou.
+
+MONTEIRO LOBATO, Jos&amp;#x00E9; Bento. Reina&amp;#x00E7;&amp;#x00F5;es de Narizinho. S&amp;#x00E3;o Paulo: Brasiliense, 1973.
+
+
+&amp;#x003C;b&amp;#x003E;O pr&amp;#x00ED;ncipe quer dar um vestido para Narizinho porque:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>ela deseja ter um vestido de baile.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o pr&amp;#x00ED;ncipe vai se casar com Narizinho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ela deseja um vestido cor-de-rosa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o pr&amp;#x00ED;ncipe far&amp;#x00E1; uma festa para Narizinho.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/055ed134147671bd63bce2e5eee7764b55b414f9.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Ci&amp;#x00EA;ncias Hoje das Crian&amp;#x00E7;as, 2. ed., ano 22, n. 200, abr. 2009.
+
+
+&amp;#x003C;b&amp;#x003E;Nesse texto, o morcego e a coruja s&amp;#x00E3;o considerados &amp;#x201C;peixinhos fora d&amp;#x2019;&amp;#x00E1;gua&amp;#x201D; porque&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>fazem as coisas durante o dia.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>nadam fora d&amp;#x2019;&amp;#x00E1;gua.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>t&amp;#x00EA;m h&amp;#x00E1;bitos noturnos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>vivem em pa&amp;#x00ED;ses diferentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O C&amp;#x00E3;o e a Carne&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Um c&amp;#x00E3;o vinha caminhando com um peda&amp;#x00E7;o de carne na boca. Quando passou ao lado do rio, viu sua pr&amp;#x00F3;pria imagem na &amp;#x00E1;gua.
+
+Pensando que havia na &amp;#x00E1;gua um novo peda&amp;#x00E7;o de carne, soltou o que carregava para apanhar o outro.
+
+O peda&amp;#x00E7;o de carne caiu na &amp;#x00E1;gua e se foi, assim como a sua imagem.
+
+E o c&amp;#x00E3;o, que queria os dois, ficou sem nenhum.
+
+LA FONTAINE. Dispon&amp;#x00ED;vel em: http://webcache.googleusercontent.com/search?hl=ptR&amp;#x0026;q=cache:. Acesso em: 10 mar. 2011.
+
+
+&amp;#x003C;b&amp;#x003E;O c&amp;#x00E3;o soltou o peda&amp;#x00E7;o de carne que carregava, porque&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>passou ao lado do rio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>viu sua pr&amp;#x00F3;pria imagem refletida na &amp;#x00E1;gua.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pensou ter visto um peda&amp;#x00E7;o maior na &amp;#x00E1;gua.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>viu sua imagem indo embora.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto abaixo e responda.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O LOBO DESATENTO&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Certa noite, um lobo andava pela floresta em busca de comida. E j&amp;#x00E1; estava empenhado nessa tarefa havia um bom tempo, sem qualquer resultado pr&amp;#x00E1;tico, quando sentiu no ar o cheiro de carneiros. &amp;#x201C;At&amp;#x00E9; que enfim!&amp;#x201D;, foi o pensamento que lhe veio &amp;#x00E0; cabe&amp;#x00E7;a de imediato, e ent&amp;#x00E3;o, imaginando o que de bom poderia encontrar mais adiante para aplacar a fome que sentia, ele caminhou rapidamente na dire&amp;#x00E7;&amp;#x00E3;o que o seu faro indicava.
+
+Logo &amp;#x00E0; frente, as &amp;#x00E1;rvores davam lugar a uma grande &amp;#x00E1;rea coberta de relva, e era nesse peda&amp;#x00E7;o de ch&amp;#x00E3;o que os carneiros descansavam protegidos por um c&amp;#x00E3;o. O lobo n&amp;#x00E3;o se preocupou com isso. O que fez foi sair andando passo a passo, o mais devagar que podia, procurando se aproximar do ponto que ficava mais distante do vigia, onde algumas das poss&amp;#x00ED;veis presas dormiam sossegadas.
+
+E j&amp;#x00E1; estava quase l&amp;#x00E1;, quando uma de suas patas traseiras descuidou-se um momento e pisou em um peda&amp;#x00E7;o de t&amp;#x00E1;bua j&amp;#x00E1; meio apodrecido. Esta rangeu sob o peso do animal, e o barulho que fez soou t&amp;#x00E3;o alto em meio ao sil&amp;#x00EA;ncio da noite que acordou o c&amp;#x00E3;o de guarda, fazendo-o sair na mesma hora em persegui&amp;#x00E7;&amp;#x00E3;o ao lobo desastrado. Que por sua vez, coitado, n&amp;#x00E3;o teve outra coisa a fazer sen&amp;#x00E3;o fugir em desabalada carreira, esfomeado e sem alimento.
+
+Moral da hist&amp;#x00F3;ria: Quem n&amp;#x00E3;o presta aten&amp;#x00E7;&amp;#x00E3;o no que faz, algum dia vai acabar se metendo em apuros.
+
+Dispon&amp;#x00ED;vel em: &amp;#x003C;http://www.fernandodannemann.recantodasletras.
+com.br&amp;#x003E;. Acesso em: 5 abr. 2010.
+
+
+&amp;#x003C;b&amp;#x003E;De acordo com esse texto, o lobo aproximava-se dos carneiros o mais devagar que podia, porque&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>estava com as patas presas a uma t&amp;#x00E1;bua apodrecida.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>estava fraco por ter ficado muitos dias sem comer.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>havia muitas &amp;#x00E1;rvores no caminho e ele podia cair.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>queria pegar um carneiro sem ser visto pelo c&amp;#x00E3;o vigia.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAEPE). Leia o texto abaixo.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;A coruja e a &amp;#x00E1;guia&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+A coruja e a &amp;#x00E1;guia, depois de muita briga resolveram fazer as pazes.
+
+&amp;#x2013; Basta de guerra &amp;#x2013; disse a coruja. &amp;#x2013; O mundo &amp;#x00E9; grande, e tolice maior que o mundo &amp;#x00E9; andarmos a comer os filhotes uma da outra.
+
+&amp;#x2013;Perfeitamente &amp;#x2013; respondeu a &amp;#x00E1;guia. &amp;#x2013; Tamb&amp;#x00E9;m eu n&amp;#x00E3;o quero outra coisa.
+
+&amp;#x2013; Neste caso combinamos isto: de ora em diante n&amp;#x00E3;o comer&amp;#x00E1;s nunca os meus filhotes.
+
+&amp;#x2013; Muito bem. Mas como posso distinguir os teus filhotes?
+
+&amp;#x2013; Coisa f&amp;#x00E1;cil. Sempre que encontrares uns borrachos lindos, bem- feitinhos de corpo, alegres, cheios de uma gra&amp;#x00E7;a especial que n&amp;#x00E3;o existe em filhote de nenhuma outra ave, j&amp;#x00E1; sabes, s&amp;#x00E3;o os meus.
+
+&amp;#x2013; Est&amp;#x00E1; feito! &amp;#x2013; concluiu a &amp;#x00E1;guia.
+
+Dias depois, andando &amp;#x00E0; ca&amp;#x00E7;a, a &amp;#x00E1;guia encontrou um ninho com tr&amp;#x00EA;s monstrengos dentro, que piavam de bico aberto.
+
+&amp;#x2013; Horr&amp;#x00ED;veis bichos! &amp;#x2013; disse ela. &amp;#x2013; V&amp;#x00EA;-se logo que n&amp;#x00E3;o s&amp;#x00E3;o os filhos da coruja. E comeu-os.
+
+Mas eram os filhos da coruja. Ao regressar &amp;#x00E0; toca, a triste m&amp;#x00E3;e chorou amargamente o desastre e foi ajustar contas com a rainha das aves.
+
+&amp;#x2013; Qu&amp;#x00EA;? &amp;#x2013; disse esta, admirada. &amp;#x2013; Eram teus filhos aqueles monstrengos?
+
+Pois, olha, n&amp;#x00E3;o se pareciam nada com o retrato que deles me fizeste...
+
+Para retrato de filho ningu&amp;#x00E9;m acredite em pintor pai.
+
+L&amp;#x00E1; diz o ditado: quem o feio ama, bonito lhe parece.
+
+Monteiro Lobato. Ci&amp;#x00EA;ncia hoje das crian&amp;#x00E7;as, MEC/FNDE, ano 10, n&amp;#x00BA; 66, p. 08.
+
+
+&amp;#x003C;b&amp;#x003E;A coruja e a &amp;#x00E1;guia, depois de muitas brigas resolveram fazer as pazes porque&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>achavam tolice comer os filhotes uma da outra.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>comiam todos os bichos que encontravam.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>detestavam encontrar ninhos com aves pequenas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>gostavam de comer aves bastante crescidas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia a cr&amp;#x00F4;nica.
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;O torcedor&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+No jogo de decis&amp;#x00E3;o do campeonato, Ev&amp;#x00E1;glio torceu pelo Atl&amp;#x00E9;tico Mineiro, n&amp;#x00E3;o porque fosse atleticano ou mineiro, mas porque receava o carnaval nas ruas se o Flamengo vencesse. Visitava um amigo em bairro distante, nenhum dos dois tem carro, e ele previa que a volta seria problema.
+
+O Flamengo triunfou, e Ev&amp;#x00E1;glio deixou de ser atleticano para detestar todos os clubes de futebol, que perturbam a vida urbana com suas vit&amp;#x00F3;rias. Saindo em busca de t&amp;#x00E1;xi inexistente, acabou se metendo num &amp;#x00F4;nibus em que n&amp;#x00E3;o cabia mais ningu&amp;#x00E9;m, e havia duas bandeiras rubro-negras para cada passageiro. E n&amp;#x00E3;o eram bandeiras pequenas nem torcedores exaustos: estes pareciam terem guardado a capacidade de grito para depois da vit&amp;#x00F3;ria.
+
+Ev&amp;#x00E1;glio sentiu-se dentro do Maracan&amp;#x00E3;, at&amp;#x00E9; mesmo dentro da bola chutada por 44 p&amp;#x00E9;s. A bola era ele, embora ningu&amp;#x00E9;m reparasse naquela esfera humana que ansiava por tornar a ser gente a caminho de casa.
+
+Lembrando-se de que torcera pelo vencido, teve medo, para n&amp;#x00E3;o dizer terror. Se lessem em seu &amp;#x00ED;ntimo o segredo, estava perdido. Mas todos cantavam, sambavam com alegria t&amp;#x00E3;o pura que ele pr&amp;#x00F3;prio come&amp;#x00E7;ou a sentir um pouco de flamengo dentro de si. Era o canto? Eram bra&amp;#x00E7;os e pernas falando al&amp;#x00E9;m da
+boca? A emana&amp;#x00E7;&amp;#x00E3;o de entusiasmo o contagiava e transformava. Marcou com a cabe&amp;#x00E7;a o acompanhamento da m&amp;#x00FA;sica. Abriu os l&amp;#x00E1;bios, simulando cantar. Cantou. Ao dar f&amp;#x00E9; de si, disputava &amp;#x00E0; morena fren&amp;#x00E9;tica a posse de uma
+bandeira. Queria enrolar-se no pano para exteriorizar o ser partid&amp;#x00E1;rio que pulava em suas entranhas. A mo&amp;#x00E7;a, em vez de ceder o trof&amp;#x00E9;u, abra&amp;#x00E7;ou-se com Ev&amp;#x00E1;glio e beijou-o na boca. Estava batizado, crismado e ungido: uma vez Flamengo, sempre Flamengo.
+
+O pessoal desceu na G&amp;#x00E1;vea, empurrando Ev&amp;#x00E1;glio para descer tamb&amp;#x00E9;m e continuar a festa, mas Ev&amp;#x00E1;glio mora em Ipanema, e j&amp;#x00E1; com o p&amp;#x00E9; no estribo se lembrou. Loucura continuar flamengo a noite inteira &amp;#x00E0; base de chope, caipirinha, batucada e o mais. Segurou firme na porta, gritou: &quot;Eu volto, gente! Vou s&amp;#x00F3; trocar de roupa&quot; e, n&amp;#x00E3;o se sabe como, chegou intacto ao lar, j&amp;#x00E1; sem compromisso clubista.
+
+(ANDRADE, Carlos Drummond. De conto em conto, v. 2. S&amp;#x00E3;o Paulo: &amp;#x00C1;tica, 2001.)
+
+Fonte: (http://literaturacibernetica.blogspot.com/2010/01/o-torcedor-carlos-drummond-de-andrade.html)
+
+&amp;#x003C;b&amp;#x003E;O trecho que indica um fato &amp;#x00E9;:&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x201C;No jogo de decis&amp;#x00E3;o do campeonato, Ev&amp;#x00E1;glio torceu pelo Atl&amp;#x00E9;tico Mineiro...&amp;#x201D;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;...estes pareciam terem guardado a capacidade de grito para depois da vit&amp;#x00F3;ria...&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;...todos cantavam, sambavam com alegria t&amp;#x00E3;o pura que ele pr&amp;#x00F3;prio come&amp;#x00E7;ou a sentir um pouco de flamengo dentro de si.&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x201C;Loucura continuar flamengo a noite inteira &amp;#x00E0; base de chope, caipirinha, batucada e o mais.&amp;#x201D;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
