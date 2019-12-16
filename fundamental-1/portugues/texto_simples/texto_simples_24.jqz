@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 24</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 24</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(SAERS). Leia o texto e responda.
+
+&amp;#x003C;b&amp;#x003E;O socorro&amp;#x003C;/b&amp;#x003E;
+
+Ele foi cavando, cavando, cavando, pois sua profiss&amp;#x00E3;o &amp;#x2013; coveiro &amp;#x2013; era cavar. Mas, de repente, na distra&amp;#x00E7;&amp;#x00E3;o do of&amp;#x00ED;cio que amava, percebeu que cavara demais. Tentou sair da cova e n&amp;#x00E3;o conseguiu. Levantou o olhar para cima e viu que, sozinho, n&amp;#x00E3;o conseguiria sair. Gritou. Ningu&amp;#x00E9;m atendeu. Gritou mais forte. Ningu&amp;#x00E9;m veio. Enrouqueceu de gritar, cansou de esbravejar, desistiu com a noite. Sentou-se no fundo da cova, desesperado. A noite chegou, subiu, fez-se o sil&amp;#x00EA;ncio das horas tardias. Bateu o frio da madrugada e, na noite escura, n&amp;#x00E3;o se ouvia um som humano, embora o cemit&amp;#x00E9;rio estivesse cheio de pipilos e coaxares naturais dos matos. S&amp;#x00F3; pouco depois da meia-noite &amp;#x00E9; que l&amp;#x00E1; vieram uns passos. Deitado no fundo da cova o coveiro gritou. Os passos se aproximaram. Uma cabe&amp;#x00E7;a &amp;#x00E9;bria apareceu l&amp;#x00E1; em cima, perguntou o que havia: &amp;#x2015; &amp;#x201C;O que &amp;#x00E9; que h&amp;#x00E1;?&amp;#x201D;.
+
+O coveiro ent&amp;#x00E3;o gritou desesperado: &amp;#x2015;Tire-me daqui, por favor. Estou com um frio terr&amp;#x00ED;vel!&amp;#x201D;. &amp;#x2015; Mas, coitado!&amp;#x201D; condoeu-se o b&amp;#x00EA;bado &amp;#x2015;Tem toda raz&amp;#x00E3;o de estar com frio. Algu&amp;#x00E9;m tirou a terra de cima de voc&amp;#x00EA;, meu pobre mortinho!&amp;#x201D; E pegando a p&amp;#x00E1;, encheu-a de terra e p&amp;#x00F4;s-se a cobri-lo cuidadosamente.
+
+Moral: Nos momentos graves &amp;#x00E9; preciso verificar muito bem a quem se apela.
+
+FERNANDES, Mill&amp;#x00F4;r. Dispon&amp;#x00ED;vel em http://citador.weblog.com.pt/arquivo/109176.html
+
+&quot;&amp;#x003C;b&amp;#x003E;Uma cabe&amp;#x00E7;a &amp;#x00E9;bria apareceu...&amp;#x003C;/b&amp;#x003E;&quot; isto quer dizer que:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Um animal apareceu.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Um fantasma apareceu.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ningu&amp;#x00E9;m apareceu.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Uma pessoa alcoolizada apareceu.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERS). Leia o texto
+
+&amp;#x003C;b&amp;#x003E;O socorro&amp;#x003C;/b&amp;#x003E;
+
+Ele foi cavando, cavando, cavando, pois sua profiss&amp;#x00E3;o &amp;#x2013; coveiro &amp;#x2013; era cavar. Mas, de repente, na distra&amp;#x00E7;&amp;#x00E3;o do of&amp;#x00ED;cio que amava, percebeu que cavara demais. Tentou sair da cova e n&amp;#x00E3;o conseguiu. Levantou o olhar para cima e viu que, sozinho, n&amp;#x00E3;o conseguiria sair. Gritou. Ningu&amp;#x00E9;m atendeu. Gritou mais forte. Ningu&amp;#x00E9;m veio. Enrouqueceu de gritar, cansou de esbravejar, desistiu com a noite. Sentou-se no fundo da cova, desesperado. A noite chegou, subiu, fez-se o sil&amp;#x00EA;ncio das horas tardias. Bateu o frio da madrugada e, na noite escura, n&amp;#x00E3;o se ouvia um som humano, embora o cemit&amp;#x00E9;rio estivesse cheio de pipilos e coaxares naturais dos matos. S&amp;#x00F3; pouco depois da meia-noite &amp;#x00E9; que l&amp;#x00E1; vieram uns passos. Deitado no fundo da cova o coveiro gritou. Os passos se aproximaram. Uma cabe&amp;#x00E7;a &amp;#x00E9;bria apareceu l&amp;#x00E1; em cima, perguntou o que havia: &amp;#x2015; &amp;#x201C;O que &amp;#x00E9; que h&amp;#x00E1;?&amp;#x201D;.
+
+O coveiro ent&amp;#x00E3;o gritou desesperado: &amp;#x2015;Tire-me daqui, por favor. Estou com um frio terr&amp;#x00ED;vel!&amp;#x201D;. &amp;#x2015; Mas, coitado!&amp;#x201D; condoeu-se o b&amp;#x00EA;bado &amp;#x2015;Tem toda raz&amp;#x00E3;o de estar com frio. Algu&amp;#x00E9;m tirou a terra de cima de voc&amp;#x00EA;, meu pobre mortinho!&amp;#x201D; E pegando a p&amp;#x00E1;, encheu-a de terra e p&amp;#x00F4;s-se a cobri-lo cuidadosamente.
+
+Moral: Nos momentos graves &amp;#x00E9; preciso verificar muito bem a quem se apela.
+
+FERNANDES, Mill&amp;#x00F4;r. Dispon&amp;#x00ED;vel em http://citador.weblog.com.pt/arquivo/109176.html
+
+O coveiro ficou desesperado por que
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>ficou preso no buraco e j&amp;#x00E1; era noite.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ouviu uns passos chegando perto do buraco.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>sentiu medo de ficar sozinho no cemit&amp;#x00E9;rio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>viu que um b&amp;#x00EA;bado tinha chegado para ajud&amp;#x00E1;-lo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Prova Brasil). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;A Costureira das Fadas&amp;#x003C;/b&amp;#x003E;
+
+
+Depois do jantar, o pr&amp;#x00ED;ncipe levou Narizinho &amp;#x00E0; casa da melhor costureira do reino. Era uma aranha de Paris, que sabia fazer vestidos lindos, lindos at&amp;#x00E9; n&amp;#x00E3;o poder mais! Ela mesma tecia a fazenda, ela mesma inventava as modas.
+
+&amp;#x2013; Dona Aranha &amp;#x2013; disse o pr&amp;#x00ED;ncipe &amp;#x2013; quero que fa&amp;#x00E7;a para esta ilustre dama o vestido mais bonito do mundo. Vou dar uma grande festa em sua honra e quero v&amp;#x00EA;-la deslumbrar a corte.
+
+Disse e retirou-se. Dona Aranha tomou da fita m&amp;#x00E9;trica e, ajudada por seis aranhinhas muito espertas, principiou a tomar as medidas. Depois teceu depressa, depressa, uma fazenda cor-de-rosa com estrelinhas douradas, a coisa mais linda que se possa imaginar. Teceu tamb&amp;#x00E9;m pe&amp;#x00E7;as de fita e pe&amp;#x00E7;as de renda e de entremeio &amp;#x2014; at&amp;#x00E9; carret&amp;#x00E9;is de linha de seda fabricou.
+
+MONTEIRO LOBATO, Jos&amp;#x00E9; Bento. Reina&amp;#x00E7;&amp;#x00F5;es de Narizinho. S&amp;#x00E3;o Paulo: Brasiliense, 1973.
+
+
+O pr&amp;#x00ED;ncipe quer dar um vestido para Narizinho porque:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>ela deseja ter um vestido de baile.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o pr&amp;#x00ED;ncipe vai se casar com Narizinho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ela deseja um vestido cor-de-rosa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o pr&amp;#x00ED;ncipe far&amp;#x00E1; uma festa para Narizinho.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;O DONO DA BOLA&amp;#x003C;/b&amp;#x003E;
+
+
+Caloca morava na casa mais bonita da nossa rua. Os brinquedos que Caloca tinha, voc&amp;#x00EA;s n&amp;#x00E3;o podem imaginar! At&amp;#x00E9; um trem el&amp;#x00E9;trico ele ganhou do av&amp;#x00F4;.
+
+E tinha bicicleta, com farol e buzina, e tinha tenda de &amp;#x00ED;ndio, carrinhos de todos os tamanhos e uma bola de futebol, de verdade. Caloca s&amp;#x00F3; n&amp;#x00E3;o tinha amigos. Porque ele brigava com todo mundo. N&amp;#x00E3;o deixava ningu&amp;#x00E9;m brincar com os brinquedos dele. Mas futebol ele tinha que jogar com a gente, porque futebol n&amp;#x00E3;o se pode jogar sozinho.
+
+O nosso time estava cheio de amigos. O que n&amp;#x00F3;s n&amp;#x00E3;o t&amp;#x00ED;nhamos era bola de futebol. S&amp;#x00F3; bola de meia, mas n&amp;#x00E3;o &amp;#x00E9; a mesma coisa. Bom mesmo &amp;#x00E9; bola de couro, como a do Caloca. Mas, toda vez que a gente ia jogar com Caloca, acontecia a mesma coisa. Era s&amp;#x00F3; o juiz marcar qualquer falta do Caloca que ele gritava logo:
+
+&amp;#x2013; Assim eu n&amp;#x00E3;o jogo mais! D&amp;#x00E1; aqui a minha bola!
+
+Rocha, Ruth. Marcelo, marmelo, martelo e outras hist&amp;#x00F3;rias. Rio de Janeiro: Salamandra, p. 46.
+
+
+Nesse texto, Caloca n&amp;#x00E3;o tinha amigos porque
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>brigava com todo mundo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>era o dono da bola.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>gostava de futebol.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>tinha muitos brinquedos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo a abaixo e responda.
+
+
+&amp;#x003C;b&amp;#x003E;CORA&amp;#x00C7;&amp;#x00C3;O CONTA DIFERENTE&amp;#x003C;/b&amp;#x003E;
+
+7 X 5 = 45 ...
+
+O Renato come&amp;#x00E7;ou a rir e cochichou comigo:
+
+&amp;#x2013; Essa menina &amp;#x00E9; meio lel&amp;#x00E9;.
+
+Eu n&amp;#x00E3;o ri nem falei nada. Mas uma coisa, l&amp;#x00E1; dentro da minha cabe&amp;#x00E7;a, me disse que 7 X 5 = 35. Como foi a Adriana que tinha escrito no quadro, eu n&amp;#x00E3;o percebi o erro. Aquele 4 que ela desenhou t&amp;#x00E3;o certinho no lugar do 3 era t&amp;#x00E3;o bonito! At&amp;#x00E9; os n&amp;#x00FA;meros da Adriana s&amp;#x00E3;o lindos!
+
+&amp;#x2013; T&amp;#x00E1; errado, tia! T&amp;#x00E1; errado! &amp;#x2013; gritou, toda esgani&amp;#x00E7;ada, a Carina.
+
+A tia ent&amp;#x00E3;o mandou a Adriana sentar. [...]
+
+Ela ficou com a cabe&amp;#x00E7;a abaixada um temp&amp;#x00E3;o. [...]
+
+A&amp;#x00ED;, arranquei a beiradinha da &amp;#x00FA;ltima p&amp;#x00E1;gina do meu caderno e escrevi:
+
+N&amp;#x00E3;o liga, Adriana.
+
+O 45 que voc&amp;#x00EA; escreve &amp;#x00E9; t&amp;#x00E3;o lindo quanto o seu cabelo.
+
+[...] Fiz bem depressa uma bolinha com o bilhete dobrado, mirei joguei. Ela caiu no colo da Adriana.
+
+ALBERGARIA, Lino de. Cora&amp;#x00E7;&amp;#x00E3;o conta diferente. 3.ed. S&amp;#x00E3;o Paulo: Scipione, 1994. Fragmento.
+
+
+Quem conta essa hist&amp;#x00F3;ria &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a menina que errou a tabuada.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a menina que gritou &amp;#x201C;T&amp;#x00E1; errado!&amp;#x201D;.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o menino que come&amp;#x00E7;ou a rir.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o menino que escreveu o bilhete.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo:
+
+&amp;#x003C;b&amp;#x003E;A Rainha Alice&amp;#x003C;/b&amp;#x003E;
+
+&amp;#x2013; Que bom! Consegui me transformar em Rainha.
+
+Saltou de alegria e caiu sentada no ch&amp;#x00E3;o, entre a Rainha Vermelha e a Rainha Branca.
+
+Quis saber se o jogo j&amp;#x00E1; tinha acabado e indagou:
+
+&amp;#x2013; Por favor, podem me dizer se...
+
+A Rainha Vermelha cortou sua frase:
+
+&amp;#x2013; J&amp;#x00E1; sabemos: fomos convidadas para a festa que vai dar.
+
+&amp;#x2013; Se sou eu quem d&amp;#x00E1; a festa, quem as convidou?
+
+&amp;#x2013; Uma de n&amp;#x00F3;s convidou a outra e as duas juntas fizemos todos os convites.
+
+Alice achou que aquilo era demais e falou:
+
+&amp;#x2013; Agora tamb&amp;#x00E9;m sou Rainha e... [...]
+
+CARROL, Lewis. Alice no pa&amp;#x00ED;s do espelho. Edy Lima.1 ed. S&amp;#x00E3;o Paulo: Compainha Editora Nacional, 2007, p. 40. Fragmento.
+
+
+Qual foi o fato que deu origem a essa hist&amp;#x00F3;ria?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Alice conseguir se transformar em rainha.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Alice cair sentada entre as duas rainhas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>As duas rainhas se convidarem para a festa.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>As duas rainhas fazerem todos os convites.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(AvaliaBH). Leia o texto abaixo e responda.
+
+&amp;#x003C;b&amp;#x003E;OS SONHOS DE JOSAF&amp;#x00C1;&amp;#x003C;/b&amp;#x003E;
+
+Josaf&amp;#x00E1; gostava muito de dormir. Dormia a toda hora e em todos os lugares. Debaixo da lua, debaixo do sol, tanto fazia. E, quanto mais dormia, mais sonhava.
+
+Um dia, Josaf&amp;#x00E1; resolveu, depois de cada despertar, contar seus sonhos &amp;#x00E0; primeira pessoa que encontrasse. [...]
+
+Ent&amp;#x00E3;o, contou o primeiro sonho...
+
+Antoninho passava pela estradinha de terra que ia dar no C&amp;#x00F3;rrego de Areia, quando ouviu um grito. Era Josaf&amp;#x00E1;, acabando de acordar:
+
+&amp;#x2500; &amp;#x00CA;i! &amp;#x00CA;i! Eu sonhei com um peixe. Voc&amp;#x00EA; conhece o peixe que morava debaixo da ponte do rio Jaguaribe? N&amp;#x00E3;o?
+
+Ele tem um telefone celular, sabia? (Isso n&amp;#x00E3;o estava no sonho, mas Josaf&amp;#x00E1; achou por bem inventar) Ele me disse que um velho danado queria fazer dele seu almo&amp;#x00E7;o.
+
+E sabe o que o peixe fez? Nadou, nadou e nadou para bem longe...
+
+O garotinho, que n&amp;#x00E3;o era bobo, olhou de um jeito engra&amp;#x00E7;ado para Josaf&amp;#x00E1; e respondeu:
+
+&amp;#x2500; Nadou para bem longe, foi? Pois seu sonho n&amp;#x00E3;o salvou o peixinho...
+
+&amp;#x2500; Por qu&amp;#x00EA;? &amp;#x2500; espantou-se Josaf&amp;#x00E1;.
+
+&amp;#x2500; Ora, porque meu nome &amp;#x00E9; Antoninho Velho. Se ele nadou, n&amp;#x00E3;o sei. Sei que acabei de almo&amp;#x00E7;ar um peixinho.... &amp;#x2500; e saiu correndo, deixando o sonhador vendo bolhas de sonho explodindo no ar.
+
+Pieiro, Jorge. Os sonhos de Josaf&amp;#x00E1;, Fortaleza: Secretaria de Educa&amp;#x00E7;&amp;#x00E3;o B&amp;#x00E1;sica, 2007.
+
+
+O que fez com que essa hist&amp;#x00F3;ria acontecesse?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A informa&amp;#x00E7;&amp;#x00E3;o inventada sobre o peixe.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A resposta inesperada do Antoninho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O encontro de Josaf&amp;#x00E1; com Antoninho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O relato do sonho com o peixe.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+A escola onde Jo&amp;#x00E3;o estuda realizou uma gincana, dentre outras tarefas, destacou-se a de arrecadar alimentos n&amp;#x00E3;o perec&amp;#x00ED;veis para doa&amp;#x00E7;&amp;#x00E3;o em orfanato. O gr&amp;#x00E1;fico abaixo registra o resultado da arrecada&amp;#x00E7;&amp;#x00E3;o em quilos por equipe.
+
+&amp;#x003C;img src=&quot;../../../img/3ee79919c62c611a4b04e0fd266e1251ed55981e.svg&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Com base nos dados do gr&amp;#x00E1;fico acima, classifique do primeiro ao quarto colocado a equipes participantes. Marque a resposta certa:
+&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Amarelo, Azul; Verde e Vermelho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Verde, Amarelo, Vermelho e Azul.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Vermelho, Verde, Azul e Amarelo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Vermelho, Azul, Verde e Amarelo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;OS DOIS AMIGOS E O URSO&amp;#x003C;/b&amp;#x003E;
+
+Iam os dois homens pela estrada quando um Urso os atacou. Enquanto um deles caiu, o outro, em desabalada fuga, numa &amp;#x00E1;rvore subiu. O que ficou se fingiu de morto. O Urso o cheirou, mexeu, virou, revirou, finalmente desistiu.
+
+Depois que o Urso sumiu, o outro, de volta, rindo, ao amigo perguntou:
+
+&amp;#x2014; Quando fu&amp;#x00E7;ou teu ouvido, o que o Urso falou?
+
+&amp;#x2014; Que nas horas do perigo, se conhece o falso amigo.
+
+(La fontaine. F&amp;#x00E1;bulas. Tradu&amp;#x00E7;&amp;#x00E3;o de Ferreira Gullar. Rio de Janeiro: Revan, 1997.)
+
+
+O urso n&amp;#x00E3;o devorou um dos homens porque:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>n&amp;#x00E3;o quis subir na &amp;#x00E1;rvore.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>n&amp;#x00E3;o alcan&amp;#x00E7;ou o homem.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o homem se fingiu de morto.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a &amp;#x00E1;rvore era muito alta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SEPR). Leia o texto abaixo:
+
+&amp;#x003C;b&amp;#x003E;Texto I&amp;#x003C;/b&amp;#x003E;
+
+A cigarra e as formigas
+
+No inverno, as formigas estavam fazendo secar o gr&amp;#x00E3;o molhado, quando uma cigarra faminta lhes pediu algo para comer. As formigas lhe disseram: &amp;#x201C;Por que, no ver&amp;#x00E3;o, n&amp;#x00E3;o reservaste tamb&amp;#x00E9;m o teu alimento?&amp;#x201D; A cigarra respondeu: &amp;#x201C;N&amp;#x00E3;o tinha tempo, pois cantava melodiosamente&amp;#x201D;. E as formigas, rindo, disseram: &amp;#x201C;Pois bem, se cantavas no ver&amp;#x00E3;o, dan&amp;#x00E7;a agora no inverno.
+
+A f&amp;#x00E1;bula mostra que n&amp;#x00E3;o se deve negligenciar em nenhum trabalho, para evitar tristeza e perigos.
+
+Fonte: Esopo. F&amp;#x00E1;bulas. Porto Alegre: L&amp;#x0026;M Pocket, 1997.
+
+&amp;#x003C;b&amp;#x003E;Texto II&amp;#x003C;/b&amp;#x003E;
+
+Muita como&amp;#x00E7;&amp;#x00E3;o e tristeza no adeus &amp;#x00E0; Cigarra
+
+Milhares de insetos compareceram, ontem, ao enterro da Cigarra. Muita tristeza e revolta marcaram o adeus &amp;#x00E0; maior cantora que a Floresta j&amp;#x00E1; teve. V&amp;#x00E1;rias manifesta&amp;#x00E7;&amp;#x00F5;es de carinho aconteceram durante toda a cerim&amp;#x00F4;nia. O prefeito Lagarto e a primeira dama Borboleta compareceram ao funeral. Eles pediram &amp;#x00E0;s autoridades pressa nas investiga&amp;#x00E7;&amp;#x00F5;es para que o verdadeiro culpado pela morte da cantora seja punido. O p&amp;#x00FA;blico n&amp;#x00E3;o deixou de homenagear sua querida artista. Os f&amp;#x00E3;s entoaram os sucessos da Cigarra que faziam a alegria dos habitantes da Floresta durante o ver&amp;#x00E3;o. Um outro grupo erguia faixas de protesto chamando a principal suspeita da morte, a Formiga, de cruel e de ego&amp;#x00ED;sta. Nenhuma formiga foi vista no enterro.
+
+Fonte: Donizete Aparecido Batista &amp;#x2013; Professor da Rede P&amp;#x00FA;blica do Estado do Paran&amp;#x00E1;.
+
+
+Os dois textos apresentam:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>O ego&amp;#x00ED;smo da formiga.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A morte da cigarra cantora.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A fome da formiga.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O trabalho da formiga.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 22</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - PORTUGU&amp;#x00CA;S - TEXTO SIMPLES 22</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(AvaliaBH). Leia o texto abaixo:
+
+&amp;#x003C;B&amp;#x003E;Sapo&amp;#x003C;/B&amp;#x003E;
+
+O sapo &amp;#x00E9; um anf&amp;#x00ED;bio. Isso quer dizer que ele passa parte da sua vida na &amp;#x00E1;gua.
+
+Quando nasce, seu nome &amp;#x00E9; girino: respira por br&amp;#x00E2;nquias e nada como o peixe. Aos poucos, suas pernas v&amp;#x00E3;o crescendo, seu pulm&amp;#x00E3;o vai se desenvolvendo, e ele passa a viver na terra. Mas, mesmo vivendo fora da &amp;#x00E1;gua, o sapo precisa manter a pele sempre &amp;#x00FA;mida porque tamb&amp;#x00E9;m respira por ela. Por isso, ele mora sempre perto da &amp;#x00E1;gua: rio, riacho, lagoa ou brejo. Comida de sapo &amp;#x00E9; verme, larva, inseto &amp;#x2013; e sempre vivos!
+
+A fam&amp;#x00ED;lia do sapo &amp;#x00E9; grande: chamamos de sapo os anuros terrestres, de perereca as que vivem em &amp;#x00E1;rvores, de r&amp;#x00E3; as que vivem na &amp;#x00E1;gua. Mesmo variando de cor e tamanho, eles s&amp;#x00E3;o todos do mesmo grupo.
+
+O sapo coaxa e cada esp&amp;#x00E9;cie tem o seu som. Os sapos mais coloridos t&amp;#x00EA;m um veneno muito forte na pele. Os &amp;#x00ED;ndios brasileiros esfregam a ponta das suas flechas nesses sapos para paralisar a sua ca&amp;#x00E7;a.
+
+BRIOSCHI, Gabriela. Bichos do Brasil. S&amp;#x00E3;o Paulo: Odisseus/Dupla Design, 2002.
+
+A pele dos sapos precisa estar sempre &amp;#x00FA;mida, porque
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a pele cont&amp;#x00E9;m veneno.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as cores da pele variam.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o sapo mora perto da &amp;#x00E1;gua.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o sapo respira pela pele.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SARESP-2011). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;As minhocas&amp;#x003C;/b&amp;#x003E;
+
+
+As minhocas s&amp;#x00E3;o muito importantes para o homem. As minhocas abrem caminhos na terra cavando t&amp;#x00FA;neis. Com essa atividade elas ajudam a manter a qualidade do solo &amp;#x2013; a terra fica mais ventilada, f&amp;#x00E9;rtil e produtiva. Assim, elas fazem muito bem para a terra e para o plantio. Por isso, em muitos lugares, elas s&amp;#x00E3;o vendidas para o uso na agricultura.
+
+(Revista Semanal da Li&amp;#x00E7;&amp;#x00E3;o de Casa. S&amp;#x00E3;o Paulo: Klick Editora, n.&amp;#x00BA; 21, p. 4-5. Adaptado.)
+
+Esse texto serve para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>divertir.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>emocionar.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>informar.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>surpreender.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERO). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;OMS alerta para &amp;#x201C;pandemia iminente&amp;#x201D;&amp;#x003C;/b&amp;#x003E;
+
+Organiza&amp;#x00E7;&amp;#x00E3;o confirma 1&amp;#x00AA; morte por gripe su&amp;#x00ED;na fora do M&amp;#x00E9;xico; Brasil tem 2 casos suspeitos, diz governo.
+
+Ante a r&amp;#x00E1;pida propaga&amp;#x00E7;&amp;#x00E3;o mundial da gripe su&amp;#x00ED;na e a constata&amp;#x00E7;&amp;#x00E3;o da cont&amp;#x00ED;nua transmiss&amp;#x00E3;o do v&amp;#x00ED;rus entre humanos, a Organiza&amp;#x00E7;&amp;#x00E3;o Mundial de Sa&amp;#x00FA;de elevou seu alerta para o n&amp;#x00ED;vel 5.
+
+&amp;#x00C9; a primeira vez que a OMS aciona esse n&amp;#x00ED;vel, que indica imin&amp;#x00EA;ncia de pandemia (epidemia mundial). O &amp;#x00F3;rg&amp;#x00E3;o diz ser alta a probabilidade de o alerta ir ao n&amp;#x00ED;vel 6 (declara&amp;#x00E7;&amp;#x00E3;o de pandemia).
+
+&amp;#x201C;Todos os pa&amp;#x00ED;ses devem imediatamente ativar planos contra pandemias&amp;#x201D; afirmou Margaret Chan, diretora-geral da OMS. Para Keiji Fukuda, diretor-geral-assistente, a pandemia come&amp;#x00E7;ou.
+
+A OMS confirmou a primeira morte causada pela gripe su&amp;#x00ED;na fora do M&amp;#x00E9;xico. A v&amp;#x00ED;tima foi um menino mexicano de 22 meses que estava internado nos EUA. No mundo, j&amp;#x00E1; s&amp;#x00E3;o oito mortos.
+
+O que mais preocupa agora &amp;#x00E9; o cont&amp;#x00E1;gio de pacientes que n&amp;#x00E3;o foram ao M&amp;#x00E9;xico. Isso j&amp;#x00E1; ocorreu entre alunos de uma escola de Nova York que tiveram contato com pessoas vindas daquele pa&amp;#x00ED;s.
+
+Caso similar aconteceu na Espanha. No Brasil, segundo o governo, h&amp;#x00E1; dois casos suspeitos de gripe su&amp;#x00ED;na. Os pacientes, um em Belo Horizonte e outro em S&amp;#x00E3;o Paulo, estiveram no M&amp;#x00E9;xico.
+
+Folha de S&amp;#x00E3;o Paulo, 30 abr. 2009, p. 1.
+
+Esse texto traz informa&amp;#x00E7;&amp;#x00F5;es sobre
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>os perigos de viagens ao M&amp;#x00E9;xico.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>os planos para combater doen&amp;#x00E7;as.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma gripe que pode atingir o mundo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>uma organiza&amp;#x00E7;&amp;#x00E3;o internacional.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERO). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Quem ama vacina&amp;#x003C;/b&amp;#x003E;
+
+Terezinha Vieira da Rocha*
+
+O que voc&amp;#x00EA;, mam&amp;#x00E3;e, que acaba de trazer ao mundo um ser t&amp;#x00E3;o especial, seu filho, precisa saber sobre vacinas.
+
+Tomar vacina d&amp;#x00F3;i?
+
+Sim. D&amp;#x00F3;i, mas &amp;#x00E9; uma dor muito pequena se comparada ao trauma de uma interna&amp;#x00E7;&amp;#x00E3;o por doen&amp;#x00E7;as que podem ser evitadas com a vacina.
+
+Trabalho e n&amp;#x00E3;o tenho tempo de levar meu filho para vacinar.
+
+O ideal &amp;#x00E9; que voc&amp;#x00EA;, mam&amp;#x00E3;e, esteja com seu beb&amp;#x00EA;, principalmente no momento da 1&amp;#x00AA; vacina.
+
+Ele sentir&amp;#x00E1; mais seguro no seu colo, e as informa&amp;#x00E7;&amp;#x00F5;es passadas a voc&amp;#x00EA;, sobre as vacinas pelos profissionais de sa&amp;#x00FA;de, s&amp;#x00E3;o muito importantes, mas, se ficar dif&amp;#x00ED;cil para voc&amp;#x00EA; compartilhar com seu filho este momento, pe&amp;#x00E7;a a um parente, vizinho, ou a uma pessoa de sua confian&amp;#x00E7;a para lev&amp;#x00E1;-lo ao Centro de Sa&amp;#x00FA;de mais perto de sua casa. O importante &amp;#x00E9; que no dia marcado sua crian&amp;#x00E7;a receba as vacinas de acordo com o calend&amp;#x00E1;rio vacinal. Se no dia marcado for S&amp;#x00E1;bado, Domingo ou feriado, leve-o um dia antes ou um dia depois.
+
+Dispon&amp;#x00ED;vel em: &amp;#x003C;http://www.pbh..gov.br/smsa/biblioteca/saudedigital/dezembro/folder.html&amp;#x003E;.
+
+
+Esse texto foi escrito para
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>filhos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>m&amp;#x00E3;es.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>m&amp;#x00E9;dicos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto abaixo que pertence ao &amp;#x201C;Manual de Etiqueta: 33 dicas de como enfrentar o aquecimento global e outros desafios da atualidade&amp;#x201D;.
+
+[21] &amp;#x201C;Ao fazer compras, leve sua pr&amp;#x00F3;pria sacola, de prefer&amp;#x00EA;ncia as de pano resistente&amp;#x201D;, aconselha o presidente do Instituto Ethos, Ricardo Young. Com esse gesto simples, voc&amp;#x00EA; deixar&amp;#x00E1; de participar da farra das sacolinhas pl&amp;#x00E1;sticas, que entopem cada vez mais os lix&amp;#x00F5;es das grandes cidades.
+
+&amp;#x003C;img src=&quot;../../../img/c70c6027ff46b29239e703b625007a650b12375b.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+O conselho dado por Ricardo Young pretende:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Contribuir para a preserva&amp;#x00E7;&amp;#x00E3;o das sacolas pl&amp;#x00E1;sticas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Evitar desperd&amp;#x00ED;cio das sacolas pl&amp;#x00E1;sticas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Vender mais sacolas de pano.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Evitar entupimento dos bueiros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SADEAM). Leia o texto abaixo:
+
+&amp;#x003C;b&amp;#x003E;POR QUE BATATA FRITA ENGORDA&amp;#x003C;/b&amp;#x003E;
+
+A batata &amp;#x00E9; um vegetal importante, pois tem carboidratos e vitamina A. No caso da batata frita, o que engorda &amp;#x00E9; o &amp;#x00F3;leo da fritura. Para se ter uma ideia, uma por&amp;#x00E7;&amp;#x00E3;o de batatas fritas de 100 gramas tem cerca de 274 calorias, enquanto uma por&amp;#x00E7;&amp;#x00E3;o de batata cozida tem s&amp;#x00F3; 68 calorias. Outros vegetais, se forem servidos fritos, tamb&amp;#x00E9;m engordam.
+
+Revista Recreio, fevereiro de 2007. *Adaptado: Reforma Ortogr&amp;#x00E1;fica.
+
+O assunto desse texto &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a import&amp;#x00E2;ncia da batata na alimenta&amp;#x00E7;&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a receita de alimentos cozidos e cal&amp;#x00F3;ricos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o motivo pelo qual batata frita engorda.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o peso de uma por&amp;#x00E7;&amp;#x00E3;o de batatas fritas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAEPE). Leia o texto abaixo e responda.
+
+&amp;#x003C;b&amp;#x003E;POR QUE NUNCA PARAMOS DE PENSAR?&amp;#x003C;/b&amp;#x003E;
+
+
+Porque o c&amp;#x00E9;rebro est&amp;#x00E1; sempre ligado. N&amp;#x00E3;o para nem mesmo quando adormecemos. Durante o sono, ele apenas funciona de um modo diferente, em outro tipo de processamento. Quando dormimos, as mem&amp;#x00F3;rias s&amp;#x00E3;o passadas a limpo e v&amp;#x00E1;rias altera&amp;#x00E7;&amp;#x00F5;es neuronais s&amp;#x00E3;o consolidadas conforme as experi&amp;#x00EA;ncias recentes. Durante o per&amp;#x00ED;odo de sono profundo, &amp;#x00E9; verdade, n&amp;#x00E3;o h&amp;#x00E1; um pensamento consciente, mas isso n&amp;#x00E3;o significa que o c&amp;#x00E9;rebro n&amp;#x00E3;o esteja ativo. Nos sonhos ocorre intensa atividade mental &amp;#x2013; inconsciente, segundo a psican&amp;#x00E1;lise. Mesmo que voc&amp;#x00EA; n&amp;#x00E3;o esteja a par do sonho, o seu &amp;#x201C;eu&amp;#x201D; on&amp;#x00ED;rico sabe exatamente o que est&amp;#x00E1; acontecendo.
+
+AGUIAR, Ana Carolina de Souza. Editora Abril. In: Revista Nova Escola,. Ano 21, n&amp;#x00BA; 195, p. 28. 2006. *Adaptado: Reforma Ortogr&amp;#x00E1;fica.
+
+
+Segundo esse texto, nunca paramos de pensar porque
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>o c&amp;#x00E9;rebro est&amp;#x00E1; sempre ligado.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o c&amp;#x00E9;rebro sonha, quando dormimos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>durante o sono, o c&amp;#x00E9;rebro passa nossas mem&amp;#x00F3;rias a limpo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>durante o sono, o c&amp;#x00E9;rebro consolida nossas experi&amp;#x00EA;ncias recentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROMOVER). Leia o texto abaixo.
+
+[...] Na segunda-feira, como de costume, Virinha saiu de madrugada para fu&amp;#x00E7;ar latas de lixo. Ele achava que aquela era a melhor hora de procurar comida: fresquinho, tudo calmo, as fam&amp;#x00ED;lias donas do lixo dormindo em paz. [...]
+
+Encontrou uma enorme lata no jardim de uma casa, e come&amp;#x00E7;ou a fu&amp;#x00E7;ar l&amp;#x00E1; dentro at&amp;#x00E9; encontrar o fundo. Mas fu&amp;#x00E7;ou com tanta for&amp;#x00E7;a (ele estava com uma fome danada), que a lata virou, emborcou, e emborcada ficou.
+
+N&amp;#x00E3;o foi mole o que Virinha sofreu espremido l&amp;#x00E1; dentro como se fosse lixo tamb&amp;#x00E9;m, sem ter lugar nem para espernear, s&amp;#x00F3; podendo respirar por um buraquinho de ferrugem que tinha na lata. Um buraquinho de nada.
+
+Se o caminh&amp;#x00E3;o de lixo n&amp;#x00E3;o tivesse passado bem cedo e se o lixeiro n&amp;#x00E3;o fosse logo desemborcando a lata e dando aquele grito de susto [...]
+
+&amp;#x2013; Tem cachorro vivo dentro do lixo!
+
+[...] Virinha n&amp;#x00E3;o tinha escapado [...]
+
+Saiu tonto l&amp;#x00E1; de dentro. Cambaleou at&amp;#x00E9; a praia. E foi preciso um banho de mar um bocado comprido pra ele acalmar o nervosismo e se sentir
+
+limpo daquele lixo todo. [...]
+
+NUNES, Lygia B&amp;#x00F3;junga; OLYMPIO, Jos&amp;#x00E9;. Os colegas.
+
+
+A lata de lixo que a Virinha fu&amp;#x00E7;ava virou porque
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>estava com muita fome.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ficou muito espremido l&amp;#x00E1; dentro.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>fu&amp;#x00E7;ou com muita for&amp;#x00E7;a.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>estava muito nervoso. estava muito nervoso.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERO). Leia o texto abaixo.
+
+&amp;#x003C;b&amp;#x003E;Tem gente olhando&amp;#x003C;/b&amp;#x003E;
+
+Amanda era uma linda menina. Fazia pose na hora da foto, vivia sorrindo para todo mundo.
+
+&amp;#x2013; Que bonitinha! &amp;#x2013; dizia a m&amp;#x00E3;e que a estava olhando.
+
+Amanda era tamb&amp;#x00E9;m muito jeitosa. Combinava as cores da roupa com a fita do cabelo, ajeitava os brincos.
+
+&amp;#x2013; Que caprichosa! &amp;#x2013; dizia a tia que a estava olhando.
+
+Amanda era bondosa como ningu&amp;#x00E9;m!
+
+Dava presente para todo mundo: no anivers&amp;#x00E1;rio, no Natal e nos outros dias tamb&amp;#x00E9;m.
+
+&amp;#x2013; Que generosa! &amp;#x2013; dizia a professora que a estava olhando.
+
+Amanda era atenciosa que s&amp;#x00F3; vendo! Tinha um lugar para cada coisa e guardava cada coisa no seu lugar.
+
+&amp;#x2013; Que cuidadosa! &amp;#x2013; dizia o pai que a estava olhando.
+
+MIRANDA, Sim&amp;#x00E3;o. Tem gente olhando. Campinas, SP: Papirus, 2005. Fragmento.
+
+
+De acordo com esse texto, Amanda era um menina cuidadosa porque
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>ajeitava sempre o cabelo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>guardava cada coisa no lugar.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>presenteava todo mundo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>vivia sorrindo para todos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto e responda &amp;#x00E0; quest&amp;#x00E3;o.
+
+
+&amp;#x003C;b&amp;#x003E;O TERREMOTO&amp;#x003C;/b&amp;#x003E;
+
+
+Depois do terremoto, apenas uma casa ficou de p&amp;#x00E9;.
+
+&amp;#x2014; Por que voc&amp;#x00EA; ficou de p&amp;#x00E9;, sua casa doida, n&amp;#x00E3;o sabe que houve um terremoto &amp;#x2014; advertiu a bruxa.
+
+&amp;#x2014; Um terremoto?! &amp;#x2014; repetiu a casa com as janelas esbugalhadas.
+
+E foi tratando logo de desabar tamb&amp;#x00E9;m com medo da bruxa.
+
+&amp;#x003C;img src=&quot;../../../img/8c01e09d7324474cbfe746871f70bcadfaf0fc7b.svg&quot; class=&quot;t30&quot;&amp;#x003E;
+
+DIDIMO, Hor&amp;#x00E1;rio. As historinhas do mestre jabuti. Fortaleza: Edi&amp;#x00E7;&amp;#x00F5;es Dem&amp;#x00F3;crito Rocha, 2003, p. 23.
+
+
+A casa que estava em p&amp;#x00E9; desabou
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>por causa de um terremoto.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>porque teve medo da bruxa.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>porque era uma casa doida.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>por causa das janelas abertas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
