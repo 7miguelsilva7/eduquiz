@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - MATEM&amp;#x00C1;TICA - GRANDEZAS E MEDIDAS 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - MATEM&amp;#x00C1;TICA - GRANDEZAS E MEDIDAS 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Ao usar uma r&amp;#x00E9;gua de 20 cm para medir uma mesa, Henrique observou que ela cabia 27 vezes no comprimento da mesa. Ele multiplicou esses valores e encontrou 540 cm.
+
+Em metros, o comprimento da mesa &amp;#x00E9; de
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>0,54.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>5,4.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>54.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>540.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Maria quer comprar um len&amp;#x00E7;ol para sua cama.
+
+Observe a figura:
+
+&amp;#x003C;img src=&quot;../../../img/c87da5597aa36990749e57ba0b79cba52ee272f8.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Qual a medida ideal de len&amp;#x00E7;ol para o seu colch&amp;#x00E3;o?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1,60m X 2,50m</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0,88m X 1,88m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1,40m X 1,95m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1,58m X 1,98m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). V&amp;#x00ED;tor tem 10 anos. Qual deve ser o seu peso corporal, levando em considera&amp;#x00E7;&amp;#x00E3;o a figura abaixo?
+
+&amp;#x003C;img src=&quot;../../../img/b1af421c746877bc7825edf7ace8c03aa8b071ea.svg&quot; width=&quot;90px&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>100 kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>40 kg</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10 kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>5 kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Observe estes alimentos. Qual deles tem aproximadamente 1 quilograma?
+&amp;#x003C;br&amp;#x003E;
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/bb7df76bb5703d3cbe285a3054724dc3d215908c.svg&quot; alt=&quot;&quot; width=&quot;69&quot; height=&quot;48&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/bb7df76bb5703d3cbe285a3054724dc3d215908c.svg&quot; alt=&quot;&quot; width=&quot;69&quot; height=&quot;48&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/c019aea2bb5850b75721e320995d979af0a19a24.svg&quot; alt=&quot;&quot; width=&quot;90&quot; height=&quot;62&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/c31d865a8615ff0a2e010fb9a8aa758817607f5a.svg&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;56&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Raiane mediu o comprimento de um l&amp;#x00E1;pis com uma borracha. Observe:
+
+&amp;#x003C;img src=&quot;../../../img/b0e46f274803ed267a6e533b3876e6fb8aa41fab.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Quantas borrachas, em m&amp;#x00E9;dia, mede o l&amp;#x00E1;pis de Raiane?
+&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Entre 2 e 3</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Entre 4 e 5</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Entre 6 e 8</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mais de 8</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Leia esta not&amp;#x00ED;cia:
+
+&amp;#x003C;img src=&quot;../../../img/5960491012ff0566a20e84bda1f4f2a4a0fbf07c.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+&amp;#x003C;img src=&quot;../../../img/6e12f634f441c15946fadb67924309f4924186ba.svg class=&quot;t20&quot;&amp;#x003E;
+
+Quantos metros de extens&amp;#x00E3;o tem a montanha russa?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1000m</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>100m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>43m</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SEPR). Jo&amp;#x00E3;o Pedro montou uma barraca de sucos na festa da escola, vendeu 50 copos de 200ml. Sabendo-se que ele havia feito 12 litros de suco. Quantos litros sobraram?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1 litro</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2 litros</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>5 litros</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10 litros</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SARESP 2005) Paula foi ao mercado comprar 1 litro de desinfetante. Ela encontrou os dois tipos de embalagem abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/526ab802f12e9f8b1ec4bcadb3d01d2d423b1d3c.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Se Paula escolhesse o desinfetante Limpa Tudo ela teria que comprar
+&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>uma embalagem.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>duas embalagens.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>quatro embalagens.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>cinco embalagens.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROVA BRASIL) Observe as figuras Gabriela &amp;#x00E9; mais alta que J&amp;#x00FA;nior.
+
+&amp;#x003C;img src=&quot;../../../img/5e5d3a2b437a245cf9a9822e934ab65a209bd984.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Ela tem 142 cent&amp;#x00ED;metros. Quantos cent&amp;#x00ED;metros aproximadamente J&amp;#x00FA;nior deve ter?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>50 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>81 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>136 cm</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>144 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROVA BRASIL) Jo&amp;#x00E3;o quer medir uma t&amp;#x00E1;bua e, para isso, est&amp;#x00E1; usando seu palmo, que mede 21 cm.
+
+&amp;#x003C;img src=&quot;../../../img/f1406d2eaf930031f658f3497ba1fcaa7e355289.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Assim sendo, essa t&amp;#x00E1;bua deve conter
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>mais de 4 palmos e menos de 5 palmos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>exatamente 5 palmos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>mais de 5 palmos e menos de 6 palmos.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>exatamente 6 palmos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
