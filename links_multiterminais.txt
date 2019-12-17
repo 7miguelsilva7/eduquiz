@@ -1,0 +1,29 @@
+
+Repositório:
+
+http://repo.c3sl.ufpr.br/pool/main/l/
+
+
+
+Configuração do Ubuntu 16.04 LTS para computadores multiterminais do ProInfo
+
+
+https://gitlab.c3sl.ufpr.br/dbf15/le-multiterminal
+
+
+LE 6:
+
+https://gitlab.c3sl.ufpr.br/le6/le-multiterminal
+
+
+Multiterminal no LE 6 estável!:
+
+http://200.236.31.202/t/multiterminal-no-le-6-estavel/259/101
+
+
+sudo su
+<senha do usuário admin>
+wget http://repo.c3sl.ufpr.br/le6/tmp/le-multiterminal_1.0.2_amd64.deb
+dpkg -i le-multiterminal_1.0.2_amd64.deb
+entrar como admin no painel de controle e clicar no botão “Reconfigurar Multiterminal” ou executar o comando “rm /etc/le-multiterminal/configurado”
+Agora só reiniciar a máquina para ver se o erro foi corrigido.
