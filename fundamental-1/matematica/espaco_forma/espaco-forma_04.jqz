@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - MATEM&amp;#x00C1;TICA - ESPA&amp;#x00C7;O E FORMA 04</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - MATEM&amp;#x00C1;TICA - ESPA&amp;#x00C7;O E FORMA 04</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(Projeto conseguir &amp;#x2013; DC). No desenho abaixo aparece um barco feito a partir de v&amp;#x00E1;rias formas geom&amp;#x00E9;tricas.
+
+&amp;#x003C;img src=&quot;../../../img/8f01caa9b57290127af2a7da8c59a7287466bb72.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Quantos tri&amp;#x00E2;ngulos aparecem no desenho?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>5</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>6</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>7</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Tia Gisele levou para a turma v&amp;#x00E1;rios pol&amp;#x00ED;gonos recortados em cartolina. Suas formas aparecem nas figuras abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/f772820de1d512643e4601334273b47d45ab8ba0.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Dentre as op&amp;#x00E7;&amp;#x00F5;es abaixo, qual &amp;#x00E9; o nome do pol&amp;#x00ED;gono que a tia Gisele &amp;#x003C;b&amp;#x003E;n&amp;#x00E3;o&amp;#x003C;/b&amp;#x003E; levou para a turma?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>tri&amp;#x00E2;ngulo</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>quadrado</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>pent&amp;#x00E1;gono</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>hex&amp;#x00E1;gono</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Portal MEC). Mariana colou diferentes figuras numa p&amp;#x00E1;gina de seu caderno de Matem&amp;#x00E1;tica, como mostra o desenho abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/41963f4a2c75f27e5087548c4ea7d522575db045.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;
+
+Essas figuras t&amp;#x00EA;m em comum
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>o mesmo tamanho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>o mesmo n&amp;#x00FA;mero de lados.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a forma de quadrado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a forma de ret&amp;#x00E2;ngulo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saerj). Clarice comprou um tapete composto por quatro figuras geom&amp;#x00E9;tricas para sua casa, como representado abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/06c42932d2cddf998bb38676d510e8cd96edbb93.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Qual &amp;#x00E9; o nome dessas figuras?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Pent&amp;#x00E1;gono.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Tri&amp;#x00E2;ngulo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Trap&amp;#x00E9;zio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Losango.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Na aula de Matem&amp;#x00E1;tica, a professora pediu que Tiago desenhasse, numa folha de papel quadriculado, &amp;#x003C;b&amp;#x003E;&amp;#x201C;uma figura geom&amp;#x00E9;trica de 5 lados com somente 2 lados paralelos&amp;#x201D;&amp;#x003C;/b&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/d8ad6cf13bc69080f0b271050dfc211e73da94fd.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;112&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/d005877ec6d19fcf3ad7029972d1bf5cf08bfc27.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;112&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/6e940a1b4cde926b720bfb9e893a5b72f4e3ea18.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;111&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/6dae989773035f559eb5a7e85794b98b9eeb9aad.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;111&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Veja as figuras abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/e4d278d75b2bc1ca80772e1ce20eb9ddfe1f0df1.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+O losango &amp;#x00E9; a figura
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>3</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Prova Brasil). Chegando a uma cidade, Fabiano visitou a igreja local. De l&amp;#x00E1;, ele se dirigiu &amp;#x00E0; pracinha, visitando em seguida o museu e o teatro, retornando finalmente para a igreja. Ao fazer o mapa do seu percurso, Fabiano descobriu que formava um quadril&amp;#x00E1;tero com dois lados paralelos e quatro &amp;#x00E2;ngulos diferentes.
+
+&amp;#x003C;img src=&quot;../../../img/b8a032c95301e27e7eb58fb1f7572a815354bfe6.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+O quadril&amp;#x00E1;tero que representa o percurso de Fabiano &amp;#x00E9; um:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>quadrado</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>losango</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>trap&amp;#x00E9;zio</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ret&amp;#x00E2;ngulo</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SPAECE). Sheila usou linhas retas fechadas para fazer este desenho.
+
+&amp;#x003C;img src=&quot;../../../img/3bfbe4f462c9cfb3fb1a92a9daff9039abb787f4.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Quantas figuras de quatro lados foram desenhadas?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>2</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>3</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>6</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Nas figuras a seguir est&amp;#x00E3;o representados quatro pol&amp;#x00ED;gonos diferentes.
+
+&amp;#x003C;img src=&quot;../../../img/edabc3c4e500dbeb645a0cb9876a722c4547479d.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+Qual dos pol&amp;#x00ED;gonos anteriores possui dois lados paralelos e dois lados n&amp;#x00E3;o paralelos?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Ret&amp;#x00E2;ngulo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Tri&amp;#x00E2;ngulo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Trap&amp;#x00E9;zio.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Hex&amp;#x00E1;gono.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Prova Brasil). A face superior das pe&amp;#x00E7;as de um jogo de domin&amp;#x00F3; tem formato de um quadril&amp;#x00E1;tero.
+
+Observe um exemplo:
+
+&amp;#x003C;img src=&quot;../../../img/badab81131d97ef6517fa90883852fecd9d87c1c.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Qual o quadril&amp;#x00E1;tero que melhor caracteriza a face superior da pe&amp;#x00E7;a de um jogo de domin&amp;#x00F3;?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Trap&amp;#x00E9;zio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Quadrado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ret&amp;#x00E2;ngulo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Losango.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
