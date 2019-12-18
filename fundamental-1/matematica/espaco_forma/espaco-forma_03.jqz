@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - MATEM&amp;#x00C1;TICA - ESPA&amp;#x00C7;O E FORMA 03</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - MATEM&amp;#x00C1;TICA - ESPA&amp;#x00C7;O E FORMA 03</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(Saresp). O dado (cubo) pode ser representado pela figura:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/937fdd7fc3359834f129850f3702e6f6f8a09596.svg&quot; alt=&quot;&quot; width=&quot;80&quot; height=&quot;79&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/0c6c3c2d8e2bd47929260e875728f696c4beb265.svg&quot; alt=&quot;&quot; width=&quot;80&quot; height=&quot;79&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/05bf2a495a59c4faacedb317a21b868b84fe9431.svg&quot; alt=&quot;&quot; width=&quot;80&quot; height=&quot;113&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/6149a5609d5155dd2f9bf81083a46f70d931c513.svg&quot; alt=&quot;&quot; width=&quot;80&quot; height=&quot;115&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2009). Renato cortou os peda&amp;#x00E7;os de madeira desenhados abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/e76fa84b0e4d0cf0884cf4ba086af6557e6bb5e8.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Qual das caixas abaixo ele pode construir com esses peda&amp;#x00E7;os de madeira?
+
+&amp;#x003C;img src=&quot;../../../img/b10df5c3e79113d2e2a6e37d4a6e7263b4d99db9.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/df041dbec165db1a20989c18f922407da0128563.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Caixa 1</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Caixa 2</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Caixa 3</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Caixa 4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(GAVE). A figura seguinte representa um s&amp;#x00F3;lido.
+
+&amp;#x003C;img src=&quot;../../../img/7e46fa6f3ee196af471081db862bbbd7b0edd528.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Em qual das op&amp;#x00E7;&amp;#x00F5;es podem estar representadas todas as faces do s&amp;#x00F3;lido?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/cab911f43532dcebfe66ed7a301714bbf1c87137.svg&quot; alt=&quot;&quot; width=&quot;201&quot; height=&quot;95&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/a8b521763921bb49343a2a141556e22a7d310295.svg&quot; alt=&quot;&quot; width=&quot;199&quot; height=&quot;94&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/78d2856af1c59b6d77fecb6bff9a768c5fef99ea.svg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;99&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/b3c44814c27c7844552a5d07fa5d05c0bb36f6fd.svg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;97&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Portal MEC). Observe o bumbo que Beto gosta de tocar. Ele tem a forma de um cilindro.
+
+&amp;#x003C;img src=&quot;../../../img/32878254e78dbea8a3b32861652be165d53ed587.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;133&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;
+
+Qual &amp;#x00E9; o molde do cilindro?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/961b2d531b101dddef6a6d4746540e43c454c8c1.svg&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/869234ea73da28b50ea1c9021bf745f89db0cdeb.svg&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;98&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/f9c0c4988981d861d4c9274a3fa960c10a8c43c3.svg&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;104&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/e59ecc41ce74bd1853d98b1f64b4fbeeda8a2b94.svg&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;94&quot; role=&quot;presentation&quot; class=&quot;img-responsive atto_image_button_text-bottom&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Veja as figuras abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/dcf07c31b7972a944ab2b840e1c8a097f70982dd.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; style=&quot;font-size: 1rem;&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Quais dessas figuras s&amp;#x00E3;o quadril&amp;#x00E1;teros?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1 e 4.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2 e 3.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1 e 5.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4 e 5.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Alex colou quatro figuras diferentes numa p&amp;#x00E1;gina de seu caderno de Matem&amp;#x00E1;tica, como mostra o desenho abaixo:
+
+&amp;#x003C;img src=&quot;../../../img/c61c29c3afdc0b2b9eac41b6a010e3d9d863459a.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+S&amp;#x00E3;o tri&amp;#x00E2;ngulos as figuras:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>I e II</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>I e IV</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>II e IV</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>II e III</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERJ). Utilizando canudos de refrigerante de mesmo comprimento e fio, Marcela construiu uma figura. Veja abaixo o desenho do que ela fez.
+
+&amp;#x003C;img src=&quot;../../../img/65580e91ece49a7cce59398bfbbe1a68fb6058d6.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;94&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+A figura que Marcela construiu parece com um
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>pent&amp;#x00E1;gono.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>quadrado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>trap&amp;#x00E9;zio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>tri&amp;#x00E2;ngulo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Uma casa acaba de ser constru&amp;#x00ED;da e o vidraceiro foi chamado para colocar vidros em 4 janelas de modelo igual ao desenho abaixo. Os vidros ter&amp;#x00E3;o cores diferentes, como mostra a figura.
+
+&amp;#x003C;img src=&quot;../../../img/b53f935c55163137f71722f1cd210363c437da64.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+O n&amp;#x00FA;mero de vidros de cada cor que o vidraceiro dever&amp;#x00E1; recortar para colocar nas 4 janelas &amp;#x00E9;...
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>4 azuis, 4 amarelos, 96 transparentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>8 azuis, 8 amarelos, 96 transparentes.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4 azuis, 8 amarelos, 96 transparentes.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>8 azuis, 4 amarelos, 106 transparentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(1&amp;#x00AA; PD &amp;#x2013; 2012). Para compor o desenho a seguir foram utilizadas figuras geom&amp;#x00E9;tricas.
+
+&amp;#x003C;img src=&quot;../../../img/cfdd18b674b9c16f7bb54947dad0b24d1fb2f048.svg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;148&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+Quantas figuras de tr&amp;#x00EA;s lados existem no desenho?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>2</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>3</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>7</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto conseguir &amp;#x2013; DC). Quais dos s&amp;#x00F3;lidos geom&amp;#x00E9;tricos citados abaixo s&amp;#x00E3;o classificados como corpos redondos?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Cilindro, cubo e esfera.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Pir&amp;#x00E2;mide, cilindro e cone.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Cone, cilindro e esfera.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Prisma, cubo e pir&amp;#x00E2;mide.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
