@@ -27,3 +27,16 @@ wget http://repo.c3sl.ufpr.br/le6/tmp/le-multiterminal_1.0.2_amd64.deb
 dpkg -i le-multiterminal_1.0.2_amd64.deb
 entrar como admin no painel de controle e clicar no botão “Reconfigurar Multiterminal” ou executar o comando “rm /etc/le-multiterminal/configurado”
 Agora só reiniciar a máquina para ver se o erro foi corrigido.
+
+
+https://discourse.c3sl.ufpr.br/t/multiterminal-sem-hubs/661/13
+https://discourse.c3sl.ufpr.br/t/oi-lab-novo-projeto-para-facilitar-a-configuracao-do-multiterminal-no-ubuntu-16-04-3-e-posteriores/241/20
+
+XUBUNTU 18.04.01 Multiterminal:
+
+https://drive.google.com/file/d/1I4vlRWa3kLD4s8-uRnDYst0yRcfUo8B_/view
+https://drive.google.com/file/d/1Zj5Bt3LmlF5QrT3UJTwCE4VjUoHPpeLj/view
+https://drive.google.com/file/d/13XpN5qa0ZZsLjdMbDdlq882y597jHjLV/view
+
+LUBUNTU 18.04 Multiterminal:
+https://drive.google.com/file/d/1itTB42XjvSIW0CQTgHh1eFI5n9mG0kW-/view
