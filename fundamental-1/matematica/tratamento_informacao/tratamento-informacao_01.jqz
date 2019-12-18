@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - MATEM&amp;#x00C1;TICA - TRATAMENTO DA INFORMA&amp;#x00C7;&amp;#x00C3;O 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - MATEM&amp;#x00C1;TICA - TRATAMENTO DA INFORMA&amp;#x00C7;&amp;#x00C3;O 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Uma pesquisa com estudantes de duas turmas do 5&amp;#x00B0; ano sobre os programas de televis&amp;#x00E3;o preferidos registrou o resultado na tabela abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/ee11e0ddd790a92820759d9235c6310828804bdf.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t40&quot;&amp;#x003E;
+
+De acordo com essa tabela, qual foi o programa de televis&amp;#x00E3;o preferido da Turma A?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Desenhos animados.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Desenhos animados.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Novelas.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Notici&amp;#x00E1;rio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Pedro vai participar de um campeonato na categoria profissional. O valor das inscri&amp;#x00E7;&amp;#x00F5;es est&amp;#x00E1; apresentado na tabela abaixo:
+
+&amp;#x003C;img src=&quot;../../../img/b357af8ddfdc101c6cb929585c1f580ffba440e5.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Sabendo que Pedro se inscreveu no dia 28/10, qual o valor que ele pagou?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>R$ 30,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 35,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 60,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 70,00</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>A turma de Joana resolveu fazer uma pesquisa sobre o tipo de filme que as crian&amp;#x00E7;as mais gostavam. Cada crian&amp;#x00E7;a podia votar em um s&amp;#x00F3; tipo de filme.
+
+A tabela seguinte mostra o resultado da pesquisa com as meninas e com os meninos.
+
+&amp;#x003C;img src=&quot;../../../img/c18d480e911b3e985d0e5e710e39a7b290b85817.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Qual o tipo de filme preferido pelos meninos?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Aventura.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Com&amp;#x00E9;dia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Desenho animado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Terror.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Veja, abaixo, os pre&amp;#x00E7;os de alguns brinquedos da loja Seta.
+
+&amp;#x003C;img src=&quot;../../../img/79710026117f9a4b4cde5363653d9111223c62b6.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Dentre esses brinquedos, qual &amp;#x00E9; o mais caro?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A bola.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A peteca.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O carrinho.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>O jogo.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>A tabela mostra o total de visitantes na cidade de Londrina durante as esta&amp;#x00E7;&amp;#x00F5;es do ano.
+
+&amp;#x003C;img src=&quot;../../../img/0d7547038908b3ebec5482e96cbc09595476e3f6.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Qual foi a esta&amp;#x00E7;&amp;#x00E3;o do ano com o maior n&amp;#x00FA;mero de visitantes?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Inverno.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Outono.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Primavera.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ver&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SAERJ). A tabela abaixo mostra o hor&amp;#x00E1;rio semanal da Escola &amp;#x201C;CONSTRUIR&amp;#x201D;.
+
+&amp;#x003C;img src=&quot;../../../img/f21c46b8d4e555969d64a8a1bd494eb840817ea5.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Na quinta-feira, no 3&amp;#x00BA; hor&amp;#x00E1;rio, os estudantes dessa escola t&amp;#x00EA;m aula de
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Portugu&amp;#x00EA;s.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Estudos Sociais.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ci&amp;#x00EA;ncias.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Matem&amp;#x00E1;tica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Um estudante pretende se inscrever para participar de um campeonato. O valor das inscri&amp;#x00E7;&amp;#x00F5;es est&amp;#x00E1; apresentado na tabela abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/ef7a2dece73d1106121f18439becae25bb32af3a.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+Sabendo que o estudante vai se inscrever na abertura do campeonato, qual o valor que ele vai pagar?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>R$ 30,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 35,00</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 60,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>R$ 70,00</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>A tabela abaixo mostra a data de nascimento de quatro alunos.
+
+&amp;#x003C;img src=&quot;../../../img/f73d0ea0c2adf7323f491c37bb5fc41acb206a79.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+De acordo com os dados apresentados, o mais jovem &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>M&amp;#x00E1;rcia.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Alex.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Aline.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Samuel.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>A tabela mostra os resultados de v&amp;#x00E1;rios censos feitos no Brasil. De acordo com ela, em que ano a popula&amp;#x00E7;&amp;#x00E3;o brasileira ultrapassou os 150 milh&amp;#x00F5;es de habitantes?
+
+&amp;#x003C;img src=&quot;../../../img/029bf8789c45e604fb0d46bb4f83fafa11e8f0ca.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t10&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1890</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1940</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1980</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2000</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe a tabela que mostra alguns dados, aproximados, sobre a Ponte Rio-Niter&amp;#x00F3;i, ponte que une a cidade do Rio de Janeiro &amp;#x00E0; de Niter&amp;#x00F3;i e &amp;#x00E9; uma das maiores pontes do mundo.
+
+&amp;#x003C;img src=&quot;../../../img/afa385ed3a5449e9ed878dd4201273ce7c45dc07.svg&quot; alt=&quot;&quot; role=&quot;presentation&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Marque a afirmativa correta:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>A extens&amp;#x00E3;o total da ponte &amp;#x00E9; a soma da extens&amp;#x00E3;o sobre a terra com aextens&amp;#x00E3;o sobre o mar.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A extens&amp;#x00E3;o da estrutura met&amp;#x00E1;lica da Ponte Rio-Niter&amp;#x00F3;i ultrapassamil metros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A Ponte Rio-Niter&amp;#x00F3;i tem extens&amp;#x00E3;o menor sobre o mar do que sobre aterra.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>A largura total da ponte &amp;#x00E9; maior que sua extens&amp;#x00E3;o total.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
