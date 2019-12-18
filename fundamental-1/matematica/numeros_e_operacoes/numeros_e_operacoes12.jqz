@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. I - MATEM&amp;#x00C1;TICA - N&amp;#x00DA;MEROS E OPERA&amp;#x00C7;&amp;#x00D5;ES / ALGEBRA E FUN&amp;#x00C7;&amp;#x00D5;ES 12</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. I - MATEM&amp;#x00C1;TICA - N&amp;#x00DA;MEROS E OPERA&amp;#x00C7;&amp;#x00D5;ES / ALGEBRA E FUN&amp;#x00C7;&amp;#x00D5;ES 12</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Nas provas finais do 2&amp;#x00BA; bimestre da Escola Municipal um aluno obteve o seguinte resultado:
+
+
+Matem&amp;#x00E1;tica: 8 quest&amp;#x00F5;es corretas em 10.
+
+
+A fra&amp;#x00E7;&amp;#x00E3;o que corresponde &amp;#x00E0;s quest&amp;#x00F5;es corretas na prova de matem&amp;#x00E1;tica &amp;#x00E9;:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/42a5c3fc7368afc837560053dfecc1c76e6126a0.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/2795868c885dec383c3d1924423a7542ce9f3ef2.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/a0f70b1e122cbcf5e910d7cd5f16f031f1130ea2.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/8030e8231f6119439ee00b36b0afe2bfaf718f33.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>As partes sombreadas na figura abaixo representam que fra&amp;#x00E7;&amp;#x00E3;o do todo?
+
+&amp;#x003C;img src=&quot;../../../img/8178e46c1bda55e99ae20d529c2880af9ef4e7af.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/1372bb3b632239b29f70f682c1d88350c406815d.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>5fe7a765d8eff482f8a7b0524cf77523ff693f36.svg
+&amp;#x003C;img src=&quot;../../../img/&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/337cd7910c71c9a7938c430a19278a37141a09f3.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/05b65479941f33d0d427b3f5e09c26018b8a8cf6.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Em uma classe, h&amp;#x00E1; 16 meninas e 20 meninos. Que fra&amp;#x00E7;&amp;#x00E3;o do total de alunos dessa classe as meninas representam?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/44124258d6cd7b7df0689a1f9d2e3973cd9487f7.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/bc335143e3a287d8ca590fe99438918ceff05ea8.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/f0df726c3f49152197b9e4aee28bc85dbadbaf95.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/ffe7ee5a938717eb9641f7f90e15e2eff04aad70.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe esta figura: A parte pintada representa que fra&amp;#x00E7;&amp;#x00E3;o da figura toda?
+
+&amp;#x003C;img src=&quot;../../../img/1df335c0ee2da2d3708a995527310a15f10513ce.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/c613365e2f2a8ee64a388137aec97ddf7ff043d1.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/3355fab298d15699f1c0a7aaf05e0d0a0f99806d.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/cd33d43c8616442e500c4f8c8a9a8b59c935b8c5.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/df829cf73c241ccdb1522555205855f30ce93658.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PB &amp;#x2013; 2011). Jo&amp;#x00E3;ozinho gosta construir pipas.
+
+&amp;#x003C;img src=&quot;../../../img/cc03a209ffb9ca9a92ffbc545c972c3d88658fb8.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Para a pipa acima, ele pintou uma parte de cinza. A parte pintada &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/62c82313c24c8205646df641e3f59d6dca6ce267.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/8a346d907bc34525ed07aa9ddd3ef7b54819b8e3.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/344f621f759ad3ac124f3fee39d2aac452345930.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/2aed01d32707fa9b71fb25d06d2622216ef928d8.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Projeto consequir &amp;#x2013; DC). Qual a alternativa que representa &amp;#x003C;b&amp;#x003E;4/10&amp;#x003C;/b&amp;#x003E; em n&amp;#x00FA;meros decimais?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>0,04</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0,4</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0,004</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Portal MEC). Um dia tem 24 horas, 1 hora tem 60 minutos e 1 minuto tem 60 segundos. Que fra&amp;#x00E7;&amp;#x00E3;o da hora corresponde a 35 minutos?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/6d3a1a809dc7979b570cf098ca0d9dbc681be317.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/da09d47591427fdbad0cc4de318e207c7d935e6e.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/7b45af117b1216fe1fe2540f88e7a80299f5f534.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/f829cee134d0150e77cca56e36ac4f4fc7163f70.svg&quot; width=&quot;30px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Diariamente Juliana percorre todo o trajeto da ciclovia de um parque.
+
+&amp;#x003C;img src=&quot;../../../img/e0b8924df93fe518cef417b77214f63ebc63ee63.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Hoje ela percorreu uma parte do trajeto e parou para beber &amp;#x00E1;gua antes de continuar, conforme o esquema acima.
+
+Quantos quil&amp;#x00F4;metros juliana ainda precisa percorrer para terminar o trajeto?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>7,2km</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4,5km</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2,7km</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1,8km</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Henrique mora em An&amp;#x00E1;polis e Renato mora em Piren&amp;#x00F3;polis. Veja, no quadro abaixo, a medida da &amp;#x00E1;rea desses munic&amp;#x00ED;pios, em km&amp;#x00B2;.
+
+&amp;#x003C;img src=&quot;../../../img/867f038378900e82e0a8565d64e618abfc579e4b.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Qual &amp;#x00E9; a diferen&amp;#x00E7;a entre as &amp;#x00E1;reas das cidades de An&amp;#x00E1;polis e Piren&amp;#x00F3;polis?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>12875,58</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>12875,58</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>13875,58</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>13875,58</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Jo&amp;#x00E3;o participou de um campeonato de jud&amp;#x00F4; na categoria juvenil, pesando 45,350kg. Cinco meses depois estava 3,150kg mais pesado e precisou mudar de categoria. Quanto ele estava pesando nesse per&amp;#x00ED;odo?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>14,250kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>40,850kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>48,500kg</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>76,450kg</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
