@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. II - PORTUGU&amp;#x00CA;S - LOCALIZAR INFORMA&amp;#x00C7;&amp;#x00D5;ES 02</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. II - PORTUGU&amp;#x00CA;S - LOCALIZAR INFORMA&amp;#x00C7;&amp;#x00D5;ES 02</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Leia o texto para responder a quest&amp;#x00E3;o abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Rua do Sol&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+[...]
+
+Mais um grande acontecimento sacudia a cidade. E toda a Rua do Sol participava da mesma estranha agita&amp;#x00E7;&amp;#x00E3;o. Os pais confabulavam. Os vizinhos confraternizavam. Havia que olhar as crian&amp;#x00E7;as, vigi&amp;#x00E1;-las, evitar que ficassem na rua. A morte poderia surgir inesperadamente, arrastando-as. O primeiro autom&amp;#x00F3;vel circulava. Era uma coisa inesperada, que andava por si, como se fosse um trem, mas sem locomotiva. Nada lembrava dos bondinhos a burro que rolavam barulhentos pelas ruas.[...]
+
+LESSA, Or&amp;#x00ED;genes. Seleta.2 ed.Rio de Janeiro, Jos&amp;#x00E9; Olympio, 1976.
+
+O acontecimento que deixou os moradores da Rua do Sol agitados foi
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a circula&amp;#x00E7;&amp;#x00E3;o do primeiro autom&amp;#x00F3;vel nas ruas da cidade.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a confraterniza&amp;#x00E7;&amp;#x00E3;o dos pais e das crian&amp;#x00E7;as nas ruas barulhentas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a atitude das crian&amp;#x00E7;as frente aos trens barulhentos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a lembran&amp;#x00E7;a do barulho dos carros nos trilhos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto para responder a quest&amp;#x00E3;o abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Pandas ainda correm perigo na China&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Inverno agrava escassez de bambu provocada pelo terremoto de maio do ano passado
+
+
+O terremoto que matou 70 mil pessoas em maio do ano passado na prov&amp;#x00ED;ncia de Sichuan, no sudoeste da China, comoveu o mundo tamb&amp;#x00E9;m por causa da situa&amp;#x00E7;&amp;#x00E3;o dos pandas. Sichuan &amp;#x00E9; a regi&amp;#x00E3;o onde vive a maior parte desses ursos, em reservas e centros de pesquisa. [...]
+
+Quase um ano depois, a escassez de bambu &amp;#x00E9; considerada a maior amea&amp;#x00E7;a &amp;#x00E0; sobreviv&amp;#x00EA;ncia dos pandas. No inverno, os pandas continuam a se alimentar dessa planta. &quot;O impacto destrutivo do terremoto ser&amp;#x00E1; maior que o de 1983&quot;, disse Zhang Hemin, diretor do Centro de Pesquisa e Conserva&amp;#x00E7;&amp;#x00E3;o de Pandas Gigantes de Wolong. Zhang se refere a uma mortandade de 40% da popula&amp;#x00E7;&amp;#x00E3;o de pandas, naquele ano, devido a uma praga que devastou as florestas de bambu.
+
+ANDR&amp;#x00C9; FONTENELLE
+
+http://revistaepoca.globo.com/Revista/Epoca/ - 14/01/2009
+
+
+
+A mortandade de 40% da popula&amp;#x00E7;&amp;#x00E3;o de pandas em 1983 ocorreu por causa
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>do terremoto na prov&amp;#x00ED;ncia de Sichuan, que matou 70 mil pessoas.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>do grande impacto destrutivo do terremoto ocorrido naquela &amp;#x00E9;poca.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>da praga que na &amp;#x00E9;poca devastou as florestas de bambu.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>da alimenta&amp;#x00E7;&amp;#x00E3;o dos pandas no inverno continuar a ser bambu.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto para responder a quest&amp;#x00E3;o abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Entre ovelhas e esportes radicais&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Antonella Kann
+
+
+Pegue a hospitalidade canadense, a praticidade americana e a buc&amp;#x00F3;lica paisagem brit&amp;#x00E2;nica. Acrescente direitos humanos, qualidade de vida, liberdade de imprensa e pontualidade su&amp;#x00ED;&amp;#x00E7;a.E, para ficar melhor ainda, nesta receita n&amp;#x00E3;o entra corrup&amp;#x00E7;&amp;#x00E3;o. Pronto: voc&amp;#x00EA; tem um blend para definir a Nova Zel&amp;#x00E2;ndia, um pequeno pa&amp;#x00ED;s-ilha no sudoeste do Oceano Pac&amp;#x00ED;fico, a 2000 km da Austr&amp;#x00E1;lia. A maioria dos 4 milh&amp;#x00F5;es de kiwis(como o povo local &amp;#x00E9; carinhosamente chamado), descendentes de europeus, vive num ambiente em que tudo funciona, da m&amp;#x00E1;quina administrativa &amp;#x00E0; infraestrutura tur&amp;#x00ED;stica. E no quesito natureza, os cen&amp;#x00E1;rios tiram o f&amp;#x00F4;lego.
+
+[...] 
+
+O Globo, 16/01/2010.
+
+Vocabul&amp;#x00E1;rio
+
+&amp;#x201C;[...] voc&amp;#x00EA; tem um blend para definir a Nova Zel&amp;#x00E2;ndia[...]&amp;#x201D; = [...]voc&amp;#x00EA; tem uma mistura para definir a Nova Zel&amp;#x00E2;ndia.
+
+
+
+De acordo com o texto, &amp;#x00E9; caracter&amp;#x00ED;stica da Nova Zel&amp;#x00E2;ndia
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>possuir a maioria dos habitantes descendentes de asi&amp;#x00E1;ticos.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>ter bel&amp;#x00ED;ssimas paisagens naturais.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>situar-se a menos de mil quil&amp;#x00F4;metros da Austr&amp;#x00E1;lia.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>apresentar muitos problemas de infraestrutura tur&amp;#x00ED;stica.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto para responder a quest&amp;#x00E3;o abaixo:
+
+&amp;#x003C;center&amp;#x003E;&amp;#x003C;b&amp;#x003E;Aquarela Brasileira&amp;#x003C;/b&amp;#x003E;&amp;#x003C;/center&amp;#x003E;
+
+Silas De Oliveira
+
+&amp;#x003C;div dir=&quot;ltr&quot; gutter=&quot;0&quot; style=&quot;column-count: 2&quot;&amp;#x003E;
+Vejam esta maravilha de cen&amp;#x00E1;rio&amp;#x003C;p&amp;#x003E;&amp;#x00C9; um epis&amp;#x00F3;dio relic&amp;#x00E1;rio&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Que o artista num sonho genial&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Escolheu para este carnaval&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;E o asfalto como passarela&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Ser&amp;#x00E1; a tela do Brasil em forma de aquarela&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Passeando pelas cercanias do Amazonas&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Conheci vastos seringais&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;No Par&amp;#x00E1; a ilha de Maraj&amp;#x00F3;&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;E a velha cabana do Timb&amp;#x00F3;.&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Caminhando ainda um pouco mais&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Deparei com lindos coqueirais&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Estava no Cear&amp;#x00E1;, terra de Irapu&amp;#x00E3;&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;De Iracema e Tup&amp;#x00E3;.&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Fiquei radiante de alegria&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Quando cheguei &amp;#x00E0; Bahia&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Bahia de Castro Alves, do acaraj&amp;#x00E9;&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Das noites de magia do cadombl&amp;#x00E9;&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Depois de atravessar as matas do Ipu&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Assisti em Pernambuco&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;A festa do frevo e do maracatu.&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Bras&amp;#x00ED;lia tem o seu destaque&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Na arte, na beleza e arquitetura&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Feiti&amp;#x00E7;o de garoa pela serra&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;S&amp;#x00E3;o Paulo engrandece a nossa terra&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Do leste por todo centro-oeste&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Tudo &amp;#x00E9; belo e tem lindo matiz&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;O Rio do samba e das batucadas&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Dos malandros e mulatas&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;De requebros febris&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Brasil,&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Essas nossas verdes matas&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Cachoeiras e cascatas&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;De colorido sutil&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;E este lindo c&amp;#x00E9;u azul de anil&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;Emolduram em aquarela o meu Brasil.&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;L&amp;#x00E1;...l&amp;#x00E1;...l&amp;#x00E1;...&amp;#x003C;/p&amp;#x003E;&amp;#x003C;p&amp;#x003E;L&amp;#x00E1;...l&amp;#x00E1;...l&amp;#x00E1;...l&amp;#x00E1;...l&amp;#x00E1;...&amp;#x003C;/p&amp;#x003E;
+&amp;#x003C;/div&amp;#x003E;
+
+(http://letras.terra.com.br/imperio-serrano-rj)
+
+
+O t&amp;#x00ED;tulo do samba-enredo, &amp;#x201C;Aquarela Brasileira&amp;#x201D;, expressa, em rela&amp;#x00E7;&amp;#x00E3;o ao Brasil
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>a extens&amp;#x00E3;o territorial.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a riqueza natural e cultural.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a criatividade do artista.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a alegria do povo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Leia o texto para responder a quest&amp;#x00E3;o a seguir:
+
+&amp;#x003C;img src=&quot;../../../img/b4bc1598567b0f1a47f7c1c1a03e2dd114044a72.svg&quot; alt=&quot;&quot;  role=&quot;presentation&quot; class=&quot;t30&quot;&amp;#x003E;
+
+http://www.blogger.com/feeds/1820070946129031883/posts/default
+
+O garoto da tirinha &amp;#x00E9; o Calvin. Pelo texto podemos perceber que Calvin
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x00E9; um menino muito organizado e calmo.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>guarda sua jaqueta dentro do arm&amp;#x00E1;rio.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>procura tranquilamente por sua jaqueta.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>acha estranho guardar as roupas no arm&amp;#x00E1;rio.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
