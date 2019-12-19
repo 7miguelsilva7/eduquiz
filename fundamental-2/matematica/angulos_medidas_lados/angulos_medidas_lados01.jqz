@@ -6,12 +6,12 @@
     <dc:creator>Miguel Silva</dc:creator>
     <dc:creator>Eduquiz</dc:creator>
     <dc:creator>Alexandre</dc:creator>
-    <dc:title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS</dc:title>
+    <dc:title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS 01</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS</title>
+<title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS 01</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -24,13 +24,13 @@
 
 <questions><question-record><question>(Prova brasil). Janine desenhou dois tri&amp;#x00E2;ngulos, sendo que o tri&amp;#x00E2;ngulo DEF &amp;#x00E9; uma redu&amp;#x00E7;&amp;#x00E3;o do tri&amp;#x00E2;ngulo ABC.
 
-&amp;#x003C;img src=&quot;../../../img/3dd311ef2f8caf01dabad40657df39e147951ef1.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/3dd311ef2f8caf01dabad40657df39e147951ef1.svg&quot; class=&quot;t30&quot;&amp;#x003E;
 
 
 A medida x do lado DF &amp;#x00E9; igual a:
 &amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>4 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>6 cm.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>8 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>12 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe o tri&amp;#x00E2;ngulo abaixo.
 
-&amp;#x003C;img src=&quot;../../../img/bed9df6ac75ca16f8556ff2b65bc0ebb60a216b1.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/bed9df6ac75ca16f8556ff2b65bc0ebb60a216b1.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 
 
 O valor de x &amp;#x00E9;
@@ -42,16 +42,16 @@ O valor de x &amp;#x00E9;
 O per&amp;#x00ED;metro da figura II, em rela&amp;#x00E7;&amp;#x00E3;o ao da figura I, ficou:
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>reduzido &amp;#x00E0; metade;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>inalterado;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>duplicado;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>quadruplicado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SIMAVE). A figura, abaixo, representa uma pe&amp;#x00E7;a de madeira em que um dos lados mede 20 cm e cada um dos &amp;#x00E2;ngulos assinalados mede 50&amp;#x00B0;.
 
-&amp;#x003C;img src=&quot;../../../img/3c9bffa56c6b20114af4e0250b0ba5ff7b745639.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/3c9bffa56c6b20114af4e0250b0ba5ff7b745639.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 
 
 Nessa pe&amp;#x00E7;a, quanto mede o lado indicado pela letra x?
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>20 cm</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>30 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>50 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>70 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe esses dois tri&amp;#x00E2;ngulos. As medidas de seus lados est&amp;#x00E3;o registradas numericamente. Os &amp;#x00E2;ngulos com s&amp;#x00ED;mbolos iguais mostram que possuem medidas congruentes. Sendo assim, assinale a op&amp;#x00E7;&amp;#x00E3;o que cont&amp;#x00E9;m a afirmativa correta:
 
-&amp;#x003C;img src=&quot;../../../img/9b86534e0e2efa4989585ba103f7124e74d94168.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/9b86534e0e2efa4989585ba103f7124e74d94168.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque n&amp;#x00E3;o s&amp;#x00E3;o equil&amp;#x00E1;teros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque, apesar de seus ladoscorrespondentes serem proporcionais, seus &amp;#x00E2;ngulos correspondentest&amp;#x00EA;m medidas diferentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque somente seus &amp;#x00E2;nguloscorrespondentes s&amp;#x00E3;o congruentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos s&amp;#x00E3;o semelhantes, porque seus &amp;#x00E2;ngulos correspondentess&amp;#x00E3;o congruentes e seus lados correspondentes s&amp;#x00E3;o proporcionais.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Na figura a seguir, o segmento BC &amp;#x00E9; paralelo ao segmento B&amp;#x2019;C&amp;#x2019;.
 
-&amp;#x003C;img src=&quot;../../../img/dd6a29cb7f565473765ec1e4ca374cc7d933f541.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/dd6a29cb7f565473765ec1e4ca374cc7d933f541.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 
 
 A medida do lado &amp;#x003C;b&amp;#x003E;AB&amp;#x2019;&amp;#x003C;/b&amp;#x003E;. do tri&amp;#x00E2;ngulo menor &amp;#x00E9;
@@ -59,15 +59,15 @@ A medida do lado &amp;#x003C;b&amp;#x003E;AB&amp;#x2019;&amp;#x003C;/b&amp;#x003
 
 </question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>3 cm.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PB). O professor de Carla fez o seguinte tri&amp;#x00E2;ngulo no quadro negro.
 
-&amp;#x003C;img src=&quot;../../../img/fad59551401f737b7b4aed7c4c2797ba14b11918.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/fad59551401f737b7b4aed7c4c2797ba14b11918.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>c&amp;#x003E; b&amp;#x003E; a.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>b&amp;#x003E; a&amp;#x003E; c.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a&amp;#x003E; b&amp;#x003E; c.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>b&amp;#x003E; c&amp;#x003E; a.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2007). Patr&amp;#x00ED;cia fez dois xales semelhantes, uma para si e outra para a filha, como na figura abaixo.
 
-&amp;#x003C;img src=&quot;../../../img/efa6e81e43f127c223a85bda1f4874b12bfadcca.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/efa6e81e43f127c223a85bda1f4874b12bfadcca.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 
 Se o comprimento do xale da filha &amp;#x00E9; a metade do comprimento do xale da m&amp;#x00E3;e, a medida x vale, em cm,
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>20</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>25</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>35</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>40</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2005). O encosto da &amp;#x00FA;ltima poltrona de um &amp;#x00F4;nibus, quando totalmente reclinada, forma um &amp;#x00E2;ngulo de 30&amp;#x00BA; com a parede do &amp;#x00F4;nibus (veja a figura abaixo). O &amp;#x00E2;ngulo &amp;#x03B1; na figura abaixo mostra o maior valor que o encosto pode reclinar.
 
-&amp;#x003C;img src=&quot;../../../img/94c0a6a09c63a7c32ce6b34f0c7412897f4cf969.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;img src=&quot;../../../img/94c0a6a09c63a7c32ce6b34f0c7412897f4cf969.svg&quot; class=&quot;t40&quot;&amp;#x003E;
 
 O valor de &amp;#x03B1; &amp;#x00E9;:
 &amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>50&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>90&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>100&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saego 2011). Uma aluna desenhou o seguinte tri&amp;#x00E2;ngulo eq&amp;#x00FC;il&amp;#x00E1;tero no caderno, como indica a figura abaixo.
