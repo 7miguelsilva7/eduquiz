@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS, MEDIDAS E LADOS</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>(Prova brasil). Janine desenhou dois tri&amp;#x00E2;ngulos, sendo que o tri&amp;#x00E2;ngulo DEF &amp;#x00E9; uma redu&amp;#x00E7;&amp;#x00E3;o do tri&amp;#x00E2;ngulo ABC.
+
+&amp;#x003C;img src=&quot;../../../img/3dd311ef2f8caf01dabad40657df39e147951ef1.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+
+A medida x do lado DF &amp;#x00E9; igual a:
+&amp;#x003C;BR&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>4 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>6 cm.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>8 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>12 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe o tri&amp;#x00E2;ngulo abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/bed9df6ac75ca16f8556ff2b65bc0ebb60a216b1.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+
+O valor de x &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>110&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>80&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>60&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>50&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Na ilustra&amp;#x00E7;&amp;#x00E3;o abaixo, a figura II foi obtida a partir da figura I.
+
+&amp;#x003C;img src=&quot;../../../img/a8116e23699ecd8825716166dfe09af52a6f1be7.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+
+O per&amp;#x00ED;metro da figura II, em rela&amp;#x00E7;&amp;#x00E3;o ao da figura I, ficou:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>reduzido &amp;#x00E0; metade;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>inalterado;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>duplicado;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>quadruplicado.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(SIMAVE). A figura, abaixo, representa uma pe&amp;#x00E7;a de madeira em que um dos lados mede 20 cm e cada um dos &amp;#x00E2;ngulos assinalados mede 50&amp;#x00B0;.
+
+&amp;#x003C;img src=&quot;../../../img/3c9bffa56c6b20114af4e0250b0ba5ff7b745639.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+
+Nessa pe&amp;#x00E7;a, quanto mede o lado indicado pela letra x?
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>20 cm</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>30 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>50 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>70 cm</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Observe esses dois tri&amp;#x00E2;ngulos. As medidas de seus lados est&amp;#x00E3;o registradas numericamente. Os &amp;#x00E2;ngulos com s&amp;#x00ED;mbolos iguais mostram que possuem medidas congruentes. Sendo assim, assinale a op&amp;#x00E7;&amp;#x00E3;o que cont&amp;#x00E9;m a afirmativa correta:
+
+&amp;#x003C;img src=&quot;../../../img/9b86534e0e2efa4989585ba103f7124e74d94168.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque n&amp;#x00E3;o s&amp;#x00E3;o equil&amp;#x00E1;teros.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque, apesar de seus ladoscorrespondentes serem proporcionais, seus &amp;#x00E2;ngulos correspondentest&amp;#x00EA;m medidas diferentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos n&amp;#x00E3;o s&amp;#x00E3;o semelhantes, porque somente seus &amp;#x00E2;nguloscorrespondentes s&amp;#x00E3;o congruentes.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Os tri&amp;#x00E2;ngulos s&amp;#x00E3;o semelhantes, porque seus &amp;#x00E2;ngulos correspondentess&amp;#x00E3;o congruentes e seus lados correspondentes s&amp;#x00E3;o proporcionais.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Na figura a seguir, o segmento BC &amp;#x00E9; paralelo ao segmento B&amp;#x2019;C&amp;#x2019;.
+
+&amp;#x003C;img src=&quot;../../../img/dd6a29cb7f565473765ec1e4ca374cc7d933f541.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+
+A medida do lado &amp;#x003C;b&amp;#x003E;AB&amp;#x2019;&amp;#x003C;/b&amp;#x003E;. do tri&amp;#x00E2;ngulo menor &amp;#x00E9;
+&amp;#x003C;br&amp;#x003E;
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>2 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>3 cm.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>4 cm.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PB). O professor de Carla fez o seguinte tri&amp;#x00E2;ngulo no quadro negro.
+
+&amp;#x003C;img src=&quot;../../../img/fad59551401f737b7b4aed7c4c2797ba14b11918.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>c&amp;#x003E; b&amp;#x003E; a.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>b&amp;#x003E; a&amp;#x003E; c.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a&amp;#x003E; b&amp;#x003E; c.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>b&amp;#x003E; c&amp;#x003E; a.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2007). Patr&amp;#x00ED;cia fez dois xales semelhantes, uma para si e outra para a filha, como na figura abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/efa6e81e43f127c223a85bda1f4874b12bfadcca.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+Se o comprimento do xale da filha &amp;#x00E9; a metade do comprimento do xale da m&amp;#x00E3;e, a medida x vale, em cm,
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>20</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>25</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>35</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>40</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2005). O encosto da &amp;#x00FA;ltima poltrona de um &amp;#x00F4;nibus, quando totalmente reclinada, forma um &amp;#x00E2;ngulo de 30&amp;#x00BA; com a parede do &amp;#x00F4;nibus (veja a figura abaixo). O &amp;#x00E2;ngulo &amp;#x03B1; na figura abaixo mostra o maior valor que o encosto pode reclinar.
+
+&amp;#x003C;img src=&quot;../../../img/94c0a6a09c63a7c32ce6b34f0c7412897f4cf969.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+O valor de &amp;#x03B1; &amp;#x00E9;:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>50&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>90&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>100&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saego 2011). Uma aluna desenhou o seguinte tri&amp;#x00E2;ngulo eq&amp;#x00FC;il&amp;#x00E1;tero no caderno, como indica a figura abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/bc6e700deafb072ce4829bda8563a1e091f149f3.svg&quot; class=&quot;t20&quot;&amp;#x003E;
+
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>30&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>180&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>60&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>

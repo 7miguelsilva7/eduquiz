@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Miguel Silva</dc:creator>
+    <dc:creator>Eduquiz</dc:creator>
+    <dc:creator>Alexandre</dc:creator>
+    <dc:title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS RETOS E N&amp;#x00C3;O RETOS 01</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>FUND. II - MATEM&amp;#x00C1;TICA - &amp;#x00C2;NGULOS RETOS E N&amp;#x00C3;O RETOS 01</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Observe a figura abaixo:
+
+&amp;#x003C;img src=&quot;../../../img/c0952b70af2bc2427360b5e08d09bd336434dc8a.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Se realizarmos um giro de 90&amp;#x00BA; nessa figura, no sentido hor&amp;#x00E1;rio, a figura que encontraremos ser&amp;#x00E1;:
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;../../../img/e84873b502df6574f63134456db32c58d749324d.svg&quot;width=&quot;100px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/317ffcffea6aabc0043583b6c4fe2bbcffb3880a.svg&quot; width=&quot;100px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/b434bd410ff290899125a8a81f4bb86c71a28e2f.svg&quot; width=&quot;100px&quot;&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;../../../img/044d1f2098e0d80e595d7843f1e89527d018f51d.svg&quot; width=&quot;100px&quot;&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Prova Brasil). Os 2 &amp;#x00E2;ngulos formados pelos ponteiros de um rel&amp;#x00F3;gio &amp;#x00E0;s 8 horas medem
+
+&amp;#x003C;img src=&quot;../../../img/dae36a3dfc0dcca62f04a2f6bf768d491c58c5bd.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>60&amp;#x00BA; e 120&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA; e 160&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA; e 240&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>140&amp;#x00BA; e 220&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>O menor &amp;#x00E2;ngulo formado pelos ponteiros de um rel&amp;#x00F3;gio &amp;#x00E0;s 9 horas mede:
+
+&amp;#x003C;img src=&quot;../../../img/697d30facad068792fb14ada67e1b8899e32eea0.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>15&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>270&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>90&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(PROEB). Luciana chegou &amp;#x00E0; escola &amp;#x00E0;s 4 horas, conforme indica o desenho do rel&amp;#x00F3;gio abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/7d170665b7f56c868449cda223bd87d2f7789c1f.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Nesse momento, qual &amp;#x00E9; a medida do &amp;#x00E2;ngulo entre esses dois ponteiros?
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>30&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>60&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>240&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Ana toma um rem&amp;#x00E9;dio de tr&amp;#x00EA;s em tr&amp;#x00EA;s horas. Ela tomou o rem&amp;#x00E9;dio pela 1&amp;#x00AA; vez na hora indicada pelo rel&amp;#x00F3;gio abaixo.
+
+&amp;#x003C;img src=&quot;../../../img/ac816cba59c7c31b81ba8cb1af816ae7d78ea48f.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Na pr&amp;#x00F3;xima vez em que ela tomar o rem&amp;#x00E9;dio, qual ser&amp;#x00E1; o menor &amp;#x00E2;ngulo formado pelos ponteiros das horas
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>15&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>90&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>180&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x003C;img src=&quot;../../../img/dc8f6fa7e03d028504f2c594cfd4245b94a192ff.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+O pol&amp;#x00ED;gono que d&amp;#x00E1; forma a essa cal&amp;#x00E7;ada &amp;#x00E9; invariante por rota&amp;#x00E7;&amp;#x00F5;es, em torno de seu centro, de
+&amp;#x003C;br&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>45&amp;#x00B0;.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>60&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>90&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Concurso publico &amp;#x2013; Eletrobr&amp;#x00E1;s). Considere o pol&amp;#x00ED;gono abaixo:
+
+&amp;#x003C;img src=&quot;../../../img/c8949721957cebd5fa844ed16106b14d14726bdf.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Analise as seguintes afirmativas sobre esse pol&amp;#x00ED;gono:
+
+I &amp;#x2013; possui 11 lados;
+
+II &amp;#x2013; possui 11 &amp;#x00E2;ngulos internos;
+
+III &amp;#x2013; possui 5 &amp;#x00E2;ngulos internos obtusos (maiores que 90o).
+
+&amp;#x00C9;/s&amp;#x00E3;o verdadeira(s) somente:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>I;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>III;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>I e II;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>I, II e III.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2005). Considere o tri&amp;#x00E2;ngulo ABC abaixo. Realizando uma rota&amp;#x00E7;&amp;#x00E3;o de 90o no sentido hor&amp;#x00E1;rio em torno do v&amp;#x00E9;rtice A, observaremos que:
+
+&amp;#x003C;img src=&quot;../../../img/8982e69a5c179718eb993505fd805c615d849075.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>as medidas de &amp;#x003C;b&amp;#x003E;&amp;#x003C;i&amp;#x003E;AB&amp;#x003C;/i&amp;#x003E;&amp;#x003C;/b&amp;#x003E; e &amp;#x03B1; se mant&amp;#x00EA;m.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a medida de &amp;#x003C;b&amp;#x003E;&amp;#x003C;i&amp;#x003E;AB&amp;#x003C;/i&amp;#x003E;&amp;#x003C;/b&amp;#x003E; se mant&amp;#x00E9;m mas a de &amp;#x03B1; n&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>a medida de &amp;#x03B1; se mant&amp;#x00E9;m mas a de &amp;#x003C;b&amp;#x003E;&amp;#x003C;i&amp;#x003E;AB&amp;#x003C;/i&amp;#x003E;&amp;#x003C;/b&amp;#x003E; n&amp;#x00E3;o.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>as medidas de &amp;#x003C;b&amp;#x003E;&amp;#x003C;i&amp;#x003E;AB&amp;#x003C;/i&amp;#x003E;&amp;#x003C;/b&amp;#x003E; e &amp;#x03B1; ir&amp;#x00E3;o alterar-se.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>(Saresp 2007). O movimento completo do limpador do p&amp;#x00E1;ra-brisa de um carro corresponde a um &amp;#x00E2;ngulo raso. Na situa&amp;#x00E7;&amp;#x00E3;o descrita pela figura, admita que o limpador est&amp;#x00E1; girando em sentido hor&amp;#x00E1;rio.
+
+&amp;#x003C;img src=&quot;../../../img/b147584996b5c875986caea5764102a6cdb8a1cf.svg&quot; class=&quot;t10&quot;&amp;#x003E;
+
+
+Calcule a medida do &amp;#x00E2;ngulo que falta para que ele complete o movimento completo.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>50&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>120&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>140&amp;#x00BA;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>160&amp;#x00BA;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correto!</guess-correct>
+<guess-incorrect>Desculpe! Tente novamente.</guess-incorrect>
+<partly-incorrect>Sua resposta esta parcialmente errada:</partly-incorrect>
+<enter-a-guess>Digite um palpite.</enter-a-guess>
+<next-correct-letter>Pr&amp;#x00F3;xima letra correta na resposta:</next-correct-letter>
+<correct-answers>Respostas corretas:</correct-answers>
+<show-answer-caption>Mostre a resposta</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>proxima.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9; </your-score-is>
+<correct-indicator>&amp;#x003C;img src=&quot;../../../img/certo.gif&quot; alt=&quot;certo.gif&quot; title=&quot;certo&quot; width=&quot;50&quot; height=&quot;50&quot;&amp;#x003E;</correct-indicator>
+<incorrect-indicator>&amp;#x003C;img src=&quot;../../../img/errado.gif&quot; alt=&quot;errado.gif&quot; title=&quot;errado&quot; width=&quot;50&quot; height=&quot;36&quot;&amp;#x003E;</incorrect-indicator>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<completed-so-far>Perguntas conclu&amp;#x00ED;das at&amp;#x00E9; agora:</completed-so-far>
+<exercise-completed>Voc&amp;#x00EA; concluiu o exerc&amp;#x00ED;cio.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</back-caption>
+<contents-caption>p&amp;#x00E1;gina principal</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>100%</font-size>
+<page-bg-color>#f8f9fa</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#d4d4d4</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Perguntas respondidas corretamente na primeira vez:</correct-first-time>
+<check-caption>Verifica</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x003C;img src=&quot;../../../img/go.png&quot; width=&quot;50px&quot; alt=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot; title=&quot;pr&amp;#x00F3;xima quest&amp;#x00E3;o&quot;&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;img src=&quot;../../../img/back.png&quot; width=&quot;50px&quot; alt=&quot;quest&amp;#x00E3;o anterior&quot; title=&quot;quest&amp;#x00E3;o anterior&quot;&amp;#x003E;</last-q-caption>
+<hint-caption>Sugest&amp;#x00E3;o</hint-caption>
+<show-all-questions-caption>Mostrar todas as perguntas</show-all-questions-caption>
+<show-one-by-one-caption>Mostrar perguntas uma a uma</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
